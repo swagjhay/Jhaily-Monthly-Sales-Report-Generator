@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Jhaily — Report on its way</title>
+<style>
+  :root {
+    --paper: #FAF9F4;
+    --ink: #1E2A3A;
+    --ink-soft: #4A5568;
+    --green: #3C6E52;
+    --rule: #DAD5C7;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--paper);
+    color: var(--ink);
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    line-height: 1.55;
+  }
+  .wrap { max-width: 560px; margin: 0 auto; padding: 0 24px; }
+  header { padding: 28px 0 24px; border-bottom: 1px solid var(--rule); }
+  .wordmark { font-family: Georgia, serif; font-size: 22px; }
+  .wordmark span { color: var(--green); }
+  main { padding: 64px 0; text-align: left; }
+  .mark {
+    width: 40px; height: 40px; border-radius: 50%;
+    background: var(--green); color: white;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 20px; margin-bottom: 22px;
+  }
+  h1 { font-family: Georgia, serif; font-weight: 400; font-size: 28px; margin: 0 0 14px; }
+  p { color: var(--ink-soft); font-size: 16px; max-width: 44ch; }
+  a { color: var(--green); }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <header><div class="wordmark">Jhai<span>ly</span></div></header>
+    <main>
+      <div class="mark" aria-hidden="true">&#10003;</div>
+      <h1>Your report is on its way</h1>
+      <p>We're cleaning up your file and putting the numbers together now. It'll land at <strong>{{ email }}</strong> shortly. If it doesn't show up within a few minutes, check spam — or email <a href="mailto:support@jhaily.app">support@jhaily.app</a>.</p>
+      <p><a href="/">&larr; Send another file</a></p>
+    </main>
+  </div>
+</body>
+</html>

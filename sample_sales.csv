@@ -1,0 +1,1516 @@
+transaction_id,date,item,category,quantity,unit_price,payment_method
+716,09-Apr-2025,Avocado Toast,Food,2,7.5,Cash
+72,2025-01-14,Drip Coffee,Drinks,1,2.75,Cash
+1351,01/30/2025,Bagel,Food,1,2.95,Mobile
+1190,2025-02-10,Latte,Drinks,1,4.5,Mobile
+1408,2025-02-04,Avocado Toast,Food,1,7.5,Mobile
+386,19-Apr-2025,Drip Coffee,Drinks,1,2.75,Cash
+1500,04/11/2025,Bagel,Food,2,2.95,Mobile
+1419,03/17/2025,Cold Brew,Drinks,1,4.75,Card
+795,11-Feb-2025,Drip Coffee,Drinks,2,2.75,Mobile
+60,02/27/2025,Avocado Toast,Food,2,7.5,Mobile
+776,01/19/2025,Blueberry Muffin,Food,1,3.0,Cash
+756,2025-01-20,Cold Brew,Drinks,2,4.75,Mobile
+1057,2025-01-09,Latte,Drinks,1,4.5,Card
+439,2025-02-19,Drip Coffee,Drinks,1,2.75,Cash
+38,12-Mar-2025,Cappuccino,Drinks,3,4.25,Mobile
+749,04/06/2025,Avocado Toast,Food,1,7.5,Card
+917,02-Apr-2025,Latte,Drinks,3,4.5,Mobile
+1205,2025-01-14,Drip Coffee,Drinks,3,2.75,Card
+1112,02-Jan-2025,Drip Coffee,Drinks,1,2.75,Mobile
+1106,16-Apr-2025,Drip Coffee,Drinks,2,2.75,Card
+1275,2025-01-19,Blueberry Muffin,Food,2,3.0,Card
+109,03/26/2025,Avocado Toast,Food,2,7.5,Mobile
+1447,11-Feb-2025,Bagel,Food,2,2.95,Card
+1435,01/02/2025,Blueberry Muffin,Food,2,3.0,Card
+1365,02/23/2025,Cappuccino,Drinks,2,4.25,Card
+786,2025-04-30,Blueberry Muffin,Food,1,3.0,Cash
+845,2025-04-06,Avocado Toast,Food,3,7.5,Cash
+1382,03/26/2025,Cold Brew,Drinks,2,4.75,Card
+543,2025-04-15,Croissant,Food,2,3.25,Card
+119,15-Feb-2025,Avocado Toast,Food,2,7.5,Cash
+70,01/26/2025,Latte,Drinks,1,4.5,Mobile
+1321,24-Feb-2025,Cappuccino,Drinks,2,4.25,Cash
+880,2025-04-13,Croissant,Food,1,3.25,Cash
+393,2025-02-19,Latte,Drinks,1,4.5,Cash
+442,02-Apr-2025,Cappuccino,Drinks,1,4.25,Mobile
+296,08-Feb-2025,Croissant,Food,2,3.25,Cash
+348,11-Jan-2025,Drip Coffee,Drinks,1,2.75,Cash
+1290,04/30/2025,Latte,Drinks,2,4.5,Cash
+5,2025-04-04,Croissant,Food,1,3.25,Mobile
+259,18-Feb-2025,Avocado Toast,Food,2,7.5,Card
+1130,27-Mar-2025,Cold Brew,Drinks,2,4.75,Mobile
+90,08-Feb-2025,Bagel,Food,2,2.95,Mobile
+175,26-Feb-2025,  DRIP COFFEE  ,Drinks,3,2.75,Cash
+1019,01/10/2025,Cappuccino,Drinks,1,4.25,Cash
+1202,23-Apr-2025,Bagel,Food,1,2.95,Card
+709,02/27/2025,Drip Coffee,Drinks,3,2.75,Mobile
+589,01/25/2025,  BAGEL  ,Food,3,2.95,Cash
+1353,03-Jan-2025,Croissant,Food,1,3.25,Card
+1156,02/02/2025,Avocado Toast,Food,3,7.5,Cash
+551,2025-02-05,Drip Coffee,Drinks,2,2.75,Cash
+1082,07-Feb-2025,Cold Brew,Drinks,2,4.75,Card
+268,04-Feb-2025,Cold Brew,Drinks,1,4.75,Mobile
+446,15-Jan-2025,Cappuccino,Drinks,1,4.25,Card
+1401,2025-02-05,Latte,Drinks,1,4.5,Cash
+1184,03/06/2025,Croissant,Food,2,3.25,Mobile
+365,2025-03-17,Avocado Toast,Food,1,7.5,Cash
+968,2025-03-03,,Drinks,1,4.25,Card
+701,05-Jan-2025,Blueberry Muffin,Food,1,3.0,Card
+1258,2025-04-24,Latte,Drinks,1,4.5,Mobile
+889,03/16/2025,Blueberry Muffin,Food,1,3.0,Card
+732,2025-03-10,Croissant,Food,-2,3.25,Card
+398,2025-02-06,Croissant,Food,3,3.25,Card
+1440,01/11/2025,Blueberry Muffin,Food,2,3.0,Mobile
+1048,2025-02-21,Blueberry Muffin,Food,2,3.0,Cash
+913,22-Jan-2025,Croissant,Food,2,3.25,Card
+67,2025-03-24,Latte,Drinks,1,4.5,Card
+302,28-Mar-2025,Cappuccino,Drinks,2,4.25,Cash
+354,05-Mar-2025,Blueberry Muffin,Food,1,3.0,Mobile
+687,2025-04-15,Blueberry Muffin,Food,1,3.0,Mobile
+612,09-Feb-2025,Avocado Toast,Food,1,7.5,Card
+526,03-Mar-2025,Cappuccino,Drinks,-1,4.25,Mobile
+595,04/17/2025,Cappuccino,Drinks,1,4.25,Card
+942,02/02/2025,Blueberry Muffin,Food,2,3.0,Cash
+9,2025-02-11,Cold Brew,Drinks,3,4.75,Cash
+459,03/24/2025,Latte,Drinks,1,4.5,Card
+494,03/22/2025,Avocado Toast,Food,2,7.5,Mobile
+1284,2025-01-06,Croissant,Food,1,3.25,Mobile
+1246,01/04/2025,Blueberry Muffin,Food,2,3.0,Card
+996,2025-02-27,Blueberry Muffin,Food,2,3.0,Card
+29,2025-02-24,Bagel,Food,1,2.95,Card
+1051,01-Feb-2025,Avocado Toast,Food,3,7.5,Card
+1466,04/11/2025,Blueberry Muffin,Food,1,3.0,Card
+573,02/08/2025,  BAGEL  ,Food,2,2.95,Mobile
+840,03/01/2025,Cold Brew,Drinks,1,4.75,Card
+1213,27-Mar-2025,Cappuccino,Drinks,3,4.25,Mobile
+389,09-Feb-2025,Drip Coffee,Drinks,-2,2.75,Mobile
+1356,02/17/2025,Avocado Toast,Food,3,7.5,Cash
+509,2025-02-03,Latte,Drinks,2,4.5,Cash
+987,04/30/2025,Cappuccino,Drinks,1,4.25,Mobile
+1185,06-Apr-2025,Avocado Toast,Food,1,7.5,Mobile
+1315,04/29/2025,Avocado Toast,Food,2,7.5,Cash
+1018,2025-04-28,Croissant,Food,3,3.25,Mobile
+1223,2025-03-16,Bagel,Food,2,2.95,Mobile
+636,01/04/2025,Drip Coffee,Drinks,1,2.75,Mobile
+1125,2025-01-01,Blueberry Muffin,Food,-1,3.0,Cash
+492,2025-04-15,Avocado Toast,Food,3,7.5,Card
+1242,2025-02-02,Avocado Toast,Food,1,7.5,Card
+846,2025-04-21,Avocado Toast,Food,1,7.5,Mobile
+608,2025-01-12,Croissant,Food,1,3.25,Cash
+84,2025-04-05,Cold Brew,Drinks,1,4.75,Card
+218,01-Mar-2025,Bagel,Food,2,,Cash
+1393,01/15/2025,Cold Brew,Drinks,3,4.75,Mobile
+1404,15-Mar-2025,Bagel,Food,1,2.95,Card
+1068,2025-04-05,Bagel,Food,2,2.95,Mobile
+1338,27-Jan-2025,Croissant,Food,1,3.25,Card
+396,25-Apr-2025,Cappuccino,Drinks,2,4.25,Card
+327,04/07/2025,Cappuccino,Drinks,1,4.25,Mobile
+382,10-Feb-2025,Cold Brew,Drinks,2,4.75,Cash
+865,01/28/2025,Avocado Toast,Food,3,7.5,Mobile
+610,2025-04-14,Latte,Drinks,3,4.5,Cash
+485,29-Jan-2025,Blueberry Muffin,Food,2,3.0,Mobile
+267,2025-02-01,Drip Coffee,Drinks,2,2.75,Card
+940,17-Apr-2025,Cold Brew,Drinks,1,4.75,Cash
+900,2025-01-03,Latte,Drinks,2,4.5,Cash
+6,01/25/2025,Blueberry Muffin,Food,2,3.0,Card
+198,17-Jan-2025,Bagel,Food,1,2.95,Card
+894,01/12/2025,,Food,-1,7.5,Card
+237,03/31/2025,Croissant,Food,2,3.25,Mobile
+1325,02/13/2025,Latte,Drinks,1,4.5,Mobile
+639,2025-01-29,Croissant,Food,2,3.25,Mobile
+647,02/11/2025,Cappuccino,Drinks,1,4.25,Card
+1219,04/17/2025,Blueberry Muffin,Food,1,3.0,Cash
+1171,2025-01-19,Drip Coffee,Drinks,3,2.75,Card
+704,2025-01-07,Croissant,Food,2,,Mobile
+143,27-Feb-2025,Cold Brew,Drinks,2,4.75,Card
+1363,01/30/2025,Bagel,Food,2,2.95,Mobile
+1146,22-Mar-2025,Blueberry Muffin,Food,2,3.0,Card
+952,2025-01-27,Croissant,Food,2,3.25,Mobile
+1389,2025-03-31,Cappuccino,Drinks,1,4.25,Mobile
+341,2025-01-12,Bagel,Food,1,2.95,Cash
+514,03/02/2025,Blueberry Muffin,Food,2,3.0,Mobile
+246,03-Feb-2025,Cold Brew,Drinks,1,4.75,Mobile
+598,03/13/2025,Latte,Drinks,1,4.5,Mobile
+949,04/15/2025,Latte,Drinks,1,4.5,Card
+738,04/18/2025,Drip Coffee,Drinks,1,2.75,Card
+154,03/27/2025,Bagel,Food,2,2.95,Cash
+751,2025-02-28,Cold Brew,Drinks,2,4.75,Cash
+1066,02/27/2025,Cold Brew,Drinks,1,4.75,Card
+19,03/02/2025,Drip Coffee,Drinks,3,2.75,Mobile
+82,12-Mar-2025,Blueberry Muffin,Food,2,3.0,Cash
+57,15-Mar-2025,Avocado Toast,Food,3,7.5,Mobile
+933,04/15/2025,,Drinks,1,4.75,Cash
+118,02/02/2025,Avocado Toast,Food,3,7.5,Card
+706,04/11/2025,Croissant,Food,3,3.25,Mobile
+55,01/22/2025,Bagel,Food,3,2.95,Card
+659,03-Apr-2025,Cappuccino,Drinks,2,4.25,Cash
+477,2025-04-18,Croissant,Food,1,3.25,Cash
+958,01/29/2025,Bagel,Food,1,2.95,Card
+946,03/01/2025,Latte,Drinks,1,,Cash
+777,28-Feb-2025,Bagel,Food,1,2.95,Cash
+1377,03/10/2025,,Drinks,2,4.5,Cash
+1478,02/04/2025,Drip Coffee,Drinks,1,2.75,Card
+717,12-Mar-2025,,Drinks,1,2.75,Card
+406,04/07/2025,Drip Coffee,Drinks,1,2.75,Card
+576,03/25/2025,Croissant,Food,1,3.25,Card
+846,2025-04-21,Avocado Toast,Food,1,7.5,Mobile
+1430,2025-03-22,Croissant,Food,1,3.25,Mobile
+1037,01/18/2025,Cappuccino,Drinks,1,4.25,Card
+790,2025-01-23,Croissant,Food,2,3.25,Cash
+8,23-Mar-2025,Cappuccino,Drinks,2,4.25,Mobile
+821,27-Feb-2025,Cappuccino,Drinks,2,4.25,Mobile
+13,2025-02-24,Drip Coffee,Drinks,3,2.75,Mobile
+1407,22-Feb-2025,Bagel,Food,1,2.95,Mobile
+1174,02/23/2025,Cold Brew,Drinks,2,4.75,Cash
+139,06-Mar-2025,Cappuccino,Drinks,2,4.25,Mobile
+1455,24-Jan-2025,Croissant,Food,1,3.25,Mobile
+1182,02/13/2025,Avocado Toast,Food,3,,Mobile
+707,2025-03-21,  CROISSANT  ,Food,3,3.25,Cash
+23,2025-01-17,Cold Brew,Drinks,2,4.75,Cash
+1337,11-Mar-2025,Blueberry Muffin,Food,3,3.0,Cash
+691,03/26/2025,Latte,Drinks,1,4.5,Card
+136,04/20/2025,Latte,Drinks,1,4.5,Mobile
+504,2025-03-26,Blueberry Muffin,Food,2,3.0,Cash
+458,03/26/2025,Cappuccino,Drinks,2,4.25,Mobile
+720,2025-03-31,Drip Coffee,Drinks,1,2.75,Cash
+79,2025-02-15,Bagel,Food,1,2.95,Mobile
+242,2025-01-02,Croissant,Food,1,3.25,Mobile
+251,01/15/2025,Cappuccino,Drinks,2,4.25,Card
+1443,02/16/2025,Blueberry Muffin,Food,2,3.0,Card
+1395,27-Jan-2025,Latte,Drinks,2,4.5,Card
+323,2025-01-28,Bagel,Food,2,2.95,Card
+1480,2025-02-19,Blueberry Muffin,Food,2,3.0,Card
+185,2025-03-07,Latte,Drinks,-3,4.5,Card
+289,2025-03-23,Blueberry Muffin,Food,1,3.0,Cash
+920,23-Apr-2025,Avocado Toast,Food,1,7.5,Card
+22,09-Jan-2025,Latte,Drinks,1,4.5,Cash
+280,2025-01-14,Avocado Toast,Food,1,7.5,Cash
+1385,13-Mar-2025,Cappuccino,Drinks,2,4.25,Cash
+518,2025-01-24,Cold Brew,Drinks,1,4.75,Cash
+110,04/22/2025,Blueberry Muffin,Food,-1,3.0,Cash
+419,2025-03-18,Blueberry Muffin,Food,2,3.0,Card
+1289,2025-02-04,Cappuccino,Drinks,3,4.25,Card
+723,02/20/2025,Cold Brew,Drinks,2,4.75,Mobile
+240,08-Jan-2025,Croissant,Food,3,3.25,Card
+966,10-Mar-2025,,Food,2,3.25,Card
+1270,02/25/2025,Bagel,Food,2,2.95,Card
+655,2025-04-28,Croissant,Food,1,3.25,Mobile
+805,04/20/2025,Blueberry Muffin,Food,1,3.0,Mobile
+928,2025-03-13,Avocado Toast,Food,2,7.5,Cash
+1085,2025-04-04,Cappuccino,Drinks,2,4.25,Card
+217,04/21/2025,Avocado Toast,Food,1,7.5,Card
+1280,02/04/2025,Bagel,Food,1,,Mobile
+454,2025-01-17,Drip Coffee,Drinks,1,2.75,Mobile
+513,29-Jan-2025,Blueberry Muffin,Food,1,3.0,Card
+305,2025-03-24,Blueberry Muffin,Food,1,3.0,Cash
+1316,2025-03-22,Blueberry Muffin,Food,2,3.0,Card
+1001,03/25/2025,Latte,Drinks,2,4.5,Mobile
+444,03/12/2025,Avocado Toast,Food,1,7.5,Cash
+1300,02/09/2025,Croissant,Food,3,3.25,Card
+1450,2025-02-21,Avocado Toast,Food,3,7.5,Mobile
+810,2025-03-05,Cappuccino,Drinks,1,4.25,Card
+24,01/13/2025,Cold Brew,Drinks,1,4.75,Mobile
+1222,03-Jan-2025,Cappuccino,Drinks,3,4.25,Card
+26,24-Jan-2025,Drip Coffee,Drinks,2,2.75,Card
+473,27-Jan-2025,Cold Brew,Drinks,1,4.75,Mobile
+560,03-Jan-2025,Croissant,Food,1,3.25,Mobile
+1296,07-Apr-2025,Croissant,Food,1,3.25,Cash
+316,03/17/2025,Croissant,Food,2,3.25,Cash
+388,04/01/2025,Blueberry Muffin,Food,1,3.0,Mobile
+216,2025-01-31,Cappuccino,Drinks,1,4.25,Cash
+541,15-Apr-2025,Blueberry Muffin,Food,1,3.0,Card
+123,27-Apr-2025,Drip Coffee,Drinks,1,2.75,Cash
+265,02/23/2025,Blueberry Muffin,Food,3,3.0,Card
+1077,2025-02-17,Cappuccino,Drinks,2,4.25,Card
+456,28-Apr-2025,Drip Coffee,Drinks,2,2.75,Cash
+548,05-Apr-2025,Cold Brew,Drinks,1,4.75,Cash
+522,2025-01-28,Croissant,Food,1,3.25,Mobile
+293,2025-01-04,Avocado Toast,Food,1,7.5,Card
+152,20-Jan-2025,Cappuccino,Drinks,1,4.25,Cash
+210,12-Mar-2025,Cold Brew,Drinks,3,4.75,Card
+263,2025-02-08,Blueberry Muffin,Food,1,3.0,Card
+344,03/05/2025,Latte,Drinks,1,4.5,Cash
+278,2025-01-08,Bagel,Food,1,2.95,Card
+64,2025-02-18,Latte,Drinks,2,4.5,Mobile
+751,2025-02-28,Cold Brew,Drinks,2,4.75,Cash
+1369,06-Jan-2025,Cappuccino,Drinks,3,4.25,Cash
+380,30-Jan-2025,Blueberry Muffin,Food,2,3.0,Card
+172,03/27/2025,Cappuccino,Drinks,3,4.25,Cash
+1378,26-Feb-2025,Avocado Toast,Food,3,7.5,Card
+429,02/15/2025,Bagel,Food,3,2.95,Cash
+884,2025-03-18,Croissant,Food,2,3.25,Mobile
+338,2025-01-10,Drip Coffee,Drinks,2,2.75,Cash
+813,02/21/2025,Drip Coffee,Drinks,2,2.75,Card
+489,2025-04-27,Croissant,Food,1,3.25,Card
+169,12-Feb-2025,Blueberry Muffin,Food,1,3.0,Mobile
+1005,2025-02-23,Blueberry Muffin,Food,1,3.0,Cash
+1105,04-Apr-2025,Cappuccino,Drinks,3,4.25,Mobile
+241,2025-04-23,Drip Coffee,Drinks,2,2.75,Card
+1251,02/23/2025,Latte,Drinks,1,4.5,Mobile
+1359,14-Mar-2025,Cappuccino,Drinks,1,4.25,Card
+768,01/11/2025,Bagel,Food,1,2.95,Cash
+436,2025-04-08,Drip Coffee,Drinks,2,2.75,Mobile
+1135,03/02/2025,Avocado Toast,Food,1,7.5,Card
+887,03/29/2025,Drip Coffee,Drinks,1,2.75,Mobile
+578,2025-03-10,  DRIP COFFEE  ,Drinks,1,2.75,Mobile
+52,02/09/2025,Croissant,Food,2,3.25,Cash
+620,2025-04-05,Cappuccino,Drinks,1,4.25,Card
+1225,2025-02-17,Avocado Toast,Food,1,7.5,Cash
+413,15-Apr-2025,Latte,Drinks,1,4.5,Card
+1375,04-Mar-2025,Croissant,Food,1,3.25,Card
+764,01-Apr-2025,Cappuccino,Drinks,2,4.25,Cash
+976,13-Apr-2025,  COLD BREW  ,Drinks,1,4.75,Cash
+1186,03/01/2025,Cappuccino,Drinks,3,4.25,Cash
+1344,29-Apr-2025,Avocado Toast,Food,3,7.5,Mobile
+733,06-Jan-2025,Blueberry Muffin,Food,3,3.0,Mobile
+1199,2025-04-01,Cappuccino,Drinks,1,4.25,Mobile
+741,23-Jan-2025,Latte,Drinks,1,4.5,Cash
+495,2025-03-16,  CAPPUCCINO  ,Drinks,3,4.25,Mobile
+870,06-Feb-2025,Blueberry Muffin,Food,2,3.0,Cash
+479,27-Mar-2025,  CROISSANT  ,Food,3,3.25,Cash
+343,2025-04-23,Latte,Drinks,3,4.5,Mobile
+815,08-Apr-2025,Bagel,Food,1,2.95,Cash
+491,01/09/2025,Latte,Drinks,3,4.5,Card
+1342,02/25/2025,Drip Coffee,Drinks,3,2.75,Mobile
+1075,27-Apr-2025,Blueberry Muffin,Food,2,3.0,Cash
+112,03/22/2025,Avocado Toast,Food,1,7.5,Card
+420,17-Apr-2025,Croissant,Food,3,3.25,Card
+1364,2025-03-28,Cold Brew,Drinks,2,4.75,Card
+1121,04/18/2025,Cappuccino,Drinks,1,4.25,Cash
+1304,2025-03-26,Drip Coffee,Drinks,3,2.75,Cash
+89,13-Mar-2025,Cold Brew,Drinks,1,4.75,Cash
+1383,2025-03-28,Avocado Toast,Food,1,7.5,Cash
+326,05-Feb-2025,Blueberry Muffin,Food,2,3.0,Cash
+376,2025-02-07,Cold Brew,Drinks,3,4.75,Card
+157,2025-01-03,Latte,Drinks,2,4.5,Mobile
+197,03/23/2025,Cappuccino,Drinks,3,4.25,Card
+168,02/17/2025,Drip Coffee,Drinks,1,2.75,Mobile
+3,27-Feb-2025,Avocado Toast,Food,1,,Cash
+858,01/29/2025,,Food,2,7.5,Card
+271,2025-02-18,Blueberry Muffin,Food,1,3.0,Cash
+991,04-Apr-2025,Bagel,Food,1,2.95,Cash
+1017,31-Mar-2025,Cappuccino,Drinks,2,4.25,Mobile
+950,03/18/2025,Bagel,Food,1,2.95,Mobile
+192,2025-04-21,Croissant,Food,1,3.25,Cash
+957,2025-01-23,Blueberry Muffin,Food,2,3.0,Card
+724,2025-04-02,Cappuccino,Drinks,2,4.25,Card
+32,21-Apr-2025,Cappuccino,Drinks,3,4.25,Card
+471,2025-03-19,Avocado Toast,Food,2,7.5,Cash
+1060,01/22/2025,Cappuccino,Drinks,3,4.25,Mobile
+269,01/27/2025,Cold Brew,Drinks,-2,4.75,Mobile
+328,2025-01-19,Drip Coffee,Drinks,1,2.75,Card
+785,2025-04-25,Avocado Toast,Food,3,7.5,Cash
+926,02/11/2025,Cold Brew,Drinks,1,4.75,Mobile
+652,2025-04-14,  BAGEL  ,Food,2,2.95,Cash
+1129,02/06/2025,  CAPPUCCINO  ,Drinks,1,4.25,Mobile
+1484,04/08/2025,  AVOCADO TOAST  ,Food,2,7.5,Cash
+736,01/09/2025,Drip Coffee,Drinks,2,2.75,Card
+206,04/02/2025,Croissant,Food,2,3.25,Card
+450,13-Jan-2025,Bagel,Food,1,2.95,Cash
+921,01/12/2025,Croissant,Food,1,3.25,Card
+1047,02-Mar-2025,Drip Coffee,Drinks,3,,Mobile
+867,02/02/2025,Latte,Drinks,1,4.5,Mobile
+1417,02/14/2025,Drip Coffee,Drinks,-1,2.75,Cash
+1026,03/30/2025,Cappuccino,Drinks,2,,Card
+638,2025-04-20,Blueberry Muffin,Food,1,3.0,Card
+1471,2025-01-23,Avocado Toast,Food,1,7.5,Cash
+993,03/16/2025,Bagel,Food,1,2.95,Card
+1454,02/28/2025,Drip Coffee,Drinks,1,2.75,Cash
+94,01/29/2025,Cappuccino,Drinks,2,4.25,Cash
+176,03/10/2025,Bagel,Food,1,2.95,Cash
+71,31-Mar-2025,Cold Brew,Drinks,2,4.75,Card
+243,19-Apr-2025,Bagel,Food,1,2.95,Cash
+196,06-Jan-2025,Blueberry Muffin,Food,2,3.0,Card
+484,03/20/2025,Latte,Drinks,3,4.5,Mobile
+452,2025-02-15,Drip Coffee,Drinks,1,2.75,Cash
+294,02/19/2025,Croissant,Food,2,3.25,Mobile
+1089,13-Jan-2025,Drip Coffee,Drinks,1,2.75,Mobile
+565,20-Apr-2025,  DRIP COFFEE  ,Drinks,1,2.75,Mobile
+46,04/20/2025,Avocado Toast,Food,1,7.5,Card
+986,2025-01-23,Cold Brew,Drinks,1,,Mobile
+345,2025-02-19,Blueberry Muffin,Food,1,3.0,Card
+487,04/16/2025,Bagel,Food,2,2.95,Mobile
+696,01/18/2025,Drip Coffee,Drinks,2,2.75,Cash
+520,03/15/2025,Latte,Drinks,1,4.5,Card
+859,2025-02-03,Bagel,Food,1,2.95,Card
+713,2025-04-01,Avocado Toast,Food,3,7.5,Cash
+1015,2025-04-23,Croissant,Food,3,3.25,Mobile
+100,12-Jan-2025,Latte,Drinks,2,4.5,Card
+1384,03/23/2025,Drip Coffee,Drinks,1,2.75,Cash
+1427,03/20/2025,Avocado Toast,Food,1,7.5,Mobile
+540,17-Mar-2025,,Food,2,7.5,Cash
+856,03/29/2025,Drip Coffee,Drinks,2,2.75,Cash
+1388,2025-02-27,Croissant,Food,2,3.25,Mobile
+37,2025-04-15,Latte,Drinks,3,4.5,Card
+62,01/11/2025,Blueberry Muffin,Food,2,3.0,Cash
+1271,04-Feb-2025,Latte,Drinks,2,4.5,Mobile
+184,2025-01-07,Croissant,Food,1,3.25,Mobile
+593,01/31/2025,Blueberry Muffin,Food,2,3.0,Mobile
+1095,15-Mar-2025,Avocado Toast,Food,1,7.5,Card
+4,2025-01-20,Blueberry Muffin,Food,1,3.0,Cash
+1122,2025-04-27,Cappuccino,Drinks,1,4.25,Cash
+1358,18-Feb-2025,Blueberry Muffin,Food,1,3.0,Card
+1422,02-Mar-2025,Drip Coffee,Drinks,1,2.75,Cash
+438,2025-01-25,,Food,2,3.0,Cash
+1499,17-Apr-2025,Croissant,Food,2,3.25,Mobile
+955,25-Apr-2025,Avocado Toast,Food,2,7.5,Mobile
+1086,2025-04-07,Drip Coffee,Drinks,1,2.75,Cash
+379,2025-03-18,Latte,Drinks,1,4.5,Mobile
+120,14-Mar-2025,Croissant,Food,1,3.25,Cash
+892,2025-03-10,  CAPPUCCINO  ,Drinks,2,,Mobile
+679,19-Feb-2025,Latte,Drinks,1,4.5,Mobile
+1021,20-Feb-2025,  AVOCADO TOAST  ,Food,1,7.5,Mobile
+1116,2025-04-04,Cappuccino,Drinks,1,4.25,Mobile
+1064,2025-03-20,Avocado Toast,Food,2,7.5,Mobile
+159,2025-02-25,Blueberry Muffin,Food,1,3.0,Cash
+708,05-Feb-2025,Drip Coffee,Drinks,2,2.75,Mobile
+339,04/10/2025,Drip Coffee,Drinks,2,2.75,Mobile
+1169,2025-01-24,Blueberry Muffin,Food,2,3.0,Cash
+835,04/08/2025,Bagel,Food,3,2.95,Mobile
+1465,2025-04-14,Cappuccino,Drinks,2,4.25,Mobile
+1262,2025-01-10,Cold Brew,Drinks,3,4.75,Cash
+584,03/03/2025,Cappuccino,Drinks,1,4.25,Card
+252,26-Feb-2025,Blueberry Muffin,Food,2,3.0,Cash
+307,02/20/2025,Bagel,Food,1,2.95,Cash
+1078,24-Feb-2025,Cold Brew,Drinks,2,4.75,Mobile
+833,2025-02-13,Cappuccino,Drinks,2,4.25,Card
+1118,02-Jan-2025,Cappuccino,Drinks,2,4.25,Mobile
+771,16-Mar-2025,Blueberry Muffin,Food,2,3.0,Mobile
+501,24-Jan-2025,Cold Brew,Drinks,1,4.75,Cash
+1084,2025-03-12,Drip Coffee,Drinks,1,2.75,Cash
+417,2025-04-23,Drip Coffee,Drinks,1,2.75,Mobile
+1291,02/09/2025,Croissant,Food,2,3.25,Mobile
+1210,2025-01-28,Avocado Toast,Food,2,7.5,Cash
+1468,06-Feb-2025,  LATTE  ,Drinks,2,4.5,Mobile
+33,26-Mar-2025,Cappuccino,Drinks,2,4.25,Cash
+76,23-Jan-2025,Drip Coffee,Drinks,2,2.75,Cash
+962,09-Jan-2025,Drip Coffee,Drinks,3,2.75,Cash
+596,2025-03-24,Latte,Drinks,2,4.5,Card
+178,07-Jan-2025,Drip Coffee,Drinks,1,2.75,Card
+1350,2025-04-25,Cappuccino,Drinks,1,4.25,Cash
+774,01/23/2025,Croissant,Food,1,3.25,Card
+1273,23-Mar-2025,Cold Brew,Drinks,1,4.75,Mobile
+1036,01/03/2025,Latte,Drinks,1,4.5,Mobile
+1451,06-Jan-2025,Avocado Toast,Food,1,7.5,Card
+1012,2025-02-25,Cold Brew,Drinks,1,4.75,Mobile
+88,2025-03-15,Bagel,Food,1,2.95,Card
+1034,03/23/2025,Blueberry Muffin,Food,1,3.0,Cash
+224,18-Jan-2025,Latte,Drinks,1,4.5,Card
+772,02/08/2025,Bagel,Food,2,2.95,Cash
+1124,2025-04-25,Latte,Drinks,2,4.5,Cash
+657,2025-04-18,Cappuccino,Drinks,2,4.25,Cash
+1276,2025-04-08,Drip Coffee,Drinks,3,2.75,Card
+1162,02/01/2025,Latte,Drinks,1,4.5,Card
+28,2025-01-28,Bagel,Food,-2,2.95,Cash
+1493,03/07/2025,Avocado Toast,Food,2,7.5,Card
+909,01/07/2025,Cappuccino,Drinks,3,4.25,Card
+1357,04-Jan-2025,Drip Coffee,Drinks,2,2.75,Mobile
+486,02/14/2025,Avocado Toast,Food,1,7.5,Mobile
+841,01/04/2025,Croissant,Food,1,3.25,Mobile
+1233,2025-01-25,Cold Brew,Drinks,1,4.75,Mobile
+1457,04/01/2025,Avocado Toast,Food,2,7.5,Cash
+571,2025-03-03,Croissant,Food,1,3.25,Card
+972,01/07/2025,Latte,Drinks,2,4.5,Mobile
+369,2025-04-17,Latte,Drinks,1,4.5,Mobile
+117,2025-03-28,Bagel,Food,1,2.95,Mobile
+310,02/08/2025,  BLUEBERRY MUFFIN  ,Food,1,,Mobile
+871,10-Feb-2025,Avocado Toast,Food,1,7.5,Mobile
+511,31-Jan-2025,Latte,Drinks,3,4.5,Card
+161,04/15/2025,Blueberry Muffin,Food,3,3.0,Mobile
+275,04/03/2025,Croissant,Food,2,3.25,Card
+1244,21-Mar-2025,Croissant,Food,1,3.25,Card
+515,03-Feb-2025,Croissant,Food,3,3.25,Mobile
+572,01-Jan-2025,Croissant,Food,1,3.25,Card
+402,02/03/2025,Bagel,Food,1,2.95,Mobile
+837,04/04/2025,Avocado Toast,Food,2,7.5,Mobile
+1348,2025-02-09,Latte,Drinks,1,4.5,Card
+1256,29-Jan-2025,,Drinks,1,4.25,Mobile
+1194,21-Jan-2025,Drip Coffee,Drinks,3,2.75,Cash
+448,01/02/2025,Cold Brew,Drinks,1,4.75,Card
+681,2025-01-17,Bagel,Food,2,2.95,Mobile
+747,20-Mar-2025,Croissant,Food,1,3.25,Card
+424,14-Jan-2025,  AVOCADO TOAST  ,Food,2,7.5,Mobile
+561,02/15/2025,Drip Coffee,Drinks,1,2.75,Cash
+703,02-Mar-2025,Cappuccino,Drinks,1,4.25,Mobile
+355,2025-04-05,Cappuccino,Drinks,1,4.25,Cash
+1139,23-Feb-2025,Blueberry Muffin,Food,-3,3.0,Mobile
+1234,01/11/2025,Latte,Drinks,1,4.5,Card
+277,02/22/2025,Latte,Drinks,1,4.5,Mobile
+1177,02/16/2025,Latte,Drinks,1,4.5,Mobile
+1175,02-Apr-2025,Cappuccino,Drinks,2,4.25,Card
+1214,20-Jan-2025,Blueberry Muffin,Food,1,3.0,Cash
+864,2025-03-16,Cold Brew,Drinks,1,,Mobile
+221,2025-02-21,Blueberry Muffin,Food,1,3.0,Mobile
+850,2025-02-19,  COLD BREW  ,Drinks,2,4.75,Card
+558,02/08/2025,Blueberry Muffin,Food,2,3.0,Card
+682,2025-01-30,Bagel,Food,2,2.95,Cash
+807,2025-04-28,Cappuccino,Drinks,1,4.25,Mobile
+761,2025-01-10,Latte,Drinks,3,4.5,Mobile
+1326,27-Apr-2025,Blueberry Muffin,Food,3,3.0,Mobile
+1025,10-Mar-2025,Latte,Drinks,3,4.5,Mobile
+1366,22-Jan-2025,Bagel,Food,1,2.95,Card
+689,13-Mar-2025,Bagel,Food,1,2.95,Card
+295,02/18/2025,Drip Coffee,Drinks,3,2.75,Cash
+1268,02/20/2025,Cold Brew,Drinks,1,4.75,Card
+1029,2025-02-11,Cappuccino,Drinks,1,4.25,Card
+298,2025-02-25,Bagel,Food,1,2.95,Mobile
+266,19-Jan-2025,Croissant,Food,3,3.25,Mobile
+726,01-Jan-2025,Avocado Toast,Food,2,7.5,Card
+783,2025-04-20,Drip Coffee,Drinks,3,,Cash
+212,24-Mar-2025,Cappuccino,Drinks,1,4.25,Mobile
+792,03/07/2025,,Drinks,1,4.25,Cash
+291,2025-01-20,Cappuccino,Drinks,1,4.25,Card
+627,02/01/2025,Latte,Drinks,1,4.5,Cash
+285,03/14/2025,Croissant,Food,-2,3.25,Mobile
+213,24-Apr-2025,Latte,Drinks,2,4.5,Cash
+882,08-Feb-2025,Drip Coffee,Drinks,1,2.75,Mobile
+623,03/16/2025,Latte,Drinks,2,4.5,Mobile
+1420,15-Mar-2025,Avocado Toast,Food,1,7.5,Mobile
+549,16-Jan-2025,Drip Coffee,Drinks,1,2.75,Card
+1168,02/16/2025,Blueberry Muffin,Food,1,3.0,Cash
+11,2025-02-03,Bagel,Food,1,2.95,Mobile
+1373,11-Feb-2025,Avocado Toast,Food,1,7.5,Mobile
+1193,03/29/2025,Drip Coffee,Drinks,1,2.75,Mobile
+7,05-Feb-2025,Cappuccino,Drinks,2,4.25,Cash
+75,2025-04-16,Latte,Drinks,2,4.5,Mobile
+601,2025-01-14,Avocado Toast,Food,3,7.5,Card
+1411,01/05/2025,Bagel,Food,1,2.95,Mobile
+1003,2025-04-19,Cappuccino,Drinks,1,4.25,Mobile
+226,2025-03-14,Bagel,Food,3,2.95,Mobile
+497,29-Jan-2025,Drip Coffee,Drinks,2,2.75,Card
+506,01-Mar-2025,Blueberry Muffin,Food,2,3.0,Mobile
+698,2025-03-24,Cappuccino,Drinks,1,4.25,Mobile
+1128,18-Apr-2025,Bagel,Food,-3,2.95,Card
+1495,29-Mar-2025,Bagel,Food,1,2.95,Mobile
+427,2025-01-18,Blueberry Muffin,Food,3,3.0,Cash
+1263,2025-01-14,Cold Brew,Drinks,2,4.75,Cash
+254,2025-02-02,Latte,Drinks,2,4.5,Mobile
+619,01/19/2025,Bagel,Food,2,2.95,Mobile
+141,04/27/2025,Bagel,Food,3,2.95,Cash
+1490,16-Mar-2025,Cappuccino,Drinks,2,4.25,Card
+80,25-Jan-2025,Latte,Drinks,2,4.5,Cash
+281,01/11/2025,Croissant,Food,2,3.25,Cash
+126,12-Apr-2025,Blueberry Muffin,Food,1,3.0,Mobile
+21,01/09/2025,Cold Brew,Drinks,1,4.75,Mobile
+607,01/05/2025,Drip Coffee,Drinks,1,2.75,Card
+1343,14-Apr-2025,Blueberry Muffin,Food,1,,Cash
+1045,02/24/2025,Latte,Drinks,2,4.5,Mobile
+827,2025-02-09,Cold Brew,Drinks,3,4.75,Card
+43,01-Feb-2025,Cold Brew,Drinks,3,4.75,Mobile
+754,03/12/2025,Drip Coffee,Drinks,2,2.75,Mobile
+292,2025-02-09,Cappuccino,Drinks,1,4.25,Cash
+1067,2025-03-23,Blueberry Muffin,Food,1,3.0,Card
+151,09-Mar-2025,Cappuccino,Drinks,3,4.25,Cash
+1298,12-Feb-2025,Bagel,Food,3,2.95,Card
+981,02/12/2025,Croissant,Food,2,3.25,Card
+587,03/29/2025,Bagel,Food,1,2.95,Cash
+934,09-Feb-2025,Bagel,Food,2,2.95,Mobile
+377,03/24/2025,Avocado Toast,Food,1,7.5,Cash
+1024,03/27/2025,Drip Coffee,Drinks,1,2.75,Mobile
+1368,2025-01-17,Avocado Toast,Food,1,7.5,Mobile
+1187,02/04/2025,Avocado Toast,Food,1,7.5,Card
+839,01/21/2025,Croissant,Food,3,3.25,Card
+137,2025-01-02,Latte,Drinks,-1,4.5,Card
+826,01/13/2025,Blueberry Muffin,Food,2,3.0,Card
+937,05-Feb-2025,Bagel,Food,3,2.95,Cash
+1452,04/10/2025,Avocado Toast,Food,2,7.5,Cash
+1119,05-Apr-2025,Blueberry Muffin,Food,1,3.0,Mobile
+1264,2025-01-20,Bagel,Food,3,2.95,Cash
+1236,01/13/2025,,Drinks,2,4.75,Card
+547,01/28/2025,Blueberry Muffin,Food,1,3.0,Cash
+96,03/18/2025,  BAGEL  ,Food,1,2.95,Card
+843,04/18/2025,Cappuccino,Drinks,2,4.25,Mobile
+78,2025-04-07,Bagel,Food,1,2.95,Card
+874,2025-04-19,Bagel,Food,1,2.95,Card
+183,2025-04-17,Croissant,Food,1,3.25,Card
+721,2025-04-26,Avocado Toast,Food,3,7.5,Card
+519,03/28/2025,Cappuccino,Drinks,2,4.25,Card
+318,01/22/2025,Drip Coffee,Drinks,2,2.75,Cash
+195,11-Feb-2025,Cappuccino,Drinks,1,4.25,Cash
+1448,2025-01-21,Blueberry Muffin,Food,1,3.0,Cash
+1010,2025-01-08,,Drinks,2,4.25,Card
+879,04/04/2025,Bagel,Food,1,2.95,Mobile
+666,2025-01-20,Drip Coffee,Drinks,2,2.75,Mobile
+694,04/01/2025,Latte,Drinks,1,4.5,Card
+371,03/01/2025,Cold Brew,Drinks,1,4.75,Card
+693,01/02/2025,Cappuccino,Drinks,2,4.25,Cash
+801,01/17/2025,Drip Coffee,Drinks,1,2.75,Cash
+1437,04/06/2025,Drip Coffee,Drinks,3,2.75,Cash
+617,2025-04-10,Cappuccino,Drinks,1,4.25,Cash
+961,01/25/2025,Drip Coffee,Drinks,2,2.75,Mobile
+1241,2025-01-12,Bagel,Food,1,2.95,Cash
+603,2025-02-11,Blueberry Muffin,Food,2,3.0,Mobile
+800,04/06/2025,Croissant,Food,1,3.25,Cash
+956,2025-01-04,Cappuccino,Drinks,2,4.25,Mobile
+1274,02/09/2025,Bagel,Food,3,2.95,Card
+816,2025-03-27,Blueberry Muffin,Food,2,3.0,Card
+93,03/29/2025,Bagel,Food,1,2.95,Cash
+1152,24-Mar-2025,Croissant,Food,1,3.25,Cash
+1123,2025-02-03,Bagel,Food,1,2.95,Mobile
+1381,30-Mar-2025,Cappuccino,Drinks,3,4.25,Cash
+234,01-Apr-2025,Cold Brew,Drinks,3,4.75,Cash
+1380,2025-04-12,Cappuccino,Drinks,3,4.25,Mobile
+342,01-Feb-2025,Blueberry Muffin,Food,1,3.0,Cash
+92,2025-02-27,Latte,Drinks,2,4.5,Mobile
+1209,23-Jan-2025,Croissant,Food,3,3.25,Cash
+973,19-Feb-2025,Latte,Drinks,2,4.5,Mobile
+357,11-Feb-2025,Avocado Toast,Food,1,7.5,Cash
+722,02/12/2025,Avocado Toast,Food,2,7.5,Cash
+715,2025-04-28,Avocado Toast,Food,2,7.5,Mobile
+984,02/07/2025,Cappuccino,Drinks,1,4.25,Card
+1279,2025-03-04,Croissant,Food,3,3.25,Mobile
+804,27-Mar-2025,Cold Brew,Drinks,1,4.75,Cash
+470,16-Mar-2025,Drip Coffee,Drinks,3,2.75,Cash
+333,01/13/2025,Latte,Drinks,1,,Cash
+1458,2025-04-15,Blueberry Muffin,Food,1,3.0,Cash
+1101,04/27/2025,Blueberry Muffin,Food,2,3.0,Mobile
+284,01/28/2025,Latte,Drinks,1,4.5,Mobile
+688,03/26/2025,Cold Brew,Drinks,1,4.75,Mobile
+361,01-Jan-2025,,Drinks,1,4.75,Card
+1030,2025-01-14,Cold Brew,Drinks,1,4.75,Card
+368,03-Feb-2025,Croissant,Food,2,3.25,Mobile
+260,02/23/2025,Latte,Drinks,3,4.5,Card
+794,03/09/2025,Croissant,Food,1,3.25,Mobile
+1418,16-Mar-2025,Croissant,Food,2,3.25,Mobile
+1092,04/21/2025,Cappuccino,Drinks,2,4.25,Card
+300,02/18/2025,Cold Brew,Drinks,1,4.75,Mobile
+102,17-Jan-2025,Croissant,Food,2,3.25,Mobile
+1297,2025-01-08,Latte,Drinks,1,4.5,Mobile
+1415,04/02/2025,,Drinks,2,2.75,Card
+1303,03/29/2025,Croissant,Food,2,3.25,Card
+581,03/02/2025,Cappuccino,Drinks,2,4.25,Card
+222,02/05/2025,Bagel,Food,2,2.95,Cash
+789,20-Jan-2025,Latte,Drinks,1,4.5,Mobile
+1099,02/08/2025,Cappuccino,Drinks,2,4.25,Card
+1224,2025-01-26,Avocado Toast,Food,1,7.5,Cash
+1108,01/19/2025,Blueberry Muffin,Food,1,,Cash
+640,11-Feb-2025,Bagel,Food,3,2.95,Mobile
+588,10-Mar-2025,Drip Coffee,Drinks,3,2.75,Cash
+1115,03/23/2025,Cold Brew,Drinks,1,4.75,Mobile
+809,15-Jan-2025,Cappuccino,Drinks,2,4.25,Card
+770,02/14/2025,Drip Coffee,Drinks,2,,Card
+41,2025-01-10,Latte,Drinks,1,4.5,Mobile
+1421,22-Jan-2025,  BAGEL  ,Food,1,2.95,Card
+1269,29-Apr-2025,Avocado Toast,Food,3,7.5,Mobile
+370,2025-02-08,Latte,Drinks,3,4.5,Mobile
+1491,03/21/2025,Drip Coffee,Drinks,2,2.75,Cash
+1149,19-Mar-2025,Avocado Toast,Food,2,7.5,Card
+1114,2025-02-26,Bagel,Food,1,2.95,Mobile
+590,2025-02-07,Bagel,Food,2,2.95,Mobile
+1062,2025-01-28,,Drinks,1,4.5,Cash
+111,03/02/2025,Drip Coffee,Drinks,1,2.75,Cash
+1113,28-Apr-2025,Croissant,Food,1,3.25,Cash
+1043,2025-02-06,Cold Brew,Drinks,1,4.75,Card
+788,2025-04-16,Bagel,Food,1,2.95,Card
+385,04/02/2025,Drip Coffee,Drinks,1,2.75,Mobile
+580,2025-04-12,  BAGEL  ,Food,3,2.95,Cash
+575,03-Feb-2025,Avocado Toast,Food,1,7.5,Mobile
+797,04/28/2025,Avocado Toast,Food,1,7.5,Mobile
+107,2025-02-27,Bagel,Food,1,2.95,Cash
+273,2025-01-19,  COLD BREW  ,Drinks,3,4.75,Card
+1073,02-Feb-2025,Cold Brew,Drinks,3,4.75,Mobile
+690,05-Mar-2025,Avocado Toast,Food,1,7.5,Mobile
+227,22-Apr-2025,,Food,3,3.25,Mobile
+1367,17-Apr-2025,Drip Coffee,Drinks,1,2.75,Cash
+645,17-Apr-2025,Drip Coffee,Drinks,2,2.75,Mobile
+1117,24-Feb-2025,Bagel,Food,1,2.95,Mobile
+1217,2025-01-27,Cold Brew,Drinks,-1,4.75,Card
+104,2025-04-17,Cappuccino,Drinks,3,4.25,Cash
+1110,03/15/2025,Blueberry Muffin,Food,3,3.0,Cash
+86,2025-01-17,Croissant,Food,-3,3.25,Cash
+366,04/17/2025,Avocado Toast,Food,3,7.5,Card
+1285,01/15/2025,Blueberry Muffin,Food,1,3.0,Mobile
+692,14-Mar-2025,Blueberry Muffin,Food,1,3.0,Cash
+860,2025-01-22,Cappuccino,Drinks,1,4.25,Mobile
+521,04/29/2025,Drip Coffee,Drinks,1,2.75,Mobile
+710,2025-01-11,Latte,Drinks,1,4.5,Cash
+1405,2025-01-19,Croissant,Food,1,3.25,Mobile
+1265,25-Jan-2025,Cold Brew,Drinks,2,4.75,Mobile
+1000,2025-04-09,Croissant,Food,1,3.25,Mobile
+59,2025-02-28,Cold Brew,Drinks,1,4.75,Cash
+718,01/29/2025,Bagel,Food,1,2.95,Mobile
+443,2025-01-07,Latte,Drinks,2,,Cash
+507,20-Apr-2025,Cappuccino,Drinks,1,4.25,Card
+248,01/16/2025,Croissant,Food,3,3.25,Cash
+744,2025-03-13,Avocado Toast,Food,1,7.5,Mobile
+1320,17-Apr-2025,Bagel,Food,1,2.95,Card
+1340,03/05/2025,Cappuccino,Drinks,1,4.25,Card
+91,03/22/2025,Cappuccino,Drinks,1,4.25,Card
+1302,01/08/2025,Bagel,Food,2,2.95,Mobile
+536,2025-02-03,Cappuccino,Drinks,1,4.25,Mobile
+912,2025-04-19,Drip Coffee,Drinks,-1,2.75,Cash
+299,10-Feb-2025,Cold Brew,Drinks,2,4.75,Cash
+499,2025-01-06,  DRIP COFFEE  ,Drinks,1,2.75,Card
+173,29-Jan-2025,Bagel,Food,1,2.95,Mobile
+793,2025-01-18,Bagel,Food,3,2.95,Card
+1228,13-Apr-2025,Avocado Toast,Food,1,7.5,Card
+1414,19-Mar-2025,Blueberry Muffin,Food,2,3.0,Card
+642,14-Jan-2025,Latte,Drinks,2,4.5,Mobile
+1061,03/04/2025,Cold Brew,Drinks,2,4.75,Mobile
+1109,01/23/2025,Cappuccino,Drinks,1,4.25,Mobile
+1127,2025-03-02,Croissant,Food,1,3.25,Card
+42,01/17/2025,  DRIP COFFEE  ,Drinks,2,2.75,Cash
+279,2025-03-12,,Drinks,2,4.5,Card
+798,2025-02-28,Cappuccino,Drinks,-2,4.25,Cash
+686,2025-03-17,Bagel,Food,2,2.95,Card
+158,2025-01-15,Avocado Toast,Food,1,7.5,Mobile
+466,14-Jan-2025,  BLUEBERRY MUFFIN  ,Food,3,3.0,Cash
+1286,03/13/2025,Croissant,Food,2,3.25,Cash
+1329,03-Jan-2025,,Food,1,3.25,Cash
+128,29-Jan-2025,Blueberry Muffin,Food,2,3.0,Cash
+306,13-Jan-2025,Cappuccino,Drinks,1,4.25,Card
+449,2025-04-03,Cappuccino,Drinks,3,4.25,Cash
+238,01/30/2025,Cold Brew,Drinks,3,4.75,Card
+1011,03/10/2025,Cappuccino,Drinks,1,4.25,Card
+929,02/23/2025,Bagel,Food,3,2.95,Mobile
+1456,03/03/2025,Blueberry Muffin,Food,1,3.0,Cash
+106,2025-02-13,Croissant,Food,2,3.25,Mobile
+537,03/18/2025,Croissant,Food,3,3.25,Card
+903,24-Apr-2025,Bagel,Food,1,2.95,Mobile
+1178,27-Jan-2025,Avocado Toast,Food,1,7.5,Card
+808,04/17/2025,Cappuccino,Drinks,1,4.25,Cash
+905,2025-01-23,Bagel,Food,1,2.95,Cash
+824,2025-03-05,Avocado Toast,Food,1,7.5,Cash
+849,12-Mar-2025,Cold Brew,Drinks,1,4.75,Card
+1137,04/21/2025,Cold Brew,Drinks,1,4.75,Card
+759,03-Mar-2025,Cappuccino,Drinks,1,4.25,Card
+455,28-Mar-2025,Bagel,Food,2,2.95,Mobile
+1281,03/05/2025,  DRIP COFFEE  ,Drinks,1,2.75,Mobile
+729,2025-03-24,Bagel,Food,1,2.95,Mobile
+600,30-Jan-2025,Cappuccino,Drinks,3,4.25,Card
+127,02/18/2025,Croissant,Food,2,3.25,Mobile
+412,2025-02-20,Avocado Toast,Food,1,7.5,Cash
+700,05-Mar-2025,Latte,Drinks,2,4.5,Mobile
+283,01/22/2025,Latte,Drinks,3,4.5,Mobile
+773,09-Apr-2025,Blueberry Muffin,Food,1,3.0,Card
+73,17-Mar-2025,Cold Brew,Drinks,1,4.75,Mobile
+1053,04/09/2025,Latte,Drinks,1,4.5,Mobile
+1307,2025-03-24,Croissant,Food,1,3.25,Card
+199,27-Feb-2025,Drip Coffee,Drinks,3,2.75,Cash
+606,2025-01-28,,Food,1,3.25,Mobile
+695,17-Mar-2025,Avocado Toast,Food,3,7.5,Card
+918,06-Apr-2025,Croissant,Food,3,3.25,Card
+662,2025-03-22,Latte,Drinks,2,4.5,Cash
+164,2025-03-06,Latte,Drinks,1,4.5,Card
+401,2025-02-03,Bagel,Food,3,2.95,Card
+249,06-Apr-2025,Drip Coffee,Drinks,2,2.75,Mobile
+165,03/18/2025,Cappuccino,Drinks,2,4.25,Cash
+985,01/23/2025,Cold Brew,Drinks,1,4.75,Card
+1334,2025-02-14,Latte,Drinks,1,4.5,Cash
+1436,04-Feb-2025,Drip Coffee,Drinks,3,2.75,Cash
+421,29-Jan-2025,Cold Brew,Drinks,3,4.75,Card
+61,2025-03-04,Croissant,Food,2,3.25,Cash
+69,06-Apr-2025,Bagel,Food,1,2.95,Card
+609,16-Apr-2025,Drip Coffee,Drinks,2,2.75,Cash
+1255,02/08/2025,Latte,Drinks,2,4.5,Cash
+214,2025-01-10,Croissant,Food,2,3.25,Mobile
+1449,11-Mar-2025,,Drinks,2,2.75,Mobile
+796,2025-03-10,Blueberry Muffin,Food,1,,Cash
+1425,19-Jan-2025,Croissant,Food,3,3.25,Card
+258,29-Jan-2025,Drip Coffee,Drinks,3,2.75,Mobile
+77,04/16/2025,Bagel,Food,2,2.95,Cash
+904,04/13/2025,Blueberry Muffin,Food,2,3.0,Mobile
+1020,2025-01-06,Cold Brew,Drinks,2,4.75,Cash
+1172,02/24/2025,Cappuccino,Drinks,2,4.25,Cash
+330,30-Apr-2025,Croissant,Food,3,3.25,Card
+480,04/06/2025,Latte,Drinks,1,4.5,Mobile
+1221,02/06/2025,Avocado Toast,Food,3,7.5,Card
+432,19-Apr-2025,Croissant,Food,2,3.25,Card
+535,19-Feb-2025,,Drinks,1,4.5,Cash
+1013,04/02/2025,Cold Brew,Drinks,2,,Cash
+1093,16-Jan-2025,Cappuccino,Drinks,1,4.25,Mobile
+1097,26-Mar-2025,Cappuccino,Drinks,1,4.25,Cash
+51,02/25/2025,Cold Brew,Drinks,1,4.75,Mobile
+286,2025-04-16,Drip Coffee,Drinks,3,2.75,Mobile
+1204,01/12/2025,Bagel,Food,3,2.95,Card
+435,2025-02-12,Cappuccino,Drinks,-2,4.25,Card
+1482,2025-03-04,Cappuccino,Drinks,3,4.25,Cash
+554,03/12/2025,Croissant,Food,1,3.25,Cash
+750,2025-02-18,Avocado Toast,Food,1,7.5,Card
+866,12-Feb-2025,Latte,Drinks,1,4.5,Mobile
+1429,04-Feb-2025,  LATTE  ,Drinks,2,4.5,Mobile
+831,25-Feb-2025,Croissant,Food,1,3.25,Card
+651,2025-04-26,Drip Coffee,Drinks,1,2.75,Cash
+170,11-Jan-2025,Drip Coffee,Drinks,1,2.75,Mobile
+982,2025-01-30,Cold Brew,Drinks,3,4.75,Mobile
+924,13-Feb-2025,Latte,Drinks,2,4.5,Mobile
+1398,04-Feb-2025,Cold Brew,Drinks,1,4.75,Cash
+847,2025-03-29,Avocado Toast,Food,2,7.5,Mobile
+1355,2025-03-24,Avocado Toast,Food,1,,Cash
+863,24-Jan-2025,Cold Brew,Drinks,2,4.75,Cash
+711,02/26/2025,Cold Brew,Drinks,3,4.75,Mobile
+236,04/02/2025,Latte,Drinks,1,4.5,Card
+1144,27-Feb-2025,Cold Brew,Drinks,3,4.75,Cash
+1132,04/12/2025,  CAPPUCCINO  ,Drinks,1,4.25,Card
+546,02/06/2025,Croissant,Food,1,3.25,Cash
+1231,03/22/2025,Avocado Toast,Food,1,7.5,Mobile
+927,01/11/2025,Avocado Toast,Food,2,7.5,Cash
+544,03/29/2025,Blueberry Muffin,Food,2,,Cash
+577,2025-03-23,Croissant,Food,1,3.25,Card
+1023,22-Jan-2025,Croissant,Food,1,3.25,Cash
+616,02/20/2025,Cold Brew,Drinks,2,4.75,Card
+1260,2025-02-27,Avocado Toast,Food,3,7.5,Cash
+363,01/08/2025,Avocado Toast,Food,2,7.5,Mobile
+752,2025-01-17,  COLD BREW  ,Drinks,1,4.75,Cash
+204,2025-03-07,Drip Coffee,Drinks,1,2.75,Card
+1107,01/16/2025,Cappuccino,Drinks,1,4.25,Cash
+1196,2025-01-27,Avocado Toast,Food,1,7.5,Card
+697,2025-01-02,,Drinks,1,2.75,Card
+146,16-Jan-2025,Blueberry Muffin,Food,3,3.0,Card
+200,25-Mar-2025,Avocado Toast,Food,1,,Cash
+524,17-Mar-2025,Bagel,Food,-2,2.95,Mobile
+1160,01/19/2025,Cold Brew,Drinks,1,4.75,Mobile
+1331,2025-02-26,Drip Coffee,Drinks,1,2.75,Cash
+517,01-Jan-2025,Bagel,Food,2,2.95,Cash
+1140,2025-02-06,Blueberry Muffin,Food,1,3.0,Cash
+567,2025-04-08,Avocado Toast,Food,2,7.5,Cash
+447,2025-02-22,Blueberry Muffin,Food,3,3.0,Cash
+464,2025-03-13,Bagel,Food,1,2.95,Card
+315,19-Feb-2025,Blueberry Muffin,Food,2,3.0,Card
+356,23-Jan-2025,Avocado Toast,Food,1,7.5,Mobile
+1056,04/06/2025,Drip Coffee,Drinks,-1,2.75,Cash
+303,27-Feb-2025,Avocado Toast,Food,1,7.5,Cash
+730,03/22/2025,Avocado Toast,Food,1,7.5,Card
+1315,04/29/2025,Avocado Toast,Food,2,7.5,Cash
+1148,29-Mar-2025,Avocado Toast,Food,2,7.5,Cash
+1243,12-Apr-2025,Croissant,Food,1,3.25,Mobile
+1261,03-Mar-2025,Blueberry Muffin,Food,3,3.0,Card
+233,2025-02-01,Bagel,Food,1,2.95,Mobile
+97,16-Apr-2025,Latte,Drinks,3,4.5,Cash
+130,17-Feb-2025,Avocado Toast,Food,2,7.5,Mobile
+557,2025-04-13,Cold Brew,Drinks,1,4.75,Card
+943,02/09/2025,Cappuccino,Drinks,1,4.25,Card
+1345,2025-03-01,Croissant,Food,2,3.25,Cash
+1288,02-Feb-2025,Latte,Drinks,1,4.5,Card
+895,25-Mar-2025,Cold Brew,Drinks,2,4.75,Card
+65,2025-01-29,Cold Brew,Drinks,2,4.75,Mobile
+811,20-Apr-2025,Avocado Toast,Food,1,7.5,Cash
+970,2025-03-22,Bagel,Food,1,2.95,Cash
+782,2025-03-04,Avocado Toast,Food,1,7.5,Cash
+351,02-Jan-2025,Drip Coffee,Drinks,1,2.75,Mobile
+857,03/17/2025,Drip Coffee,Drinks,3,2.75,Cash
+891,28-Apr-2025,Croissant,Food,1,3.25,Cash
+680,15-Feb-2025,Bagel,Food,2,2.95,Card
+1387,04/12/2025,Bagel,Food,2,2.95,Card
+563,2025-01-11,Avocado Toast,Food,1,7.5,Mobile
+791,06-Apr-2025,Cappuccino,Drinks,2,4.25,Cash
+1345,2025-03-01,Croissant,Food,2,3.25,Cash
+350,2025-02-01,Cold Brew,Drinks,1,4.75,Mobile
+262,2025-01-18,Cold Brew,Drinks,1,4.75,Mobile
+1322,2025-03-05,Cappuccino,Drinks,1,4.25,Cash
+802,01/26/2025,Avocado Toast,Food,1,7.5,Cash
+346,2025-01-09,  LATTE  ,Drinks,2,4.5,Mobile
+1469,02/24/2025,Blueberry Muffin,Food,1,3.0,Cash
+1470,03-Jan-2025,Blueberry Muffin,Food,2,3.0,Card
+1181,2025-04-08,Avocado Toast,Food,1,7.5,Cash
+1240,2025-01-04,Cappuccino,Drinks,1,4.25,Cash
+763,19-Feb-2025,Latte,Drinks,1,4.5,Mobile
+121,19-Mar-2025,Croissant,Food,1,3.25,Mobile
+1065,2025-04-17,Avocado Toast,Food,3,7.5,Mobile
+559,2025-03-02,Cold Brew,Drinks,1,4.75,Mobile
+270,04/07/2025,Cappuccino,Drinks,3,4.25,Mobile
+947,04/08/2025,Cappuccino,Drinks,1,4.25,Mobile
+465,29-Jan-2025,  CAPPUCCINO  ,Drinks,3,4.25,Mobile
+220,2025-03-10,  BAGEL  ,Food,1,2.95,Cash
+463,03/13/2025,Croissant,Food,2,3.25,Card
+416,09-Feb-2025,Drip Coffee,Drinks,1,2.75,Card
+853,16-Apr-2025,Avocado Toast,Food,1,7.5,Mobile
+1446,2025-03-01,Croissant,Food,1,3.25,Card
+193,2025-02-26,Avocado Toast,Food,3,7.5,Cash
+353,2025-03-09,Avocado Toast,Food,1,7.5,Mobile
+496,01/12/2025,Croissant,Food,2,3.25,Cash
+493,2025-01-07,Cappuccino,Drinks,1,4.25,Cash
+586,04/11/2025,Latte,Drinks,2,4.5,Card
+1472,30-Mar-2025,Blueberry Muffin,Food,2,3.0,Mobile
+1183,2025-04-07,Latte,Drinks,2,4.5,Mobile
+1266,03/01/2025,Cappuccino,Drinks,1,4.25,Cash
+166,2025-03-19,Cold Brew,Drinks,1,4.75,Mobile
+244,01/24/2025,  CROISSANT  ,Food,3,3.25,Card
+836,26-Mar-2025,Bagel,Food,1,2.95,Mobile
+35,2025-03-14,Bagel,Food,2,2.95,Card
+650,2025-01-23,Drip Coffee,Drinks,1,2.75,Cash
+1295,2025-04-07,Avocado Toast,Food,1,7.5,Card
+1142,10-Apr-2025,Blueberry Muffin,Food,3,3.0,Cash
+187,04/22/2025,Latte,Drinks,2,4.5,Cash
+1406,01/19/2025,Cold Brew,Drinks,1,4.75,Card
+814,2025-02-13,Blueberry Muffin,Food,1,3.0,Mobile
+50,25-Jan-2025,Avocado Toast,Food,2,,Mobile
+648,27-Feb-2025,Cappuccino,Drinks,3,4.25,Mobile
+395,2025-02-07,  CAPPUCCINO  ,Drinks,1,4.25,Card
+819,26-Mar-2025,Cappuccino,Drinks,1,4.25,Cash
+766,14-Feb-2025,Cappuccino,Drinks,1,4.25,Mobile
+1098,01/06/2025,Blueberry Muffin,Food,1,3.0,Card
+755,2025-02-05,  BAGEL  ,Food,2,2.95,Mobile
+594,20-Jan-2025,Bagel,Food,2,2.95,Mobile
+149,2025-04-29,Latte,Drinks,2,,Cash
+291,2025-01-20,Cappuccino,Drinks,1,4.25,Card
+384,08-Jan-2025,Latte,Drinks,-1,4.5,Card
+433,03/06/2025,Bagel,Food,1,2.95,Card
+336,03/31/2025,Croissant,Food,3,3.25,Cash
+1410,01/10/2025,Avocado Toast,Food,3,7.5,Card
+1032,05-Mar-2025,Croissant,Food,2,3.25,Card
+274,30-Jan-2025,Cold Brew,Drinks,1,4.75,Cash
+592,03/11/2025,,Food,1,3.25,Card
+530,2025-03-08,,Drinks,2,4.5,Cash
+199,27-Feb-2025,Drip Coffee,Drinks,3,2.75,Cash
+431,2025-02-15,Cappuccino,Drinks,1,4.25,Cash
+1035,27-Apr-2025,Latte,Drinks,2,4.5,Mobile
+474,2025-03-11,Drip Coffee,Drinks,2,2.75,Mobile
+1445,31-Mar-2025,Cold Brew,Drinks,1,4.75,Card
+337,03/17/2025,Cappuccino,Drinks,1,,Cash
+1103,2025-02-15,Cold Brew,Drinks,2,4.75,Cash
+1153,11-Jan-2025,Blueberry Muffin,Food,1,3.0,Cash
+1006,11-Apr-2025,  LATTE  ,Drinks,2,4.5,Mobile
+190,01/09/2025,Drip Coffee,Drinks,1,2.75,Card
+257,26-Mar-2025,Cappuccino,Drinks,3,4.25,Cash
+232,2025-02-15,Blueberry Muffin,Food,2,3.0,Mobile
+1055,22-Feb-2025,Croissant,Food,3,3.25,Cash
+108,31-Jan-2025,Cold Brew,Drinks,3,4.75,Cash
+1287,2025-02-06,Latte,Drinks,-1,4.5,Mobile
+290,16-Mar-2025,Drip Coffee,Drinks,3,2.75,Card
+953,27-Feb-2025,Croissant,Food,3,3.25,Cash
+735,03/31/2025,,Drinks,1,4.5,Cash
+98,2025-03-16,Croissant,Food,1,3.25,Cash
+762,11-Jan-2025,Cold Brew,Drinks,3,4.75,Cash
+85,01/30/2025,Cold Brew,Drinks,1,4.75,Card
+676,27-Mar-2025,Blueberry Muffin,Food,-2,3.0,Mobile
+1133,2025-03-18,Blueberry Muffin,Food,2,3.0,Card
+147,02/09/2025,Croissant,Food,2,3.25,Card
+825,03/17/2025,  LATTE  ,Drinks,1,4.5,Mobile
+1432,04/25/2025,Latte,Drinks,2,4.5,Cash
+528,04/13/2025,Blueberry Muffin,Food,2,3.0,Cash
+225,2025-02-10,Blueberry Muffin,Food,2,3.0,Mobile
+129,06-Jan-2025,Cappuccino,Drinks,1,4.25,Card
+201,2025-04-10,Cappuccino,Drinks,1,4.25,Card
+585,02/25/2025,Cold Brew,Drinks,3,4.75,Card
+873,2025-04-25,Avocado Toast,Food,1,7.5,Cash
+852,2025-04-21,Latte,Drinks,1,4.5,Mobile
+1444,10-Mar-2025,Avocado Toast,Food,1,7.5,Cash
+505,2025-02-10,Drip Coffee,Drinks,1,2.75,Card
+490,25-Jan-2025,Croissant,Food,3,3.25,Mobile
+1314,04/09/2025,Blueberry Muffin,Food,1,3.0,Mobile
+1046,02/18/2025,Drip Coffee,Drinks,1,2.75,Cash
+965,03/08/2025,Cappuccino,Drinks,3,4.25,Card
+1487,26-Apr-2025,Cold Brew,Drinks,2,4.75,Mobile
+1292,18-Jan-2025,Cold Brew,Drinks,1,4.75,Cash
+932,2025-03-04,  CROISSANT  ,Food,1,3.25,Cash
+673,28-Mar-2025,Cappuccino,Drinks,2,4.25,Card
+331,2025-03-27,Bagel,Food,3,2.95,Card
+995,2025-04-07,Cappuccino,Drinks,1,4.25,Mobile
+1474,29-Apr-2025,Cappuccino,Drinks,1,4.25,Cash
+481,2025-03-11,Blueberry Muffin,Food,2,3.0,Card
+1396,04/27/2025,Croissant,Food,1,3.25,Card
+319,2025-01-18,Latte,Drinks,2,4.5,Mobile
+1,05-Apr-2025,Cappuccino,Drinks,1,4.25,Card
+653,11-Jan-2025,,Food,2,7.5,Mobile
+1464,2025-03-04,Bagel,Food,1,2.95,Cash
+618,2025-01-25,Blueberry Muffin,Food,1,,Mobile
+878,22-Mar-2025,Bagel,Food,2,,Mobile
+1136,2025-01-16,Drip Coffee,Drinks,1,2.75,Card
+451,15-Jan-2025,Avocado Toast,Food,3,7.5,Mobile
+550,2025-03-21,Bagel,Food,1,2.95,Cash
+877,02/17/2025,Cappuccino,Drinks,2,4.25,Cash
+1372,30-Jan-2025,Croissant,Food,1,3.25,Mobile
+476,02/18/2025,Cappuccino,Drinks,1,4.25,Cash
+488,2025-03-29,Cold Brew,Drinks,1,4.75,Mobile
+116,27-Apr-2025,Cold Brew,Drinks,2,4.75,Card
+1409,03/01/2025,Cold Brew,Drinks,1,4.75,Card
+1481,03/05/2025,Bagel,Food,3,2.95,Mobile
+1212,27-Apr-2025,Avocado Toast,Food,1,,Card
+1309,09-Mar-2025,Blueberry Muffin,Food,3,3.0,Mobile
+1004,18-Jan-2025,Latte,Drinks,-1,4.5,Cash
+358,2025-03-28,Cappuccino,Drinks,2,4.25,Card
+16,02/08/2025,Cappuccino,Drinks,3,4.25,Mobile
+103,01/21/2025,,Drinks,3,4.75,Cash
+1441,2025-01-07,Drip Coffee,Drinks,1,2.75,Card
+174,02/13/2025,Latte,Drinks,3,4.5,Mobile
+538,05-Jan-2025,Croissant,Food,1,3.25,Card
+1277,06-Jan-2025,Bagel,Food,1,2.95,Mobile
+1188,03/11/2025,Croissant,Food,1,,Mobile
+989,18-Mar-2025,Blueberry Muffin,Food,1,3.0,Card
+1094,30-Mar-2025,Bagel,Food,1,2.95,Mobile
+553,2025-03-30,  BAGEL  ,Food,1,2.95,Mobile
+1157,16-Mar-2025,Croissant,Food,1,3.25,Mobile
+418,02/17/2025,Cold Brew,Drinks,1,4.75,Card
+148,17-Feb-2025,Blueberry Muffin,Food,2,3.0,Mobile
+893,2025-04-06,Avocado Toast,Food,3,7.5,Mobile
+753,08-Apr-2025,Avocado Toast,Food,1,7.5,Mobile
+36,06-Feb-2025,Cold Brew,Drinks,1,4.75,Mobile
+1323,15-Feb-2025,Avocado Toast,Food,3,7.5,Card
+498,04/24/2025,Croissant,Food,3,3.25,Mobile
+945,04/07/2025,Cold Brew,Drinks,1,4.75,Cash
+340,2025-03-25,Latte,Drinks,2,4.5,Mobile
+27,03/11/2025,Latte,Drinks,3,4.5,Cash
+803,02/08/2025,Latte,Drinks,1,4.5,Mobile
+1434,18-Apr-2025,Latte,Drinks,1,4.5,Mobile
+1216,28-Jan-2025,Cappuccino,Drinks,1,4.25,Cash
+637,29-Mar-2025,  COLD BREW  ,Drinks,1,4.75,Cash
+1376,02/05/2025,Cold Brew,Drinks,3,4.75,Mobile
+862,17-Jan-2025,Bagel,Food,2,2.95,Mobile
+931,2025-01-16,Avocado Toast,Food,1,7.5,Cash
+383,01/25/2025,Drip Coffee,Drinks,2,2.75,Cash
+641,10-Feb-2025,Avocado Toast,Food,3,7.5,Mobile
+1079,2025-02-20,  COLD BREW  ,Drinks,1,4.75,Card
+314,2025-01-24,Cappuccino,Drinks,2,4.25,Mobile
+209,04/30/2025,Drip Coffee,Drinks,1,2.75,Cash
+1339,03-Apr-2025,Cappuccino,Drinks,1,4.25,Cash
+31,04/28/2025,Bagel,Food,2,2.95,Card
+167,24-Mar-2025,Cappuccino,Drinks,2,4.25,Mobile
+1475,15-Jan-2025,Cappuccino,Drinks,2,4.25,Card
+113,04/06/2025,Croissant,Food,1,3.25,Cash
+948,17-Feb-2025,Cold Brew,Drinks,1,4.75,Cash
+1496,04/18/2025,Cappuccino,Drinks,2,4.25,Card
+1416,25-Jan-2025,Croissant,Food,3,3.25,Cash
+1041,23-Mar-2025,Cold Brew,Drinks,1,4.75,Card
+685,2025-04-15,Cappuccino,Drinks,2,4.25,Mobile
+1014,12-Feb-2025,Cold Brew,Drinks,2,4.75,Card
+829,02-Mar-2025,Latte,Drinks,3,4.5,Card
+1257,22-Jan-2025,Avocado Toast,Food,1,7.5,Card
+156,2025-04-01,Avocado Toast,Food,2,7.5,Mobile
+1442,04/24/2025,Cold Brew,Drinks,1,4.75,Cash
+959,29-Jan-2025,Croissant,Food,3,3.25,Mobile
+179,04/08/2025,Croissant,Food,1,3.25,Card
+177,04/09/2025,Bagel,Food,2,2.95,Mobile
+1049,04/24/2025,  CAPPUCCINO  ,Drinks,2,4.25,Cash
+162,10-Jan-2025,Drip Coffee,Drinks,3,2.75,Cash
+844,24-Apr-2025,Croissant,Food,2,3.25,Mobile
+425,2025-03-29,Croissant,Food,1,3.25,Cash
+1312,2025-03-31,Croissant,Food,1,3.25,Card
+381,04/19/2025,Cold Brew,Drinks,2,4.75,Card
+1473,01/10/2025,Bagel,Food,1,2.95,Cash
+1179,04-Jan-2025,Avocado Toast,Food,3,7.5,Card
+758,2025-04-07,  CAPPUCCINO  ,Drinks,2,4.25,Card
+888,07-Mar-2025,Cappuccino,Drinks,1,4.25,Cash
+215,04/21/2025,Drip Coffee,Drinks,1,2.75,Cash
+822,01/22/2025,Croissant,Food,3,3.25,Mobile
+611,22-Apr-2025,Avocado Toast,Food,1,7.5,Mobile
+63,11-Mar-2025,Avocado Toast,Food,1,7.5,Mobile
+1237,04/24/2025,Avocado Toast,Food,2,7.5,Card
+781,01/26/2025,  COLD BREW  ,Drinks,1,4.75,Mobile
+482,2025-01-23,Cappuccino,Drinks,1,4.25,Card
+712,07-Jan-2025,Croissant,Food,1,3.25,Card
+144,02/10/2025,Blueberry Muffin,Food,2,3.0,Card
+160,02/12/2025,Blueberry Muffin,Food,1,3.0,Cash
+1459,04/24/2025,Latte,Drinks,1,4.5,Mobile
+132,2025-02-26,Blueberry Muffin,Food,1,3.0,Mobile
+10,2025-01-28,Croissant,Food,1,3.25,Cash
+1138,2025-03-03,Blueberry Muffin,Food,2,3.0,Cash
+182,03/31/2025,Croissant,Food,2,3.25,Card
+255,2025-01-08,Cappuccino,Drinks,2,4.25,Card
+868,01/23/2025,Latte,Drinks,2,4.5,Card
+145,25-Feb-2025,Cappuccino,Drinks,1,4.25,Mobile
+47,2025-01-25,Latte,Drinks,3,4.5,Mobile
+332,2025-02-11,Bagel,Food,1,2.95,Cash
+919,24-Mar-2025,Avocado Toast,Food,2,7.5,Cash
+663,2025-02-14,Latte,Drinks,1,,Cash
+748,04-Mar-2025,Drip Coffee,Drinks,1,2.75,Cash
+1070,2025-03-05,Latte,Drinks,1,4.5,Card
+1438,04/18/2025,Bagel,Food,2,2.95,Card
+1354,10-Jan-2025,Blueberry Muffin,Food,1,3.0,Cash
+17,2025-02-11,Latte,Drinks,2,4.5,Card
+483,04/19/2025,Drip Coffee,Drinks,2,2.75,Cash
+897,2025-03-02,  BAGEL  ,Food,2,2.95,Card
+400,2025-01-22,Latte,Drinks,1,4.5,Cash
+830,2025-03-30,Bagel,Food,1,2.95,Card
+1230,04/28/2025,Avocado Toast,Food,3,7.5,Card
+1215,2025-04-03,  CROISSANT  ,Food,2,3.25,Mobile
+87,02/13/2025,Bagel,Food,2,2.95,Cash
+719,2025-03-23,Cold Brew,Drinks,2,4.75,Mobile
+235,03/15/2025,Croissant,Food,1,3.25,Cash
+1426,2025-02-14,Avocado Toast,Food,3,7.5,Mobile
+1227,01/22/2025,Blueberry Muffin,Food,1,3.0,Mobile
+1439,02/10/2025,Cappuccino,Drinks,1,4.25,Mobile
+969,01/31/2025,Cappuccino,Drinks,2,4.25,Card
+890,11-Jan-2025,Avocado Toast,Food,1,7.5,Cash
+134,03/23/2025,,Drinks,3,4.75,Mobile
+635,04/06/2025,Croissant,Food,2,3.25,Card
+739,07-Apr-2025,Croissant,Food,1,3.25,Card
+1400,2025-04-05,Drip Coffee,Drinks,1,2.75,Cash
+1352,03/29/2025,Latte,Drinks,1,4.5,Card
+820,02/03/2025,Bagel,Food,-2,2.95,Cash
+861,2025-01-29,Bagel,Food,1,2.95,Mobile
+779,03/30/2025,Bagel,Food,1,2.95,Cash
+15,21-Jan-2025,Croissant,Food,2,3.25,Card
+1145,03-Apr-2025,Cold Brew,Drinks,2,4.75,Cash
+1239,01/25/2025,Croissant,Food,1,3.25,Cash
+230,03/06/2025,Cold Brew,Drinks,2,4.75,Mobile
+1158,01/19/2025,Avocado Toast,Food,1,7.5,Card
+979,01/26/2025,Avocado Toast,Food,1,7.5,Mobile
+737,13-Feb-2025,Cold Brew,Drinks,2,4.75,Mobile
+1324,2025-03-21,Croissant,Food,2,3.25,Mobile
+186,27-Mar-2025,Avocado Toast,Food,1,7.5,Mobile
+1278,10-Apr-2025,Drip Coffee,Drinks,1,2.75,Cash
+392,01/02/2025,Blueberry Muffin,Food,2,3.0,Mobile
+851,27-Jan-2025,Cold Brew,Drinks,1,4.75,Cash
+649,12-Mar-2025,Drip Coffee,Drinks,2,2.75,Card
+734,03/16/2025,Drip Coffee,Drinks,3,2.75,Cash
+1002,2025-01-30,Cold Brew,Drinks,2,4.75,Cash
+247,03/25/2025,Latte,Drinks,1,4.5,Cash
+430,17-Jan-2025,Cappuccino,Drinks,2,4.25,Cash
+334,02/24/2025,Bagel,Food,1,2.95,Cash
+250,29-Mar-2025,Cold Brew,Drinks,1,4.75,Cash
+1038,23-Apr-2025,Bagel,Food,3,2.95,Cash
+359,04/10/2025,Bagel,Food,-1,2.95,Cash
+191,07-Mar-2025,Blueberry Muffin,Food,1,3.0,Card
+256,2025-04-04,Drip Coffee,Drinks,3,2.75,Cash
+1063,03/19/2025,Bagel,Food,1,2.95,Cash
+422,2025-03-24,Bagel,Food,1,2.95,Mobile
+407,11-Jan-2025,Latte,Drinks,2,4.5,Cash
+818,04-Jan-2025,Bagel,Food,3,2.95,Mobile
+899,2025-03-04,Croissant,Food,1,3.25,Card
+916,09-Apr-2025,Blueberry Muffin,Food,2,3.0,Card
+101,01/07/2025,Bagel,Food,2,2.95,Card
+780,21-Mar-2025,Latte,Drinks,2,4.5,Card
+1080,28-Feb-2025,Bagel,Food,3,2.95,Card
+910,2025-01-06,Cappuccino,Drinks,2,4.25,Card
+53,04/06/2025,Avocado Toast,Food,3,7.5,Cash
+1206,03/19/2025,Blueberry Muffin,Food,1,3.0,Mobile
+253,2025-01-17,Latte,Drinks,2,4.5,Mobile
+1479,2025-01-09,Blueberry Muffin,Food,1,3.0,Mobile
+282,2025-04-20,Cappuccino,Drinks,3,4.25,Card
+56,04/14/2025,,Food,1,3.25,Cash
+728,2025-01-08,Croissant,Food,2,3.25,Card
+445,01/13/2025,Avocado Toast,Food,3,7.5,Mobile
+478,2025-04-22,Cappuccino,Drinks,2,4.25,Card
+1402,29-Jan-2025,Avocado Toast,Food,1,7.5,Mobile
+869,2025-03-09,Blueberry Muffin,Food,3,3.0,Cash
+1336,08-Feb-2025,Bagel,Food,3,2.95,Cash
+1374,03/08/2025,Cold Brew,Drinks,2,4.75,Card
+414,2025-02-08,Cold Brew,Drinks,1,4.75,Mobile
+1235,2025-01-16,Bagel,Food,2,2.95,Cash
+472,22-Feb-2025,Drip Coffee,Drinks,1,2.75,Cash
+1252,2025-01-03,Latte,Drinks,1,4.5,Card
+671,15-Jan-2025,Croissant,Food,1,3.25,Card
+142,18-Mar-2025,Blueberry Muffin,Food,2,3.0,Card
+714,10-Feb-2025,Avocado Toast,Food,3,7.5,Cash
+261,2025-03-18,Latte,Drinks,2,4.5,Card
+81,12-Apr-2025,  BAGEL  ,Food,2,2.95,Mobile
+1494,28-Apr-2025,Bagel,Food,3,2.95,Cash
+207,10-Jan-2025,Blueberry Muffin,Food,3,3.0,Mobile
+372,02/17/2025,Cold Brew,Drinks,2,4.75,Card
+632,2025-03-25,Drip Coffee,Drinks,1,2.75,Mobile
+1428,2025-02-26,Latte,Drinks,1,4.5,Cash
+1489,02/21/2025,Drip Coffee,Drinks,1,2.75,Mobile
+387,08-Feb-2025,Cappuccino,Drinks,1,4.25,Cash
+313,01/01/2025,Avocado Toast,Food,2,7.5,Mobile
+727,2025-02-19,Cold Brew,Drinks,1,4.75,Cash
+411,04-Mar-2025,Avocado Toast,Food,3,7.5,Mobile
+938,13-Mar-2025,Cappuccino,Drinks,3,4.25,Mobile
+1091,30-Mar-2025,Bagel,Food,1,2.95,Mobile
+669,19-Mar-2025,Drip Coffee,Drinks,2,2.75,Cash
+457,22-Apr-2025,Latte,Drinks,3,4.5,Cash
+1159,2025-01-24,,Food,3,2.95,Mobile
+1189,29-Apr-2025,  COLD BREW  ,Drinks,3,4.75,Cash
+875,03/07/2025,Drip Coffee,Drinks,3,2.75,Mobile
+661,04/14/2025,Bagel,Food,2,2.95,Card
+462,03/25/2025,  BAGEL  ,Food,3,2.95,Mobile
+18,23-Apr-2025,Latte,Drinks,1,4.5,Card
+39,2025-03-04,Croissant,Food,2,3.25,Card
+1211,01/26/2025,Croissant,Food,1,3.25,Mobile
+1306,04/15/2025,,Food,2,2.95,Mobile
+602,2025-03-12,Drip Coffee,Drinks,1,2.75,Cash
+823,12-Mar-2025,Bagel,Food,3,2.95,Card
+44,04/21/2025,Drip Coffee,Drinks,1,2.75,Mobile
+886,2025-03-22,Bagel,Food,2,2.95,Cash
+1081,2025-03-06,Blueberry Muffin,Food,1,3.0,Mobile
+930,01/28/2025,Cappuccino,Drinks,3,4.25,Mobile
+696,01/18/2025,Drip Coffee,Drinks,2,2.75,Cash
+373,2025-04-26,Cappuccino,Drinks,1,4.25,Card
+1126,03/09/2025,Cold Brew,Drinks,1,4.75,Mobile
+677,2025-03-11,Cappuccino,Drinks,1,4.25,Mobile
+312,01/24/2025,Avocado Toast,Food,3,7.5,Cash
+925,08-Feb-2025,Cold Brew,Drinks,1,4.75,Cash
+954,18-Jan-2025,,Drinks,3,4.5,Card
+568,04/05/2025,Cold Brew,Drinks,1,4.75,Card
+883,2025-03-27,Drip Coffee,Drinks,1,2.75,Cash
+1360,02-Mar-2025,Latte,Drinks,2,4.5,Cash
+391,19-Jan-2025,Cappuccino,Drinks,2,4.25,Card
+1165,02/07/2025,Cappuccino,Drinks,-2,4.25,Card
+180,04/30/2025,  BAGEL  ,Food,1,2.95,Cash
+1052,19-Mar-2025,Drip Coffee,Drinks,1,2.75,Card
+1485,03/19/2025,Drip Coffee,Drinks,2,2.75,Mobile
+1318,03/16/2025,  COLD BREW  ,Drinks,1,4.75,Card
+231,01/27/2025,Drip Coffee,Drinks,2,2.75,Cash
+189,11-Mar-2025,Latte,Drinks,1,4.5,Cash
+155,04/08/2025,Cold Brew,Drinks,1,,Card
+1403,03-Jan-2025,Cold Brew,Drinks,2,4.75,Card
+1254,2025-02-08,Avocado Toast,Food,3,7.5,Cash
+579,2025-01-12,Latte,Drinks,1,4.5,Cash
+1008,25-Apr-2025,Bagel,Food,3,2.95,Mobile
+1327,10-Jan-2025,Latte,Drinks,1,4.5,Cash
+670,2025-02-22,Latte,Drinks,1,4.5,Card
+1033,18-Mar-2025,Croissant,Food,1,3.25,Card
+66,28-Apr-2025,Drip Coffee,Drinks,2,,Mobile
+896,04/09/2025,Cappuccino,Drinks,1,,Mobile
+34,02/20/2025,Cold Brew,Drinks,1,4.75,Card
+1330,2025-03-03,Latte,Drinks,2,4.5,Mobile
+1050,14-Feb-2025,Croissant,Food,3,3.25,Cash
+124,2025-02-02,Croissant,Food,1,3.25,Card
+1083,2025-04-05,Cold Brew,Drinks,3,4.75,Cash
+99,2025-01-14,Blueberry Muffin,Food,3,3.0,Mobile
+997,30-Jan-2025,Drip Coffee,Drinks,2,2.75,Mobile
+1272,02/20/2025,Avocado Toast,Food,2,7.5,Card
+1229,03/08/2025,Avocado Toast,Food,1,7.5,Mobile
+842,2025-01-08,Bagel,Food,1,2.95,Cash
+1423,2025-03-02,Avocado Toast,Food,3,7.5,Cash
+1180,04/22/2025,Bagel,Food,2,2.95,Mobile
+48,04/18/2025,Avocado Toast,Food,3,7.5,Mobile
+523,16-Apr-2025,Drip Coffee,Drinks,2,2.75,Cash
+531,20-Jan-2025,Blueberry Muffin,Food,1,3.0,Cash
+408,2025-04-28,Blueberry Muffin,Food,3,3.0,Mobile
+683,04/28/2025,Drip Coffee,Drinks,3,2.75,Card
+742,19-Jan-2025,Drip Coffee,Drinks,1,2.75,Mobile
+944,02/19/2025,Latte,Drinks,1,4.5,Card
+1371,03/17/2025,Drip Coffee,Drinks,1,2.75,Mobile
+960,26-Jan-2025,Cold Brew,Drinks,1,4.75,Cash
+658,27-Jan-2025,Avocado Toast,Food,2,7.5,Mobile
+378,2025-03-11,Blueberry Muffin,Food,2,3.0,Card
+440,04/24/2025,Blueberry Muffin,Food,2,3.0,Card
+914,2025-02-23,Drip Coffee,Drinks,2,2.75,Mobile
+740,2025-04-12,Drip Coffee,Drinks,-1,2.75,Card
+643,2025-01-06,Avocado Toast,Food,3,7.5,Cash
+140,24-Mar-2025,Croissant,Food,2,3.25,Card
+288,25-Feb-2025,Latte,Drinks,1,4.5,Cash
+45,13-Apr-2025,Blueberry Muffin,Food,2,3.0,Card
+1488,2025-03-10,Blueberry Muffin,Food,2,3.0,Cash
+1088,2025-04-03,Latte,Drinks,1,4.5,Cash
+1141,2025-01-15,,Food,1,3.0,Cash
+534,2025-04-11,Cold Brew,Drinks,2,4.75,Mobile
+1120,02/27/2025,Latte,Drinks,2,4.5,Card
+1173,2025-03-05,Blueberry Muffin,Food,1,3.0,Card
+672,2025-01-20,Bagel,Food,2,2.95,Card
+503,2025-03-25,Drip Coffee,Drinks,3,2.75,Cash
+1198,2025-02-10,Cappuccino,Drinks,2,4.25,Card
+181,02/10/2025,Cold Brew,Drinks,1,4.75,Card
+1151,2025-01-29,  CAPPUCCINO  ,Drinks,1,4.25,Card
+410,2025-03-14,Cappuccino,Drinks,1,4.25,Cash
+1176,01/01/2025,Cold Brew,Drinks,1,4.75,Card
+613,28-Mar-2025,Drip Coffee,Drinks,1,2.75,Card
+309,11-Apr-2025,Blueberry Muffin,Food,2,3.0,Cash
+311,2025-02-01,Drip Coffee,Drinks,3,2.75,Card
+848,01/03/2025,Blueberry Muffin,Food,1,3.0,Mobile
+665,01/25/2025,Latte,Drinks,1,4.5,Mobile
+152,20-Jan-2025,Cappuccino,Drinks,1,4.25,Cash
+276,04/28/2025,Bagel,Food,1,2.95,Mobile
+1335,2025-01-10,Cappuccino,Drinks,3,4.25,Card
+228,2025-01-07,Cold Brew,Drinks,3,4.75,Card
+583,02/19/2025,Cold Brew,Drinks,2,4.75,Mobile
+898,14-Jan-2025,Blueberry Muffin,Food,1,3.0,Mobile
+757,2025-03-09,Latte,Drinks,2,4.5,Card
+1399,10-Jan-2025,Cappuccino,Drinks,1,4.25,Mobile
+566,01/22/2025,Cappuccino,Drinks,1,4.25,Card
+1294,15-Feb-2025,Blueberry Muffin,Food,2,3.0,Card
+1397,01/14/2025,Latte,Drinks,2,4.5,Card
+208,2025-02-25,Drip Coffee,Drinks,1,2.75,Card
+122,13-Jan-2025,Drip Coffee,Drinks,3,2.75,Cash
+769,2025-01-19,Cappuccino,Drinks,3,4.25,Cash
+1201,2025-02-16,Drip Coffee,Drinks,2,2.75,Mobile
+574,22-Feb-2025,Blueberry Muffin,Food,1,3.0,Cash
+512,23-Jan-2025,Bagel,Food,1,2.95,Cash
+1347,15-Mar-2025,Croissant,Food,1,3.25,Mobile
+799,04/15/2025,Blueberry Muffin,Food,1,3.0,Mobile
+95,16-Jan-2025,Croissant,Food,2,3.25,Cash
+963,03-Jan-2025,Cold Brew,Drinks,3,4.75,Cash
+983,02/21/2025,Avocado Toast,Food,1,7.5,Mobile
+1421,22-Jan-2025,  BAGEL  ,Food,1,2.95,Card
+329,2025-02-23,Croissant,Food,3,3.25,Mobile
+498,04/24/2025,Croissant,Food,3,3.25,Mobile
+153,02/26/2025,Bagel,Food,2,2.95,Cash
+219,16-Mar-2025,Cold Brew,Drinks,1,4.75,Mobile
+1238,02/13/2025,Latte,Drinks,1,4.5,Mobile
+1310,2025-04-02,Blueberry Muffin,Food,2,3.0,Card
+1313,20-Apr-2025,Latte,Drinks,1,4.5,Cash
+1349,2025-03-01,  BAGEL  ,Food,1,2.95,Card
+409,04/11/2025,Bagel,Food,1,2.95,Card
+1147,05-Feb-2025,Drip Coffee,Drinks,2,2.75,Card
+1143,17-Jan-2025,Cappuccino,Drinks,1,4.25,Card
+668,09-Jan-2025,Blueberry Muffin,Food,1,3.0,Mobile
+784,04/04/2025,Cappuccino,Drinks,1,4.25,Mobile
+876,04/28/2025,Drip Coffee,Drinks,2,2.75,Cash
+660,15-Mar-2025,Croissant,Food,2,3.25,Mobile
+49,14-Jan-2025,Croissant,Food,1,3.25,Card
+765,2025-04-08,Cold Brew,Drinks,3,4.75,Card
+1477,02/21/2025,Latte,Drinks,2,4.5,Cash
+1391,03/28/2025,Blueberry Muffin,Food,1,3.0,Cash
+428,05-Jan-2025,Avocado Toast,Food,3,7.5,Card
+989,18-Mar-2025,Blueberry Muffin,Food,1,3.0,Card
+40,09-Apr-2025,Latte,Drinks,1,4.5,Cash
+562,2025-03-22,Croissant,Food,2,3.25,Mobile
+936,03/27/2025,Cappuccino,Drinks,2,4.25,Mobile
+1498,10-Apr-2025,Cappuccino,Drinks,3,4.25,Card
+1253,2025-04-25,Avocado Toast,Food,-1,7.5,Card
+838,2025-02-22,Croissant,Food,2,3.25,Cash
+114,2025-02-08,Drip Coffee,Drinks,3,2.75,Cash
+828,2025-02-11,  LATTE  ,Drinks,2,4.5,Cash
+12,01/29/2025,Avocado Toast,Food,1,7.5,Card
+855,26-Jan-2025,Latte,Drinks,2,4.5,Mobile
+806,01/28/2025,Latte,Drinks,2,4.5,Mobile
+1154,03/22/2025,Blueberry Muffin,Food,1,3.0,Cash
+872,25-Jan-2025,Bagel,Food,1,2.95,Cash
+631,2025-01-31,Cold Brew,Drinks,2,4.75,Mobile
+922,04/17/2025,Croissant,Food,1,3.25,Cash
+646,02/22/2025,,Drinks,2,2.75,Cash
+725,25-Mar-2025,Bagel,Food,1,2.95,Cash
+684,14-Feb-2025,Bagel,Food,1,2.95,Card
+628,03/22/2025,Blueberry Muffin,Food,1,3.0,Mobile
+297,2025-01-14,,Drinks,2,4.75,Cash
+1492,14-Mar-2025,Cold Brew,Drinks,1,4.75,Mobile
+622,08-Mar-2025,Cold Brew,Drinks,2,4.75,Mobile
+1311,02-Mar-2025,Bagel,Food,2,2.95,Mobile
+539,2025-03-25,  BLUEBERRY MUFFIN  ,Food,1,3.0,Mobile
+469,2025-01-01,Drip Coffee,Drinks,2,2.75,Mobile
+552,14-Feb-2025,Latte,Drinks,2,4.5,Mobile
+854,30-Mar-2025,  BLUEBERRY MUFFIN  ,Food,2,3.0,Card
+1220,23-Jan-2025,Avocado Toast,Food,1,7.5,Mobile
+971,01/08/2025,Cappuccino,Drinks,1,4.25,Card
+1058,2025-01-24,Drip Coffee,Drinks,1,2.75,Mobile
+667,08-Feb-2025,Latte,Drinks,-2,4.5,Mobile
+322,01/15/2025,Cappuccino,Drinks,2,4.25,Mobile
+1250,2025-04-07,Avocado Toast,Food,3,7.5,Cash
+324,02/14/2025,Bagel,Food,1,2.95,Card
+352,02/17/2025,Croissant,Food,1,3.25,Cash
+812,03/28/2025,Drip Coffee,Drinks,1,2.75,Card
+394,04/17/2025,Avocado Toast,Food,1,7.5,Cash
+321,2025-01-29,Latte,Drinks,1,4.5,Mobile
+664,2025-02-08,Cappuccino,Drinks,1,,Cash
+1476,03/15/2025,Latte,Drinks,1,4.5,Cash
+1170,04/28/2025,Cappuccino,Drinks,1,4.25,Card
+431,2025-02-15,Cappuccino,Drinks,1,4.25,Cash
+1249,28-Jan-2025,Cold Brew,Drinks,2,4.75,Card
+1346,04/27/2025,  COLD BREW  ,Drinks,1,4.75,Mobile
+211,03/26/2025,Drip Coffee,Drinks,1,2.75,Card
+967,02/24/2025,Cold Brew,Drinks,3,4.75,Mobile
+1087,18-Jan-2025,Drip Coffee,Drinks,2,2.75,Card
+656,2025-04-06,Drip Coffee,Drinks,2,2.75,Cash
+626,21-Apr-2025,Blueberry Muffin,Food,2,3.0,Mobile
+1028,04/23/2025,Cappuccino,Drinks,1,4.25,Cash
+630,26-Mar-2025,Blueberry Muffin,Food,2,3.0,Mobile
+437,2025-02-24,Avocado Toast,Food,2,7.5,Card
+475,04/06/2025,Avocado Toast,Food,3,7.5,Mobile
+223,13-Mar-2025,Blueberry Muffin,Food,1,3.0,Card
+397,01/22/2025,Avocado Toast,Food,3,7.5,Cash
+1390,2025-01-31,  AVOCADO TOAST  ,Food,3,7.5,Card
+1104,28-Feb-2025,Drip Coffee,Drinks,2,2.75,Card
+1431,01/23/2025,Bagel,Food,2,2.95,Cash
+908,09-Apr-2025,Blueberry Muffin,Food,1,3.0,Mobile
+194,2025-04-04,Croissant,Food,1,3.25,Cash
+624,01-Mar-2025,,Food,1,3.25,Cash
+885,06-Jan-2025,Avocado Toast,Food,1,7.5,Card
+135,2025-04-17,Cold Brew,Drinks,1,4.75,Card
+367,01/14/2025,Cappuccino,Drinks,1,4.25,Cash
+335,2025-02-16,Cappuccino,Drinks,3,4.25,Mobile
+1016,01-Feb-2025,Drip Coffee,Drinks,2,2.75,Card
+964,2025-03-24,Latte,Drinks,2,4.5,Cash
+1044,02/18/2025,Blueberry Muffin,Food,2,3.0,Cash
+1362,04/04/2025,Cold Brew,Drinks,2,4.75,Cash
+14,2025-04-03,Latte,Drinks,3,4.5,Card
+999,08-Feb-2025,Blueberry Muffin,Food,1,3.0,Card
+374,01/07/2025,Latte,Drinks,2,4.5,Cash
+1341,02/19/2025,Croissant,Food,2,3.25,Cash
+902,14-Feb-2025,Cold Brew,Drinks,2,4.75,Mobile
+1282,28-Apr-2025,Cappuccino,Drinks,1,4.25,Mobile
+633,2025-04-27,Drip Coffee,Drinks,2,2.75,Card
+1031,01/09/2025,Bagel,Food,1,2.95,Cash
+1150,2025-04-01,Bagel,Food,2,2.95,Mobile
+347,02-Apr-2025,Croissant,Food,3,3.25,Mobile
+699,2025-03-07,Drip Coffee,Drinks,2,2.75,Mobile
+510,2025-04-04,Cold Brew,Drinks,2,4.75,Mobile
+1090,02/25/2025,Blueberry Muffin,Food,2,3.0,Cash
+542,02/22/2025,Croissant,Food,1,3.25,Mobile
+614,07-Feb-2025,Cold Brew,Drinks,2,4.75,Card
+582,09-Apr-2025,Cold Brew,Drinks,2,4.75,Card
+1054,22-Jan-2025,Cold Brew,Drinks,2,4.75,Cash
+990,11-Feb-2025,Croissant,Food,1,3.25,Mobile
+1039,30-Jan-2025,Croissant,Food,1,3.25,Card
+674,04/30/2025,  LATTE  ,Drinks,1,4.5,Card
+362,08-Apr-2025,Blueberry Muffin,Food,1,3.0,Card
+1293,2025-04-11,Drip Coffee,Drinks,2,2.75,Mobile
+1009,2025-01-24,Bagel,Food,1,2.95,Mobile
+555,02/23/2025,Avocado Toast,Food,1,7.5,Mobile
+1232,04/06/2025,Avocado Toast,Food,1,7.5,Card
+834,2025-04-13,Croissant,Food,2,3.25,Mobile
+516,2025-02-02,Cappuccino,Drinks,2,4.25,Cash
+2,04-Jan-2025,Avocado Toast,Food,1,7.5,Mobile
+1386,02/14/2025,Cold Brew,Drinks,3,4.75,Cash
+1259,03/31/2025,Avocado Toast,Food,1,7.5,Mobile
+1301,2025-01-20,Cappuccino,Drinks,1,4.25,Card
+1207,2025-01-19,Drip Coffee,Drinks,2,2.75,Card
+399,01/01/2025,Latte,Drinks,1,4.5,Card
+1317,2025-02-02,Cold Brew,Drinks,1,4.75,Mobile
+907,2025-02-13,Latte,Drinks,1,4.5,Cash
+229,03/15/2025,Cold Brew,Drinks,1,,Cash
+881,2025-04-09,Drip Coffee,Drinks,1,2.75,Cash
+1192,04/14/2025,,Drinks,2,4.25,Cash
+20,2025-02-09,Cold Brew,Drinks,3,4.75,Card
+1166,2025-02-19,Cold Brew,Drinks,2,4.75,Mobile
+615,2025-01-11,Avocado Toast,Food,1,7.5,Mobile
+998,2025-04-29,Cappuccino,Drinks,1,4.25,Card
+1226,26-Apr-2025,Cold Brew,Drinks,1,,Mobile
+441,30-Jan-2025,Avocado Toast,Food,1,7.5,Card
+1208,2025-03-02,Blueberry Muffin,Food,2,,Cash
+1111,2025-02-14,Avocado Toast,Food,1,7.5,Cash
+205,03/15/2025,Blueberry Muffin,Food,2,3.0,Card
+405,20-Feb-2025,Croissant,Food,1,3.25,Mobile
+975,2025-01-17,Cold Brew,Drinks,2,4.75,Card
+171,2025-03-18,Avocado Toast,Food,1,7.5,Card
+906,03/13/2025,,Drinks,1,4.75,Card
+239,2025-03-25,Drip Coffee,Drinks,2,2.75,Cash
+980,2025-03-30,Bagel,Food,3,2.95,Mobile
+403,27-Mar-2025,Cappuccino,Drinks,1,4.25,Card
+150,24-Jan-2025,Blueberry Muffin,Food,1,3.0,Card
+1483,2025-02-27,,Food,1,3.25,Mobile
+654,24-Jan-2025,Cold Brew,Drinks,1,4.75,Mobile
+105,02/28/2025,Bagel,Food,1,2.95,Card
+1100,2025-03-08,Croissant,Food,1,3.25,Mobile
+202,20-Apr-2025,Cappuccino,Drinks,1,4.25,Cash
+951,01/21/2025,Croissant,Food,1,3.25,Card
+978,17-Mar-2025,Latte,Drinks,2,4.5,Card
+1191,2025-04-07,Cold Brew,Drinks,1,4.75,Cash
+1200,14-Mar-2025,Drip Coffee,Drinks,1,2.75,Mobile
+500,22-Feb-2025,Blueberry Muffin,Food,1,3.0,Cash
+1486,2025-04-21,Croissant,Food,1,3.25,Cash
+426,20-Jan-2025,Croissant,Food,1,3.25,Cash
+125,2025-01-19,Bagel,Food,1,2.95,Mobile
+1463,21-Apr-2025,Cappuccino,Drinks,3,4.25,Cash
+1394,01/12/2025,Latte,Drinks,2,4.5,Mobile
+272,03/02/2025,Cappuccino,Drinks,3,4.25,Mobile
+131,03/25/2025,Drip Coffee,Drinks,2,2.75,Mobile
+390,05-Jan-2025,Avocado Toast,Food,2,7.5,Mobile
+188,2025-01-31,Cappuccino,Drinks,1,4.25,Card
+569,2025-04-21,Blueberry Muffin,Food,1,3.0,Card
+1131,2025-04-07,Drip Coffee,Drinks,1,2.75,Card
+545,03/31/2025,Cold Brew,Drinks,3,4.75,Mobile
+1248,2025-03-01,Blueberry Muffin,Food,1,3.0,Mobile
+83,02-Feb-2025,Croissant,Food,1,3.25,Card
+364,04/25/2025,Avocado Toast,Food,3,7.5,Mobile
+935,06-Mar-2025,Drip Coffee,Drinks,1,2.75,Cash
+1413,04/24/2025,Blueberry Muffin,Food,2,3.0,Mobile
+1392,29-Jan-2025,Bagel,Food,3,2.95,Card
+1333,04/22/2025,Latte,Drinks,1,4.5,Cash
+375,02/15/2025,Avocado Toast,Food,1,7.5,Mobile
+525,19-Mar-2025,Avocado Toast,Food,1,7.5,Mobile
+676,27-Mar-2025,Blueberry Muffin,Food,-2,3.0,Mobile
+508,19-Apr-2025,Cappuccino,Drinks,1,4.25,Card
+1071,03-Mar-2025,Bagel,Food,1,2.95,Mobile
+1161,04/07/2025,Drip Coffee,Drinks,3,2.75,Mobile
+915,02/26/2025,,Food,1,3.0,Cash
+115,09-Mar-2025,Drip Coffee,Drinks,1,2.75,Cash
+163,2025-02-10,Blueberry Muffin,Food,3,3.0,Mobile
+1102,05-Jan-2025,Latte,Drinks,1,4.5,Mobile
+1096,01/03/2025,Avocado Toast,Food,3,7.5,Mobile
+1134,07-Mar-2025,Drip Coffee,Drinks,3,2.75,Card
+556,2025-03-29,Drip Coffee,Drinks,2,2.75,Cash
+138,23-Feb-2025,Drip Coffee,Drinks,3,2.75,Mobile
+1040,2025-04-22,Cold Brew,Drinks,-2,4.75,Card
+675,2025-03-15,Croissant,Food,1,3.25,Cash
+203,09-Jan-2025,Blueberry Muffin,Food,3,3.0,Mobile
+1283,2025-01-23,Bagel,Food,2,2.95,Cash
+817,03/04/2025,Cappuccino,Drinks,1,4.25,Card
+68,2025-02-13,Bagel,Food,1,2.95,Card
+1361,02/01/2025,Cold Brew,Drinks,1,4.75,Mobile
+745,04/09/2025,Cold Brew,Drinks,2,4.75,Mobile
+415,2025-02-26,Cappuccino,Drinks,1,4.25,Card
+468,2025-04-07,Blueberry Muffin,Food,1,3.0,Cash
+1074,12-Apr-2025,Bagel,Food,1,2.95,Card
+1460,03/24/2025,Avocado Toast,Food,1,7.5,Cash
+1308,28-Feb-2025,Bagel,Food,3,2.95,Card
+1167,01/22/2025,Cappuccino,Drinks,2,4.25,Mobile
+941,01/06/2025,Avocado Toast,Food,2,7.5,Mobile
+1022,03/01/2025,Bagel,Food,2,2.95,Cash
+731,04-Jan-2025,Latte,Drinks,1,4.5,Mobile
+404,02/23/2025,Avocado Toast,Food,2,7.5,Cash
+1332,30-Jan-2025,,Drinks,1,4.5,Mobile
+245,2025-03-07,Avocado Toast,Food,2,7.5,Cash
+1247,02/17/2025,Cold Brew,Drinks,3,4.75,Mobile
+570,18-Mar-2025,Drip Coffee,Drinks,2,2.75,Mobile
+308,2025-02-23,Cappuccino,Drinks,1,4.25,Cash
+460,2025-01-31,Bagel,Food,1,2.95,Cash
+423,25-Apr-2025,Croissant,Food,2,3.25,Mobile
+634,2025-02-10,Cappuccino,Drinks,1,,Cash
+461,2025-02-28,Cold Brew,Drinks,1,4.75,Card
+542,02/22/2025,Croissant,Food,1,3.25,Mobile
+133,02/20/2025,Blueberry Muffin,Food,1,3.0,Mobile
+1370,07-Apr-2025,Avocado Toast,Food,1,7.5,Card
+30,01/28/2025,Cold Brew,Drinks,1,4.75,Card
+778,04/25/2025,Croissant,Food,2,3.25,Mobile
+992,08-Mar-2025,Blueberry Muffin,Food,2,3.0,Cash
+360,03/21/2025,Croissant,Food,3,3.25,Mobile
+988,09-Jan-2025,Avocado Toast,Food,3,7.5,Cash
+1076,02/03/2025,Cold Brew,Drinks,1,4.75,Mobile
+347,02-Apr-2025,Croissant,Food,3,3.25,Mobile
+1328,2025-04-03,  DRIP COFFEE  ,Drinks,1,2.75,Cash
+994,2025-02-20,Bagel,Food,1,2.95,Cash
+775,03/15/2025,Latte,Drinks,1,4.5,Mobile
+767,03/21/2025,Croissant,Food,2,3.25,Card
+1072,2025-02-25,,Drinks,1,4.25,Cash
+644,04/10/2025,Avocado Toast,Food,1,7.5,Mobile
+1027,01/26/2025,Blueberry Muffin,Food,1,3.0,Mobile
+1203,04/20/2025,Latte,Drinks,1,4.5,Cash
+320,04/01/2025,Bagel,Food,2,2.95,Cash
+1319,14-Mar-2025,Blueberry Muffin,Food,2,3.0,Mobile
+705,15-Feb-2025,Blueberry Muffin,Food,2,3.0,Mobile
+349,2025-03-23,Avocado Toast,Food,2,7.5,Mobile
+1267,2025-03-26,Latte,Drinks,2,4.5,Cash
+977,2025-04-24,Croissant,Food,2,3.25,Cash
+832,01/07/2025,Croissant,Food,1,3.25,Mobile
+1059,2025-01-26,Cold Brew,Drinks,1,4.75,Cash
+1042,2025-01-11,Cold Brew,Drinks,2,4.75,Card
+746,01/23/2025,Bagel,Food,2,2.95,Cash
+532,2025-02-20,Croissant,Food,3,3.25,Mobile
+25,21-Feb-2025,Cappuccino,Drinks,1,4.25,Cash
+1197,04/09/2025,Latte,Drinks,1,4.5,Cash
+1497,2025-03-28,Latte,Drinks,3,4.5,Cash
+621,13-Apr-2025,Blueberry Muffin,Food,3,,Card
+1195,13-Feb-2025,Bagel,Food,1,2.95,Mobile
+434,22-Feb-2025,Cold Brew,Drinks,1,4.75,Card
+58,04/10/2025,Latte,Drinks,1,4.5,Mobile
+467,03/20/2025,Cappuccino,Drinks,1,4.25,Mobile
+1305,13-Jan-2025,Croissant,Food,3,3.25,Card
+527,2025-02-23,Avocado Toast,Food,2,7.5,Cash
+787,2025-03-01,Drip Coffee,Drinks,2,2.75,Cash
+599,06-Jan-2025,Croissant,Food,2,3.25,Card
+1245,24-Apr-2025,  BAGEL  ,Food,1,2.95,Mobile
+301,2025-04-09,Drip Coffee,Drinks,3,2.75,Cash
+264,28-Mar-2025,Drip Coffee,Drinks,3,2.75,Cash
+1424,02/09/2025,Bagel,Food,1,2.95,Card
+317,19-Feb-2025,Drip Coffee,Drinks,2,2.75,Mobile
+604,2025-03-11,Cold Brew,Drinks,2,4.75,Cash
+1379,03/05/2025,Bagel,Food,2,2.95,Cash
+901,2025-03-21,Cappuccino,Drinks,2,4.25,Mobile
+1461,01/24/2025,Avocado Toast,Food,3,7.5,Cash
+974,03/08/2025,Latte,Drinks,2,4.5,Mobile
+625,07-Feb-2025,Cappuccino,Drinks,1,4.25,Card
+1299,19-Jan-2025,Cold Brew,Drinks,2,4.75,Card
+1163,01/11/2025,Blueberry Muffin,Food,3,3.0,Cash
+325,03/20/2025,Blueberry Muffin,Food,3,3.0,Card
+1467,2025-04-30,Latte,Drinks,1,4.5,Cash
+629,04/24/2025,Croissant,Food,2,3.25,Card
+597,03/19/2025,,Food,1,3.0,Cash
+1462,2025-01-21,Avocado Toast,Food,1,7.5,Mobile
+743,2025-01-24,Latte,Drinks,2,4.5,Cash
+1155,26-Mar-2025,Latte,Drinks,2,4.5,Mobile
+760,09-Apr-2025,Bagel,Food,2,2.95,Cash
+453,2025-02-21,Drip Coffee,Drinks,1,2.75,Cash
+54,25-Feb-2025,Croissant,Food,1,3.25,Card
+591,04/22/2025,Bagel,Food,1,2.95,Cash
+1069,19-Feb-2025,Cappuccino,Drinks,3,4.25,Mobile
+304,03/31/2025,Latte,Drinks,1,4.5,Mobile
+287,07-Apr-2025,Blueberry Muffin,Food,2,3.0,Cash
+74,11-Apr-2025,  CAPPUCCINO  ,Drinks,2,4.25,Cash
+1218,2025-03-06,Croissant,Food,1,3.25,Cash
+564,2025-04-24,Avocado Toast,Food,1,7.5,Cash
+1164,01/20/2025,Blueberry Muffin,Food,2,3.0,Card
+529,04/27/2025,Bagel,Food,1,2.95,Card
+1433,02/26/2025,Cappuccino,Drinks,1,4.25,Mobile
+923,2025-03-06,Croissant,Food,3,3.25,Mobile
+678,01/10/2025,Cold Brew,Drinks,1,4.75,Cash
+911,2025-02-26,Croissant,Food,3,3.25,Cash
+1412,02-Jan-2025,Avocado Toast,Food,2,7.5,Cash
+605,2025-04-03,  AVOCADO TOAST  ,Food,1,,Card
+702,04-Apr-2025,Drip Coffee,Drinks,3,2.75,Card
+533,09-Feb-2025,Bagel,Food,1,2.95,Card
+502,2025-03-27,Cappuccino,Drinks,1,4.25,Cash
+1007,2025-01-27,Avocado Toast,Food,2,7.5,Mobile
+1453,04/07/2025,Cold Brew,Drinks,2,4.75,Cash
+939,03/06/2025,Cold Brew,Drinks,2,4.75,Cash

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Jhaily — Unsubscribed</title>
+<style>
+  :root { --paper: #FAF9F4; --ink: #1E2A3A; --ink-soft: #4A5568; --green: #3C6E52; --rule: #DAD5C7; }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--paper); color: var(--ink); font-family: "Helvetica Neue", Arial, sans-serif; line-height: 1.55; }
+  .wrap { max-width: 480px; margin: 0 auto; padding: 0 24px; }
+  header { padding: 28px 0 24px; border-bottom: 1px solid var(--rule); }
+  .wordmark { font-family: Georgia, serif; font-size: 22px; }
+  .wordmark span { color: var(--green); }
+  main { padding: 56px 0; }
+  h1 { font-family: Georgia, serif; font-weight: 400; font-size: 26px; margin: 0 0 14px; }
+  p { color: var(--ink-soft); font-size: 16px; }
+  a { color: var(--green); }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <header><div class="wordmark">Jhai<span>ly</span></div></header>
+    <main>
+      {% if found %}
+        <h1>You've been unsubscribed</h1>
+        <p>Reports for <strong>{{ business_name }}</strong> have been stopped. If this was a mistake, just log in and add the business again.</p>
+      {% else %}
+        <h1>Link not recognized</h1>
+        <p>This unsubscribe link doesn't match anything in our records — it may have already been used. If you're still receiving reports you don't want, email <a href="mailto:support@jhaily.app">support@jhaily.app</a>.</p>
+      {% endif %}
+      <p><a href="/login">&larr; Back to Jhaily</a></p>
+    </main>
+  </div>
+</body>
+</html>

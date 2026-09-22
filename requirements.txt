@@ -1,0 +1,9 @@
+Flask
+Flask-SQLAlchemy
+Flask-Login
+python-dotenv
+pandas
+python-dateutil
+matplotlib
+APScheduler
+xhtml2pdf

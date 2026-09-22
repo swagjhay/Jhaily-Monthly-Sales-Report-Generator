@@ -1,0 +1,24 @@
+# Secrets -- never commit these
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+env/
+
+# Database
+instance/
+*.db
+
+# User-uploaded and generated files (created at runtime, not part of the source)
+uploads/
+revenue_chart*.png
+report_*.pdf
+
+# Editor/OS cruft
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

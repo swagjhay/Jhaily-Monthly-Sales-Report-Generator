@@ -1,0 +1,909 @@
+transaction_id,date,item,category,quantity,unit_price,payment_method
+795,2025-04-10,Silk Scarf,Accessories,1,32.0,Cash
+674,26-Apr-2025,Silk Scarf,Accessories,1,32.0,Mobile
+151,08-Feb-2025,Greeting Card,Stationery,1,4.5,Card
+211,01/24/2025,Greeting Card,Stationery,1,4.5,Cash
+694,04/02/2025,Notebook,Stationery,2,9.0,Card
+152,04/06/2025,Wooden Frame,Home,2,22.0,Cash
+836,09-Jan-2025,Wooden Frame,Home,2,22.0,Card
+166,2025-03-09,Wooden Frame,Home,-1,22.0,Card
+398,01-Apr-2025,Ceramic Mug,Home,1,12.5,Card
+193,2025-03-21,Earrings,Accessories,2,26.0,Card
+292,2025-02-22,,Home,3,14.0,Cash
+463,03/29/2025,Wooden Frame,Home,3,22.0,Mobile
+205,02/04/2025,Notebook,Stationery,2,9.0,Cash
+394,12-Apr-2025,,Accessories,1,32.0,Cash
+417,2025-04-07,Scented Candle,Home,3,14.0,Card
+289,10-Feb-2025,Tote Bag,Accessories,1,18.0,Cash
+715,2025-02-12,Wooden Frame,Home,1,22.0,Cash
+402,03/06/2025,Silk Scarf,Accessories,2,32.0,Card
+134,04/11/2025,Wooden Frame,Home,3,22.0,Card
+792,29-Mar-2025,Silk Scarf,Accessories,3,32.0,Cash
+15,04-Mar-2025,Silk Scarf,Accessories,1,32.0,Cash
+480,2025-02-08,Scented Candle,Home,2,14.0,Cash
+834,04/21/2025,Notebook,Stationery,1,9.0,Cash
+878,02/02/2025,Silk Scarf,Accessories,2,32.0,Card
+310,13-Mar-2025,Ceramic Mug,Home,1,12.5,Cash
+745,2025-01-23,Tote Bag,Accessories,2,18.0,Cash
+600,2025-04-25,Greeting Card,Stationery,3,4.5,Cash
+12,2025-01-28,Earrings,Accessories,1,26.0,Card
+810,03/06/2025,Ceramic Mug,Home,2,12.5,Cash
+718,02/09/2025,Earrings,Accessories,1,,Card
+558,2025-01-26,Notebook,Stationery,-2,9.0,Card
+206,04/02/2025,Silk Scarf,Accessories,1,32.0,Cash
+538,2025-01-15,Tote Bag,Accessories,2,18.0,Card
+475,03-Mar-2025,Scented Candle,Home,1,14.0,Mobile
+846,28-Mar-2025,Greeting Card,Stationery,3,4.5,Card
+391,04/21/2025,Tote Bag,Accessories,2,18.0,Card
+110,2025-03-21,Ceramic Mug,Home,1,12.5,Card
+508,19-Feb-2025,Greeting Card,Stationery,2,,Cash
+451,07-Apr-2025,Silk Scarf,Accessories,1,32.0,Mobile
+627,28-Feb-2025,Tote Bag,Accessories,1,18.0,Card
+844,2025-02-14,Ceramic Mug,Home,1,12.5,Card
+752,02/17/2025,Earrings,Accessories,1,26.0,Card
+798,2025-03-16,Notebook,Stationery,1,9.0,Mobile
+464,18-Mar-2025,Notebook,Stationery,3,9.0,Card
+86,2025-04-08,Wooden Frame,Home,-3,22.0,Mobile
+840,2025-03-11,Scented Candle,Home,2,14.0,Mobile
+482,2025-02-04,Wooden Frame,Home,2,22.0,Mobile
+283,2025-02-25,Greeting Card,Stationery,1,4.5,Mobile
+768,02/16/2025,Scented Candle,Home,2,,Mobile
+603,04/04/2025,Notebook,Stationery,1,9.0,Card
+574,2025-01-10,Wooden Frame,Home,3,22.0,Mobile
+532,09-Jan-2025,Notebook,Stationery,1,9.0,Mobile
+513,2025-02-26,Tote Bag,Accessories,1,18.0,Card
+551,03/09/2025,Scented Candle,Home,2,14.0,Card
+826,04/04/2025,Earrings,Accessories,2,26.0,Cash
+529,2025-01-21,Tote Bag,Accessories,2,18.0,Cash
+321,31-Mar-2025,Silk Scarf,Accessories,1,32.0,Card
+458,2025-01-12,Notebook,Stationery,2,9.0,Mobile
+436,2025-04-22,Wooden Frame,Home,1,22.0,Card
+277,29-Jan-2025,Ceramic Mug,Home,2,12.5,Cash
+611,2025-03-20,Notebook,Stationery,1,9.0,Cash
+196,11-Apr-2025,Earrings,Accessories,1,26.0,Mobile
+737,2025-02-04,Silk Scarf,Accessories,1,32.0,Card
+317,04/23/2025,Greeting Card,Stationery,1,4.5,Card
+804,04-Apr-2025,Tote Bag,Accessories,2,18.0,Card
+426,2025-03-10,Scented Candle,Home,1,14.0,Mobile
+507,04/27/2025,Earrings,Accessories,1,26.0,Mobile
+672,03/28/2025,Ceramic Mug,Home,1,12.5,Cash
+309,02/19/2025,Greeting Card,Stationery,1,4.5,Mobile
+46,2025-01-20,Greeting Card,Stationery,2,4.5,Card
+504,02-Jan-2025,Silk Scarf,Accessories,2,32.0,Cash
+351,22-Apr-2025,Ceramic Mug,Home,3,12.5,Mobile
+393,03/24/2025,Wooden Frame,Home,1,22.0,Mobile
+761,12-Jan-2025,Tote Bag,Accessories,1,18.0,Cash
+241,04/02/2025,Scented Candle,Home,2,14.0,Mobile
+828,2025-01-29,Wooden Frame,Home,1,22.0,Mobile
+390,03/16/2025,Earrings,Accessories,1,26.0,Cash
+361,01-Feb-2025,Silk Scarf,Accessories,1,32.0,Card
+284,2025-01-27,Silk Scarf,Accessories,1,32.0,Mobile
+103,01-Mar-2025,Wooden Frame,Home,1,22.0,Cash
+488,02/20/2025,Notebook,Stationery,2,9.0,Mobile
+637,2025-03-03,Notebook,Stationery,3,9.0,Card
+680,31-Jan-2025,Silk Scarf,Accessories,1,32.0,Cash
+435,11-Apr-2025,Ceramic Mug,Home,1,12.5,Cash
+586,25-Feb-2025,Earrings,Accessories,2,26.0,Cash
+182,02-Apr-2025,Wooden Frame,Home,3,22.0,Cash
+511,24-Apr-2025,Scented Candle,Home,1,14.0,Cash
+656,2025-03-06,Silk Scarf,Accessories,2,32.0,Cash
+409,31-Jan-2025,Tote Bag,Accessories,1,18.0,Card
+299,02/08/2025,Scented Candle,Home,2,14.0,Card
+540,04/17/2025,Notebook,Stationery,1,9.0,Cash
+609,02/28/2025,Scented Candle,Home,2,14.0,Mobile
+629,2025-01-19,Earrings,Accessories,1,26.0,Cash
+598,01/10/2025,Ceramic Mug,Home,3,12.5,Card
+131,2025-01-01,Tote Bag,Accessories,1,18.0,Card
+92,01/03/2025,Greeting Card,Stationery,1,4.5,Mobile
+69,2025-01-11,,Accessories,1,32.0,Cash
+88,03/12/2025,,Accessories,1,26.0,Mobile
+250,02/25/2025,  TOTE BAG  ,Accessories,1,18.0,Mobile
+315,01/06/2025,Wooden Frame,Home,3,22.0,Mobile
+70,28-Apr-2025,Wooden Frame,Home,1,22.0,Cash
+287,02/22/2025,Silk Scarf,Accessories,1,32.0,Cash
+649,2025-02-23,Scented Candle,Home,1,14.0,Cash
+126,10-Feb-2025,Scented Candle,Home,2,14.0,Mobile
+163,2025-02-14,Greeting Card,Stationery,1,4.5,Mobile
+376,2025-03-01,,Home,1,22.0,Card
+113,2025-01-20,Silk Scarf,Accessories,1,32.0,Card
+140,2025-03-10,Ceramic Mug,Home,1,12.5,Mobile
+125,2025-01-14,Tote Bag,Accessories,1,18.0,Card
+783,2025-04-02,Tote Bag,Accessories,1,18.0,Cash
+870,2025-04-07,Wooden Frame,Home,1,22.0,Card
+192,2025-01-01,Tote Bag,Accessories,2,18.0,Cash
+141,02/12/2025,Tote Bag,Accessories,1,18.0,Cash
+406,09-Mar-2025,Ceramic Mug,Home,2,12.5,Mobile
+543,03/16/2025,Ceramic Mug,Home,2,,Cash
+638,2025-01-09,Notebook,Stationery,2,9.0,Cash
+628,21-Jan-2025,Silk Scarf,Accessories,1,32.0,Card
+353,15-Feb-2025,Notebook,Stationery,1,9.0,Card
+375,2025-01-08,Notebook,Stationery,1,9.0,Mobile
+445,2025-03-18,Ceramic Mug,Home,1,12.5,Mobile
+388,2025-04-23,Greeting Card,Stationery,1,4.5,Card
+562,04/14/2025,Tote Bag,Accessories,2,18.0,Cash
+307,02/17/2025,Earrings,Accessories,2,26.0,Mobile
+455,2025-04-11,Scented Candle,Home,1,14.0,Card
+218,03/29/2025,Scented Candle,Home,3,14.0,Cash
+539,02/08/2025,Ceramic Mug,Home,1,12.5,Cash
+76,2025-02-04,Tote Bag,Accessories,1,18.0,Card
+742,2025-03-16,Wooden Frame,Home,2,22.0,Cash
+684,11-Feb-2025,Greeting Card,Stationery,2,4.5,Card
+23,16-Feb-2025,Greeting Card,Stationery,2,4.5,Cash
+492,17-Jan-2025,Wooden Frame,Home,1,22.0,Card
+320,01/07/2025,Earrings,Accessories,2,26.0,Cash
+202,2025-03-07,Notebook,Stationery,1,9.0,Mobile
+186,29-Mar-2025,Earrings,Accessories,1,26.0,Cash
+744,02/25/2025,Ceramic Mug,Home,3,12.5,Card
+719,2025-02-25,Notebook,Stationery,1,9.0,Mobile
+557,01/11/2025,Earrings,Accessories,3,26.0,Cash
+641,2025-02-25,Ceramic Mug,Home,1,12.5,Card
+693,2025-04-13,Ceramic Mug,Home,1,12.5,Card
+171,24-Apr-2025,Tote Bag,Accessories,2,18.0,Mobile
+852,03/10/2025,Silk Scarf,Accessories,1,32.0,Card
+208,27-Apr-2025,Scented Candle,Home,2,14.0,Mobile
+498,2025-01-04,Silk Scarf,Accessories,1,32.0,Mobile
+519,2025-04-14,Tote Bag,Accessories,1,18.0,Card
+425,2025-01-18,Wooden Frame,Home,2,22.0,Card
+39,01-Feb-2025,Earrings,Accessories,2,26.0,Card
+620,03/12/2025,Scented Candle,Home,3,14.0,Card
+197,26-Apr-2025,Ceramic Mug,Home,3,12.5,Card
+525,2025-01-10,  SCENTED CANDLE  ,Home,1,14.0,Cash
+493,01/28/2025,Greeting Card,Stationery,2,4.5,Cash
+648,30-Mar-2025,Earrings,Accessories,1,,Mobile
+794,01/09/2025,,Accessories,1,26.0,Cash
+561,02/13/2025,Wooden Frame,Home,1,22.0,Card
+280,2025-03-16,Wooden Frame,Home,2,22.0,Mobile
+833,01/09/2025,Greeting Card,Stationery,1,4.5,Cash
+467,2025-01-28,Silk Scarf,Accessories,1,32.0,Cash
+563,01/16/2025,Silk Scarf,Accessories,2,32.0,Mobile
+219,02/17/2025,Scented Candle,Home,1,14.0,Cash
+168,15-Apr-2025,Tote Bag,Accessories,1,18.0,Card
+407,08-Apr-2025,Silk Scarf,Accessories,2,32.0,Mobile
+530,2025-02-22,Silk Scarf,Accessories,1,32.0,Card
+384,2025-01-28,Earrings,Accessories,2,26.0,Card
+449,02/02/2025,Scented Candle,Home,2,14.0,Card
+72,04-Jan-2025,Earrings,Accessories,2,26.0,Card
+302,2025-03-10,Ceramic Mug,Home,1,12.5,Cash
+145,2025-01-29,Notebook,Stationery,2,9.0,Card
+722,03/26/2025,Ceramic Mug,Home,1,12.5,Cash
+172,16-Mar-2025,Scented Candle,Home,1,14.0,Cash
+469,04/23/2025,Earrings,Accessories,1,26.0,Cash
+631,2025-03-31,Ceramic Mug,Home,1,12.5,Cash
+44,04/01/2025,  EARRINGS  ,Accessories,2,26.0,Card
+396,01/23/2025,Wooden Frame,Home,1,22.0,Mobile
+858,04/11/2025,Ceramic Mug,Home,1,12.5,Mobile
+835,01/24/2025,Tote Bag,Accessories,2,18.0,Mobile
+147,2025-04-14,,Stationery,2,4.5,Mobile
+589,26-Apr-2025,Greeting Card,Stationery,3,4.5,Mobile
+512,04/26/2025,Earrings,Accessories,3,26.0,Card
+371,03/22/2025,Scented Candle,Home,1,14.0,Mobile
+18,2025-02-13,Tote Bag,Accessories,1,18.0,Mobile
+341,2025-04-03,Ceramic Mug,Home,1,12.5,Cash
+420,2025-03-17,Scented Candle,Home,1,14.0,Card
+758,03/02/2025,Tote Bag,Accessories,1,18.0,Card
+335,04-Apr-2025,Wooden Frame,Home,2,22.0,Card
+367,27-Jan-2025,  TOTE BAG  ,Accessories,1,18.0,Cash
+500,02-Feb-2025,Notebook,Stationery,3,9.0,Mobile
+305,21-Jan-2025,Earrings,Accessories,1,26.0,Card
+234,24-Jan-2025,,Stationery,1,9.0,Cash
+300,04/02/2025,Wooden Frame,Home,3,22.0,Card
+344,26-Feb-2025,Silk Scarf,Accessories,2,32.0,Mobile
+662,20-Apr-2025,Silk Scarf,Accessories,2,32.0,Cash
+712,2025-04-20,Silk Scarf,Accessories,3,32.0,Card
+850,2025-02-23,Scented Candle,Home,1,14.0,Card
+144,03/20/2025,,Accessories,1,,Mobile
+259,02-Feb-2025,Ceramic Mug,Home,1,,Card
+129,18-Apr-2025,Scented Candle,Home,2,14.0,Cash
+32,2025-04-13,Scented Candle,Home,1,14.0,Card
+791,03/01/2025,Earrings,Accessories,2,26.0,Card
+681,2025-03-02,Wooden Frame,Home,1,22.0,Mobile
+704,2025-01-05,Notebook,Stationery,2,9.0,Card
+533,04/30/2025,Silk Scarf,Accessories,2,32.0,Card
+295,01/22/2025,Ceramic Mug,Home,1,12.5,Mobile
+837,2025-01-30,Notebook,Stationery,2,,Mobile
+21,02/13/2025,Ceramic Mug,Home,3,12.5,Mobile
+60,04/03/2025,Wooden Frame,Home,1,22.0,Mobile
+892,04/06/2025,Scented Candle,Home,3,14.0,Mobile
+747,03-Jan-2025,Earrings,Accessories,1,26.0,Mobile
+439,2025-01-20,Silk Scarf,Accessories,2,32.0,Card
+431,01-Apr-2025,Greeting Card,Stationery,1,4.5,Cash
+731,04/14/2025,Tote Bag,Accessories,1,18.0,Mobile
+434,03/10/2025,Greeting Card,Stationery,1,4.5,Cash
+811,2025-01-07,Silk Scarf,Accessories,1,32.0,Mobile
+782,01/12/2025,Tote Bag,Accessories,1,18.0,Mobile
+380,05-Feb-2025,Earrings,Accessories,2,26.0,Cash
+698,17-Feb-2025,Notebook,Stationery,1,9.0,Mobile
+83,09-Mar-2025,Wooden Frame,Home,3,22.0,Cash
+616,09-Mar-2025,Ceramic Mug,Home,1,12.5,Mobile
+687,02/03/2025,Silk Scarf,Accessories,-2,32.0,Mobile
+68,03/04/2025,Silk Scarf,Accessories,3,32.0,Mobile
+619,04/22/2025,Scented Candle,Home,3,14.0,Card
+578,03/18/2025,Silk Scarf,Accessories,1,32.0,Card
+84,03/06/2025,Tote Bag,Accessories,3,18.0,Cash
+220,13-Apr-2025,Tote Bag,Accessories,3,18.0,Cash
+63,01/03/2025,Scented Candle,Home,-3,14.0,Mobile
+176,26-Mar-2025,Ceramic Mug,Home,1,12.5,Cash
+233,2025-01-13,Greeting Card,Stationery,2,4.5,Card
+296,04/09/2025,Scented Candle,Home,3,14.0,Cash
+691,04/14/2025,Earrings,Accessories,2,26.0,Card
+495,03/06/2025,Earrings,Accessories,1,26.0,Mobile
+775,01-Mar-2025,Silk Scarf,Accessories,2,32.0,Mobile
+210,2025-04-28,,Home,1,22.0,Mobile
+583,03/04/2025,Notebook,Stationery,2,9.0,Mobile
+94,04/05/2025,Scented Candle,Home,1,14.0,Card
+67,03/14/2025,Greeting Card,Stationery,2,4.5,Mobile
+251,2025-01-23,Silk Scarf,Accessories,3,32.0,Cash
+777,2025-01-23,Wooden Frame,Home,2,22.0,Mobile
+368,09-Jan-2025,Tote Bag,Accessories,2,18.0,Cash
+896,05-Feb-2025,Notebook,Stationery,1,9.0,Cash
+658,19-Mar-2025,Greeting Card,Stationery,1,4.5,Cash
+800,2025-03-18,  WOODEN FRAME  ,Home,2,22.0,Card
+477,2025-03-12,Scented Candle,Home,2,14.0,Cash
+438,05-Jan-2025,Silk Scarf,Accessories,2,32.0,Card
+164,03/21/2025,Earrings,Accessories,1,26.0,Cash
+465,02/23/2025,Ceramic Mug,Home,2,12.5,Cash
+189,2025-01-22,Earrings,Accessories,1,26.0,Mobile
+822,03-Mar-2025,Silk Scarf,Accessories,1,32.0,Card
+650,25-Apr-2025,Tote Bag,Accessories,1,18.0,Card
+279,04/11/2025,Earrings,Accessories,1,26.0,Card
+33,02-Feb-2025,Silk Scarf,Accessories,1,32.0,Cash
+187,05-Feb-2025,Scented Candle,Home,1,14.0,Mobile
+274,03/07/2025,Silk Scarf,Accessories,1,32.0,Card
+890,03/28/2025,Greeting Card,Stationery,1,4.5,Card
+252,01/18/2025,Tote Bag,Accessories,1,18.0,Card
+786,2025-03-27,Wooden Frame,Home,2,22.0,Mobile
+754,22-Feb-2025,Notebook,Stationery,2,9.0,Mobile
+378,04/15/2025,Ceramic Mug,Home,1,12.5,Mobile
+188,02/03/2025,Notebook,Stationery,2,9.0,Cash
+264,2025-01-07,Scented Candle,Home,2,14.0,Mobile
+682,03/19/2025,Silk Scarf,Accessories,1,32.0,Cash
+448,01/20/2025,Silk Scarf,Accessories,1,32.0,Mobile
+112,02/05/2025,Greeting Card,Stationery,1,4.5,Card
+155,04/23/2025,Silk Scarf,Accessories,1,32.0,Card
+748,02/25/2025,Ceramic Mug,Home,2,12.5,Mobile
+713,02/11/2025,Scented Candle,Home,2,14.0,Card
+579,02/01/2025,  CERAMIC MUG  ,Home,3,12.5,Card
+601,01/26/2025,Wooden Frame,Home,3,22.0,Mobile
+509,04/03/2025,Wooden Frame,Home,3,22.0,Card
+89,03/22/2025,Greeting Card,Stationery,1,4.5,Cash
+235,2025-04-21,Earrings,Accessories,1,26.0,Cash
+714,2025-02-23,,Accessories,1,26.0,Card
+528,2025-04-01,Earrings,Accessories,1,26.0,Card
+895,13-Jan-2025,Greeting Card,Stationery,3,4.5,Mobile
+517,05-Jan-2025,Silk Scarf,Accessories,1,32.0,Card
+123,04/24/2025,Wooden Frame,Home,2,22.0,Mobile
+655,2025-01-05,Notebook,Stationery,1,9.0,Cash
+385,2025-04-04,  CERAMIC MUG  ,Home,3,12.5,Card
+535,04/06/2025,Tote Bag,Accessories,3,18.0,Mobile
+606,04/09/2025,Wooden Frame,Home,3,22.0,Mobile
+416,2025-04-12,Tote Bag,Accessories,2,18.0,Cash
+751,01/11/2025,Silk Scarf,Accessories,1,32.0,Cash
+593,2025-02-19,Ceramic Mug,Home,2,12.5,Cash
+591,01/31/2025,Notebook,Stationery,2,9.0,Cash
+831,2025-01-08,Scented Candle,Home,1,14.0,Cash
+25,2025-03-08,Silk Scarf,Accessories,1,32.0,Cash
+249,14-Apr-2025,Scented Candle,Home,2,14.0,Cash
+64,2025-03-09,Ceramic Mug,Home,3,12.5,Card
+405,2025-03-11,Notebook,Stationery,2,9.0,Cash
+112,02/05/2025,Greeting Card,Stationery,1,4.5,Card
+55,03/27/2025,Scented Candle,Home,1,14.0,Mobile
+503,04/11/2025,Greeting Card,Stationery,3,4.5,Cash
+567,01-Feb-2025,Ceramic Mug,Home,2,12.5,Mobile
+40,02/23/2025,Earrings,Accessories,1,26.0,Card
+872,03-Apr-2025,Ceramic Mug,Home,1,12.5,Mobile
+654,19-Mar-2025,Greeting Card,Stationery,1,4.5,Cash
+209,01/06/2025,Ceramic Mug,Home,1,12.5,Card
+118,04/15/2025,Silk Scarf,Accessories,1,32.0,Card
+676,01/19/2025,Greeting Card,Stationery,2,,Cash
+199,2025-03-13,Earrings,Accessories,2,26.0,Card
+709,04/26/2025,Ceramic Mug,Home,1,12.5,Cash
+22,03/30/2025,,Stationery,1,9.0,Mobile
+159,04/29/2025,Ceramic Mug,Home,2,12.5,Mobile
+119,03-Mar-2025,Earrings,Accessories,2,26.0,Mobile
+774,17-Apr-2025,Notebook,Stationery,2,9.0,Cash
+785,01/13/2025,Wooden Frame,Home,1,22.0,Cash
+515,01/19/2025,Earrings,Accessories,2,26.0,Card
+173,26-Feb-2025,Tote Bag,Accessories,2,18.0,Mobile
+403,18-Apr-2025,Ceramic Mug,Home,1,12.5,Cash
+4,02/23/2025,Tote Bag,Accessories,1,18.0,Card
+706,2025-01-06,Greeting Card,Stationery,2,4.5,Cash
+862,2025-03-26,Earrings,Accessories,2,,Mobile
+523,01/12/2025,Ceramic Mug,Home,2,12.5,Card
+661,04/15/2025,Tote Bag,Accessories,3,18.0,Card
+636,02/11/2025,Scented Candle,Home,2,14.0,Cash
+728,20-Mar-2025,Earrings,Accessories,3,26.0,Mobile
+696,2025-01-20,  SILK SCARF  ,Accessories,1,32.0,Mobile
+178,2025-04-20,Scented Candle,Home,2,14.0,Card
+31,16-Apr-2025,Tote Bag,Accessories,2,18.0,Card
+452,14-Mar-2025,Ceramic Mug,Home,1,12.5,Mobile
+360,2025-03-15,Earrings,Accessories,1,26.0,Cash
+336,2025-02-26,Tote Bag,Accessories,1,18.0,Card
+881,03/17/2025,  CERAMIC MUG  ,Home,3,12.5,Mobile
+521,03/11/2025,Scented Candle,Home,3,14.0,Card
+120,2025-01-21,Ceramic Mug,Home,3,12.5,Card
+717,2025-04-18,Tote Bag,Accessories,2,18.0,Mobile
+489,2025-04-29,Wooden Frame,Home,3,22.0,Card
+760,17-Jan-2025,  NOTEBOOK  ,Stationery,1,9.0,Mobile
+840,2025-03-11,Scented Candle,Home,2,14.0,Mobile
+848,02-Jan-2025,Greeting Card,Stationery,1,4.5,Cash
+272,2025-03-11,Ceramic Mug,Home,3,12.5,Card
+85,02/27/2025,Wooden Frame,Home,3,22.0,Card
+298,01/07/2025,Scented Candle,Home,2,14.0,Cash
+291,24-Jan-2025,Silk Scarf,Accessories,2,32.0,Mobile
+213,17-Mar-2025,Wooden Frame,Home,2,22.0,Card
+266,03/22/2025,  WOODEN FRAME  ,Home,3,22.0,Mobile
+595,09-Apr-2025,Scented Candle,Home,1,14.0,Card
+756,07-Jan-2025,Silk Scarf,Accessories,3,32.0,Mobile
+659,04/15/2025,Silk Scarf,Accessories,1,,Card
+505,22-Mar-2025,Tote Bag,Accessories,2,18.0,Cash
+642,01/17/2025,Tote Bag,Accessories,2,18.0,Cash
+203,01/13/2025,Tote Bag,Accessories,1,18.0,Cash
+867,31-Jan-2025,Greeting Card,Stationery,1,4.5,Mobile
+635,04/13/2025,Silk Scarf,Accessories,1,32.0,Card
+369,2025-03-16,Ceramic Mug,Home,1,12.5,Cash
+364,2025-04-12,Notebook,Stationery,1,9.0,Cash
+48,2025-02-03,Silk Scarf,Accessories,1,32.0,Mobile
+817,2025-01-07,Earrings,Accessories,3,26.0,Card
+640,01/29/2025,Greeting Card,Stationery,1,4.5,Card
+899,2025-03-12,Earrings,Accessories,1,26.0,Card
+536,02/03/2025,Silk Scarf,Accessories,3,32.0,Mobile
+721,19-Mar-2025,Notebook,Stationery,1,9.0,Cash
+886,27-Apr-2025,Earrings,Accessories,1,26.0,Cash
+888,2025-02-02,Wooden Frame,Home,3,22.0,Card
+685,2025-04-19,Earrings,Accessories,1,26.0,Mobile
+386,02/18/2025,Silk Scarf,Accessories,2,32.0,Card
+401,20-Jan-2025,Wooden Frame,Home,2,22.0,Card
+686,01/07/2025,Scented Candle,Home,1,14.0,Card
+497,12-Apr-2025,Silk Scarf,Accessories,2,32.0,Card
+35,01/20/2025,,Accessories,2,18.0,Card
+730,25-Mar-2025,Tote Bag,Accessories,1,18.0,Mobile
+585,04/12/2025,Tote Bag,Accessories,1,18.0,Mobile
+175,2025-02-11,Silk Scarf,Accessories,3,32.0,Mobile
+624,11-Apr-2025,Tote Bag,Accessories,3,18.0,Card
+773,2025-03-24,Greeting Card,Stationery,3,4.5,Card
+781,03/02/2025,Greeting Card,Stationery,2,4.5,Mobile
+273,04/25/2025,Notebook,Stationery,2,9.0,Cash
+787,08-Apr-2025,,Home,1,14.0,Cash
+660,02-Mar-2025,Earrings,Accessories,2,26.0,Card
+766,25-Apr-2025,Tote Bag,Accessories,1,,Cash
+474,18-Feb-2025,Ceramic Mug,Home,2,12.5,Cash
+430,03/10/2025,Notebook,Stationery,1,9.0,Cash
+366,02/11/2025,Notebook,Stationery,3,9.0,Cash
+345,21-Apr-2025,Ceramic Mug,Home,1,12.5,Cash
+708,2025-01-05,Silk Scarf,Accessories,1,32.0,Mobile
+891,2025-03-05,Greeting Card,Stationery,2,4.5,Mobile
+301,22-Jan-2025,Ceramic Mug,Home,1,12.5,Cash
+806,04-Apr-2025,Greeting Card,Stationery,1,4.5,Cash
+734,03/31/2025,Scented Candle,Home,1,14.0,Cash
+359,03/09/2025,Notebook,Stationery,1,9.0,Cash
+319,09-Mar-2025,Silk Scarf,Accessories,1,32.0,Mobile
+599,04/01/2025,Wooden Frame,Home,2,22.0,Card
+326,02/16/2025,Greeting Card,Stationery,1,4.5,Mobile
+9,03/30/2025,Notebook,Stationery,1,9.0,Cash
+790,2025-02-12,Ceramic Mug,Home,1,12.5,Cash
+225,19-Apr-2025,Tote Bag,Accessories,1,18.0,Card
+496,03-Mar-2025,Earrings,Accessories,1,26.0,Card
+216,02/16/2025,Tote Bag,Accessories,1,18.0,Cash
+269,2025-01-16,Ceramic Mug,Home,1,12.5,Cash
+801,03/18/2025,Wooden Frame,Home,3,22.0,Cash
+13,2025-02-21,Tote Bag,Accessories,2,18.0,Mobile
+56,2025-02-28,Greeting Card,Stationery,1,,Mobile
+363,26-Apr-2025,Scented Candle,Home,2,14.0,Card
+479,08-Mar-2025,Tote Bag,Accessories,1,18.0,Cash
+738,2025-01-28,Silk Scarf,Accessories,1,32.0,Card
+154,2025-03-23,Scented Candle,Home,1,14.0,Cash
+342,21-Apr-2025,Tote Bag,Accessories,1,,Mobile
+423,04/19/2025,Ceramic Mug,Home,1,12.5,Mobile
+30,2025-01-11,Wooden Frame,Home,3,22.0,Mobile
+889,31-Mar-2025,Tote Bag,Accessories,1,18.0,Cash
+851,03/19/2025,Silk Scarf,Accessories,1,32.0,Mobile
+165,2025-01-07,Earrings,Accessories,3,26.0,Card
+841,05-Jan-2025,Silk Scarf,Accessories,2,32.0,Cash
+610,02/01/2025,Notebook,Stationery,1,9.0,Card
+400,2025-02-22,Notebook,Stationery,3,9.0,Mobile
+415,02/02/2025,Greeting Card,Stationery,1,4.5,Card
+135,02/06/2025,Tote Bag,Accessories,2,18.0,Card
+646,12-Mar-2025,Scented Candle,Home,2,14.0,Mobile
+99,04/03/2025,Greeting Card,Stationery,3,4.5,Card
+318,2025-04-10,Notebook,Stationery,1,9.0,Mobile
+651,24-Mar-2025,Notebook,Stationery,1,9.0,Cash
+184,02-Apr-2025,Silk Scarf,Accessories,1,32.0,Cash
+108,04/21/2025,Silk Scarf,Accessories,1,32.0,Cash
+516,04/11/2025,Wooden Frame,Home,2,22.0,Card
+485,09-Apr-2025,  GREETING CARD  ,Stationery,2,4.5,Cash
+799,2025-03-11,Ceramic Mug,Home,2,12.5,Mobile
+769,2025-03-12,Ceramic Mug,Home,1,12.5,Cash
+825,2025-04-19,Scented Candle,Home,1,14.0,Card
+864,03/04/2025,Greeting Card,Stationery,1,,Mobile
+518,06-Jan-2025,,Home,1,22.0,Card
+534,2025-04-02,Greeting Card,Stationery,1,4.5,Mobile
+14,03/29/2025,Wooden Frame,Home,1,22.0,Mobile
+875,2025-02-24,Wooden Frame,Home,1,22.0,Mobile
+222,2025-03-18,Scented Candle,Home,1,14.0,Mobile
+849,2025-03-07,Notebook,Stationery,1,9.0,Cash
+537,2025-02-20,Ceramic Mug,Home,-3,12.5,Card
+297,2025-01-09,Ceramic Mug,Home,2,12.5,Mobile
+762,2025-02-20,Tote Bag,Accessories,2,18.0,Cash
+207,2025-03-15,  WOODEN FRAME  ,Home,2,,Mobile
+1,02/20/2025,Notebook,Stationery,1,9.0,Mobile
+240,02/02/2025,Notebook,Stationery,1,9.0,Mobile
+494,08-Mar-2025,Scented Candle,Home,-3,14.0,Card
+705,2025-03-02,Notebook,Stationery,1,9.0,Card
+735,29-Apr-2025,  GREETING CARD  ,Stationery,2,4.5,Mobile
+726,11-Mar-2025,Earrings,Accessories,1,26.0,Mobile
+788,01/20/2025,Tote Bag,Accessories,2,18.0,Mobile
+776,02-Jan-2025,Tote Bag,Accessories,2,18.0,Card
+666,03/12/2025,Notebook,Stationery,1,9.0,Cash
+873,2025-03-24,  TOTE BAG  ,Accessories,3,,Mobile
+37,24-Apr-2025,Earrings,Accessories,1,26.0,Cash
+34,27-Apr-2025,Tote Bag,Accessories,1,18.0,Cash
+170,24-Apr-2025,Ceramic Mug,Home,2,12.5,Mobile
+428,26-Jan-2025,Greeting Card,Stationery,1,4.5,Cash
+177,2025-01-26,Wooden Frame,Home,1,22.0,Card
+117,05-Jan-2025,Notebook,Stationery,1,9.0,Mobile
+105,04/03/2025,Greeting Card,Stationery,1,4.5,Card
+725,2025-02-18,Scented Candle,Home,1,14.0,Mobile
+444,11-Apr-2025,Tote Bag,Accessories,1,18.0,Mobile
+404,2025-03-27,Earrings,Accessories,2,,Mobile
+334,04/13/2025,Ceramic Mug,Home,2,12.5,Cash
+276,2025-04-22,Ceramic Mug,Home,2,12.5,Mobile
+224,03/17/2025,Wooden Frame,Home,1,22.0,Mobile
+254,04/21/2025,Greeting Card,Stationery,3,4.5,Mobile
+258,04/13/2025,,Home,2,14.0,Card
+201,28-Mar-2025,Wooden Frame,Home,2,22.0,Card
+559,17-Feb-2025,Ceramic Mug,Home,2,12.5,Card
+699,2025-01-03,Tote Bag,Accessories,2,18.0,Card
+690,04/28/2025,Silk Scarf,Accessories,1,32.0,Mobile
+524,2025-02-08,Notebook,Stationery,1,9.0,Card
+692,25-Feb-2025,Ceramic Mug,Home,2,12.5,Card
+122,04/04/2025,Silk Scarf,Accessories,2,32.0,Card
+645,2025-01-24,Tote Bag,Accessories,1,18.0,Mobile
+859,2025-04-30,Scented Candle,Home,1,14.0,Cash
+823,2025-03-26,Ceramic Mug,Home,2,12.5,Cash
+306,2025-03-06,Greeting Card,Stationery,2,4.5,Mobile
+115,23-Apr-2025,Notebook,Stationery,1,9.0,Card
+653,03/06/2025,Greeting Card,Stationery,2,4.5,Cash
+897,24-Jan-2025,Notebook,Stationery,2,9.0,Mobile
+82,2025-01-31,Ceramic Mug,Home,1,12.5,Cash
+286,01-Mar-2025,Wooden Frame,Home,2,22.0,Card
+898,15-Mar-2025,Greeting Card,Stationery,1,4.5,Mobile
+739,01/27/2025,Notebook,Stationery,2,9.0,Mobile
+778,2025-04-25,Wooden Frame,Home,1,22.0,Mobile
+49,03/09/2025,Tote Bag,Accessories,1,18.0,Card
+812,28-Apr-2025,Notebook,Stationery,1,9.0,Mobile
+576,09-Apr-2025,Ceramic Mug,Home,3,12.5,Card
+759,01-Jan-2025,,Home,3,22.0,Card
+96,04/27/2025,Earrings,Accessories,2,26.0,Card
+255,24-Jan-2025,Greeting Card,Stationery,1,4.5,Mobile
+217,03/27/2025,Earrings,Accessories,2,26.0,Card
+443,08-Feb-2025,Tote Bag,Accessories,3,18.0,Cash
+630,02/05/2025,Earrings,Accessories,2,26.0,Card
+71,03/19/2025,Notebook,Stationery,1,9.0,Cash
+555,03/24/2025,Scented Candle,Home,2,14.0,Cash
+194,26-Apr-2025,Ceramic Mug,Home,2,12.5,Card
+484,20-Feb-2025,Ceramic Mug,Home,1,12.5,Card
+572,18-Jan-2025,Wooden Frame,Home,2,22.0,Cash
+212,04/10/2025,Scented Candle,Home,1,14.0,Mobile
+389,12-Jan-2025,Greeting Card,Stationery,1,4.5,Mobile
+866,2025-04-10,Tote Bag,Accessories,1,18.0,Cash
+314,2025-03-28,  SILK SCARF  ,Accessories,3,32.0,Card
+43,02/21/2025,Wooden Frame,Home,2,22.0,Cash
+66,22-Mar-2025,Scented Candle,Home,2,14.0,Mobile
+437,03/13/2025,Notebook,Stationery,3,9.0,Card
+554,2025-03-07,  GREETING CARD  ,Stationery,1,4.5,Mobile
+510,03/16/2025,,Accessories,3,32.0,Cash
+343,2025-01-11,Earrings,Accessories,3,26.0,Mobile
+124,2025-03-15,Wooden Frame,Home,1,22.0,Card
+869,12-Jan-2025,Tote Bag,Accessories,1,18.0,Card
+38,2025-02-26,Scented Candle,Home,1,14.0,Cash
+54,2025-01-07,,Home,1,22.0,Card
+253,2025-04-04,Ceramic Mug,Home,3,12.5,Cash
+471,01/13/2025,Notebook,Stationery,3,9.0,Cash
+288,26-Feb-2025,Earrings,Accessories,2,26.0,Card
+232,01/05/2025,Scented Candle,Home,1,14.0,Cash
+50,2025-02-09,Greeting Card,Stationery,3,4.5,Cash
+622,2025-01-20,Silk Scarf,Accessories,1,32.0,Mobile
+830,10-Feb-2025,Greeting Card,Stationery,2,4.5,Card
+52,2025-03-26,Earrings,Accessories,1,26.0,Mobile
+275,02/11/2025,Notebook,Stationery,2,9.0,Card
+607,2025-04-15,Tote Bag,Accessories,1,18.0,Card
+230,2025-03-14,Notebook,Stationery,2,9.0,Cash
+827,2025-02-23,Wooden Frame,Home,1,22.0,Cash
+195,01/10/2025,Scented Candle,Home,1,14.0,Card
+888,2025-02-02,Wooden Frame,Home,3,22.0,Card
+162,2025-01-13,Greeting Card,Stationery,2,4.5,Cash
+663,2025-02-19,Ceramic Mug,Home,3,12.5,Cash
+412,30-Mar-2025,Greeting Card,Stationery,2,4.5,Card
+167,12-Apr-2025,Earrings,Accessories,3,26.0,Cash
+487,2025-01-22,Ceramic Mug,Home,1,12.5,Cash
+757,29-Mar-2025,Ceramic Mug,Home,-1,12.5,Cash
+446,2025-03-15,Tote Bag,Accessories,2,18.0,Card
+333,02/17/2025,Notebook,Stationery,1,9.0,Card
+634,19-Jan-2025,Scented Candle,Home,3,14.0,Mobile
+560,2025-01-26,Silk Scarf,Accessories,2,32.0,Card
+102,2025-04-25,Notebook,Stationery,3,9.0,Card
+229,06-Mar-2025,Notebook,Stationery,2,9.0,Cash
+527,29-Mar-2025,Scented Candle,Home,3,14.0,Cash
+111,23-Feb-2025,Silk Scarf,Accessories,1,32.0,Card
+236,01/12/2025,Silk Scarf,Accessories,3,32.0,Cash
+608,2025-04-02,Silk Scarf,Accessories,2,32.0,Card
+215,01/28/2025,Ceramic Mug,Home,1,,Cash
+746,01/24/2025,Tote Bag,Accessories,1,18.0,Cash
+109,2025-02-22,Tote Bag,Accessories,1,18.0,Card
+248,02/07/2025,Ceramic Mug,Home,2,12.5,Mobile
+868,01/28/2025,Tote Bag,Accessories,2,18.0,Cash
+270,2025-01-08,Tote Bag,Accessories,1,18.0,Mobile
+695,2025-03-23,Wooden Frame,Home,1,22.0,Card
+62,2025-01-04,  SILK SCARF  ,Accessories,1,32.0,Mobile
+597,20-Feb-2025,Ceramic Mug,Home,1,12.5,Card
+328,01-Mar-2025,Scented Candle,Home,1,14.0,Mobile
+374,28-Jan-2025,Notebook,Stationery,1,,Mobile
+28,14-Feb-2025,Earrings,Accessories,3,26.0,Card
+6,01-Mar-2025,Wooden Frame,Home,1,22.0,Card
+179,19-Mar-2025,,Accessories,1,18.0,Mobile
+454,2025-01-11,Greeting Card,Stationery,-1,4.5,Cash
+865,2025-03-16,Ceramic Mug,Home,2,12.5,Cash
+132,14-Jan-2025,Earrings,Accessories,2,26.0,Mobile
+136,2025-04-07,Notebook,Stationery,2,9.0,Card
+95,02/03/2025,Earrings,Accessories,1,26.0,Card
+700,08-Mar-2025,Earrings,Accessories,1,26.0,Cash
+198,04/18/2025,Ceramic Mug,Home,3,12.5,Card
+440,2025-03-09,Silk Scarf,Accessories,3,32.0,Card
+304,01-Apr-2025,Tote Bag,Accessories,1,18.0,Cash
+422,2025-01-06,Wooden Frame,Home,2,22.0,Card
+736,2025-03-18,Earrings,Accessories,2,26.0,Card
+190,2025-02-15,Silk Scarf,Accessories,1,32.0,Mobile
+838,2025-03-05,Notebook,Stationery,1,9.0,Mobile
+450,01/02/2025,Silk Scarf,Accessories,1,32.0,Mobile
+150,22-Feb-2025,Silk Scarf,Accessories,1,32.0,Card
+59,06-Jan-2025,Wooden Frame,Home,2,22.0,Card
+550,2025-03-07,Scented Candle,Home,1,14.0,Card
+623,2025-02-23,Greeting Card,Stationery,1,4.5,Mobile
+703,04/05/2025,Wooden Frame,Home,3,22.0,Cash
+803,13-Apr-2025,,Home,2,22.0,Mobile
+204,2025-02-24,Wooden Frame,Home,1,22.0,Cash
+615,04/28/2025,Ceramic Mug,Home,3,12.5,Cash
+257,2025-04-07,Wooden Frame,Home,2,22.0,Mobile
+486,2025-04-24,Greeting Card,Stationery,1,4.5,Mobile
+349,10-Apr-2025,Tote Bag,Accessories,1,18.0,Mobile
+531,2025-04-12,Silk Scarf,Accessories,1,32.0,Mobile
+282,2025-02-11,  WOODEN FRAME  ,Home,3,22.0,Card
+580,11-Jan-2025,Scented Candle,Home,1,14.0,Cash
+183,02/11/2025,Tote Bag,Accessories,3,18.0,Cash
+242,01/18/2025,Notebook,Stationery,3,9.0,Mobile
+809,02/12/2025,Ceramic Mug,Home,1,12.5,Mobile
+716,03-Mar-2025,,Accessories,3,26.0,Mobile
+80,22-Jan-2025,Wooden Frame,Home,1,22.0,Card
+148,04/30/2025,Earrings,Accessories,-2,26.0,Mobile
+856,09-Apr-2025,Wooden Frame,Home,1,22.0,Mobile
+357,01/20/2025,Scented Candle,Home,1,14.0,Card
+602,04-Jan-2025,Notebook,Stationery,1,9.0,Cash
+546,04/08/2025,Silk Scarf,Accessories,1,32.0,Card
+74,02-Jan-2025,Silk Scarf,Accessories,3,32.0,Card
+633,03/22/2025,Notebook,Stationery,2,9.0,Mobile
+98,2025-04-30,Ceramic Mug,Home,1,12.5,Card
+470,2025-04-20,Scented Candle,Home,1,14.0,Mobile
+772,2025-03-05,Greeting Card,Stationery,3,,Cash
+733,04-Jan-2025,Notebook,Stationery,2,9.0,Card
+771,03/18/2025,Wooden Frame,Home,1,22.0,Mobile
+61,03/31/2025,Wooden Frame,Home,3,22.0,Mobile
+51,2025-01-05,  SCENTED CANDLE  ,Home,1,14.0,Card
+377,04/01/2025,Wooden Frame,Home,2,22.0,Mobile
+17,02/21/2025,Wooden Frame,Home,2,22.0,Cash
+261,2025-01-23,  CERAMIC MUG  ,Home,3,12.5,Card
+872,03-Apr-2025,Ceramic Mug,Home,1,12.5,Mobile
+26,2025-03-19,Silk Scarf,Accessories,3,32.0,Card
+427,2025-04-24,Wooden Frame,Home,2,22.0,Mobile
+355,13-Apr-2025,Ceramic Mug,Home,1,12.5,Cash
+19,22-Apr-2025,Scented Candle,Home,1,14.0,Cash
+263,2025-02-20,Earrings,Accessories,3,26.0,Mobile
+824,2025-03-21,Earrings,Accessories,2,26.0,Mobile
+392,2025-01-20,Tote Bag,Accessories,1,18.0,Card
+570,28-Mar-2025,Earrings,Accessories,1,26.0,Mobile
+592,04/02/2025,Ceramic Mug,Home,2,12.5,Card
+75,2025-04-07,Notebook,Stationery,2,9.0,Mobile
+370,2025-04-22,Wooden Frame,Home,3,22.0,Mobile
+670,02/07/2025,Silk Scarf,Accessories,1,32.0,Card
+271,2025-01-16,Tote Bag,Accessories,2,18.0,Card
+547,02/18/2025,Ceramic Mug,Home,3,,Card
+77,12-Mar-2025,Wooden Frame,Home,2,22.0,Card
+27,30-Jan-2025,Silk Scarf,Accessories,1,32.0,Card
+743,2025-03-12,Tote Bag,Accessories,2,18.0,Mobile
+260,04/18/2025,Greeting Card,Stationery,1,4.5,Cash
+740,28-Apr-2025,Tote Bag,Accessories,2,18.0,Mobile
+265,2025-04-19,Notebook,Stationery,2,9.0,Card
+548,04/02/2025,Earrings,Accessories,2,26.0,Cash
+703,04/05/2025,Wooden Frame,Home,3,22.0,Cash
+221,08-Jan-2025,Greeting Card,Stationery,1,4.5,Mobile
+383,22-Apr-2025,Tote Bag,Accessories,1,18.0,Card
+3,03/22/2025,Silk Scarf,Accessories,3,32.0,Card
+107,01/24/2025,  TOTE BAG  ,Accessories,2,18.0,Mobile
+514,22-Jan-2025,Scented Candle,Home,2,14.0,Cash
+226,01/26/2025,Earrings,Accessories,2,26.0,Mobile
+322,01/08/2025,Greeting Card,Stationery,1,4.5,Card
+688,01/26/2025,Wooden Frame,Home,1,22.0,Cash
+473,04/14/2025,Wooden Frame,Home,2,22.0,Card
+65,05-Apr-2025,Silk Scarf,Accessories,1,32.0,Cash
+604,2025-04-11,Notebook,Stationery,1,9.0,Card
+679,2025-03-05,Ceramic Mug,Home,2,,Card
+181,2025-01-16,Tote Bag,Accessories,3,18.0,Card
+146,04/30/2025,Tote Bag,Accessories,1,18.0,Mobile
+805,01-Apr-2025,Tote Bag,Accessories,1,18.0,Card
+879,01/15/2025,Tote Bag,Accessories,1,18.0,Card
+339,22-Jan-2025,,Accessories,3,18.0,Card
+347,28-Mar-2025,Ceramic Mug,Home,2,12.5,Card
+116,03/07/2025,Ceramic Mug,Home,1,12.5,Card
+613,22-Apr-2025,Greeting Card,Stationery,3,4.5,Card
+397,04/28/2025,Notebook,Stationery,2,9.0,Mobile
+358,21-Jan-2025,Wooden Frame,Home,2,22.0,Card
+821,03-Feb-2025,Greeting Card,Stationery,2,4.5,Cash
+596,2025-03-29,Ceramic Mug,Home,2,12.5,Cash
+7,02/08/2025,Ceramic Mug,Home,2,12.5,Card
+861,11-Jan-2025,Ceramic Mug,Home,3,12.5,Cash
+114,04/14/2025,Silk Scarf,Accessories,-3,32.0,Cash
+617,16-Feb-2025,Scented Candle,Home,1,14.0,Card
+626,01-Jan-2025,Scented Candle,Home,2,14.0,Cash
+884,27-Feb-2025,Notebook,Stationery,1,9.0,Card
+278,26-Jan-2025,Tote Bag,Accessories,3,18.0,Mobile
+237,29-Jan-2025,Silk Scarf,Accessories,3,32.0,Card
+900,2025-02-10,,Home,3,14.0,Cash
+501,02/13/2025,Earrings,Accessories,1,26.0,Mobile
+724,2025-02-21,Earrings,Accessories,1,26.0,Mobile
+520,13-Mar-2025,Ceramic Mug,Home,1,12.5,Card
+652,04-Mar-2025,Greeting Card,Stationery,1,4.5,Cash
+191,2025-02-15,Tote Bag,Accessories,2,18.0,Mobile
+331,04-Jan-2025,  TOTE BAG  ,Accessories,3,18.0,Mobile
+632,20-Jan-2025,Wooden Frame,Home,3,22.0,Cash
+478,26-Apr-2025,Notebook,Stationery,3,9.0,Cash
+863,01/18/2025,Scented Candle,Home,1,14.0,Mobile
+797,04-Jan-2025,Notebook,Stationery,1,9.0,Cash
+678,2025-01-21,Tote Bag,Accessories,1,18.0,Mobile
+293,2025-01-02,Ceramic Mug,Home,2,12.5,Mobile
+476,2025-01-23,Scented Candle,Home,2,14.0,Mobile
+466,2025-03-21,  WOODEN FRAME  ,Home,2,22.0,Cash
+483,06-Jan-2025,Tote Bag,Accessories,1,18.0,Cash
+174,25-Jan-2025,Silk Scarf,Accessories,2,32.0,Card
+647,20-Feb-2025,Notebook,Stationery,3,9.0,Card
+588,02/07/2025,Silk Scarf,Accessories,2,32.0,Card
+802,14-Jan-2025,Earrings,Accessories,2,26.0,Card
+612,2025-02-09,Earrings,Accessories,2,26.0,Mobile
+399,2025-02-16,Wooden Frame,Home,2,22.0,Mobile
+575,2025-01-23,Wooden Frame,Home,1,22.0,Cash
+308,20-Apr-2025,Ceramic Mug,Home,2,12.5,Card
+429,04/30/2025,Tote Bag,Accessories,1,18.0,Mobile
+876,03/05/2025,Ceramic Mug,Home,2,12.5,Card
+16,2025-03-30,Notebook,Stationery,1,9.0,Mobile
+58,03/06/2025,Earrings,Accessories,1,26.0,Card
+294,01/26/2025,Tote Bag,Accessories,2,18.0,Card
+882,02/13/2025,Silk Scarf,Accessories,2,32.0,Mobile
+411,2025-02-15,Ceramic Mug,Home,1,12.5,Cash
+24,2025-04-14,Silk Scarf,Accessories,2,32.0,Mobile
+350,02/08/2025,Silk Scarf,Accessories,2,32.0,Mobile
+228,2025-04-14,Ceramic Mug,Home,2,12.5,Mobile
+247,01/16/2025,Earrings,Accessories,1,26.0,Card
+227,2025-04-01,Wooden Frame,Home,2,22.0,Mobile
+245,2025-01-04,Silk Scarf,Accessories,1,32.0,Card
+214,02-Mar-2025,Ceramic Mug,Home,-3,,Mobile
+683,04/07/2025,Ceramic Mug,Home,2,12.5,Card
+433,02-Jan-2025,Earrings,Accessories,1,26.0,Mobile
+706,2025-01-06,Greeting Card,Stationery,2,4.5,Cash
+749,14-Feb-2025,Tote Bag,Accessories,3,18.0,Cash
+354,01/25/2025,,Stationery,1,4.5,Cash
+522,14-Apr-2025,Tote Bag,Accessories,2,18.0,Cash
+720,03/07/2025,Tote Bag,Accessories,1,18.0,Cash
+424,16-Apr-2025,Earrings,Accessories,1,26.0,Mobile
+78,2025-01-07,Greeting Card,Stationery,2,4.5,Cash
+442,2025-03-16,Greeting Card,Stationery,1,4.5,Card
+223,2025-04-09,Wooden Frame,Home,-2,22.0,Cash
+753,2025-01-14,Notebook,Stationery,3,,Card
+839,02/15/2025,Earrings,Accessories,2,26.0,Mobile
+793,04/04/2025,Silk Scarf,Accessories,1,32.0,Card
+618,11-Feb-2025,Wooden Frame,Home,1,22.0,Mobile
+818,04/11/2025,Silk Scarf,Accessories,2,32.0,Cash
+316,03/08/2025,Earrings,Accessories,3,26.0,Card
+594,2025-02-23,Earrings,Accessories,3,26.0,Mobile
+707,02/10/2025,Wooden Frame,Home,1,22.0,Mobile
+755,2025-02-25,Earrings,Accessories,3,26.0,Cash
+789,25-Feb-2025,Notebook,Stationery,2,9.0,Cash
+456,2025-04-29,Silk Scarf,Accessories,1,32.0,Card
+81,2025-04-08,Earrings,Accessories,1,26.0,Mobile
+664,2025-02-19,Scented Candle,Home,3,14.0,Card
+459,03-Feb-2025,Earrings,Accessories,1,26.0,Mobile
+671,07-Mar-2025,Ceramic Mug,Home,1,12.5,Cash
+268,03/21/2025,Scented Candle,Home,3,14.0,Mobile
+239,01/26/2025,Notebook,Stationery,1,9.0,Cash
+860,03/04/2025,Scented Candle,Home,1,14.0,Mobile
+410,2025-02-16,Notebook,Stationery,2,9.0,Cash
+584,02/07/2025,Wooden Frame,Home,2,22.0,Card
+91,2025-04-18,Notebook,Stationery,3,9.0,Mobile
+79,05-Apr-2025,Greeting Card,Stationery,3,4.5,Mobile
+481,2025-03-21,Earrings,Accessories,1,26.0,Cash
+127,2025-04-11,Tote Bag,Accessories,3,18.0,Card
+47,04/25/2025,Tote Bag,Accessories,2,18.0,Mobile
+506,2025-04-13,Wooden Frame,Home,1,22.0,Cash
+519,2025-04-14,Tote Bag,Accessories,1,18.0,Card
+29,2025-02-25,Earrings,Accessories,1,26.0,Cash
+581,2025-02-23,Notebook,Stationery,1,9.0,Card
+382,08-Jan-2025,Tote Bag,Accessories,1,18.0,Cash
+763,2025-02-19,Earrings,Accessories,2,26.0,Mobile
+490,27-Mar-2025,Scented Candle,Home,2,14.0,Card
+346,28-Feb-2025,Silk Scarf,Accessories,2,32.0,Mobile
+10,27-Mar-2025,Earrings,Accessories,3,26.0,Cash
+845,19-Jan-2025,Notebook,Stationery,2,9.0,Cash
+564,2025-01-22,Notebook,Stationery,1,9.0,Cash
+887,2025-04-15,Tote Bag,Accessories,2,18.0,Card
+502,10-Apr-2025,Scented Candle,Home,2,14.0,Mobile
+853,2025-03-08,Silk Scarf,Accessories,2,32.0,Cash
+732,01/12/2025,Silk Scarf,Accessories,2,32.0,Cash
+883,09-Jan-2025,Notebook,Stationery,3,9.0,Card
+8,04/07/2025,Wooden Frame,Home,1,22.0,Mobile
+667,01/18/2025,Wooden Frame,Home,1,22.0,Cash
+340,03/11/2025,Earrings,Accessories,1,26.0,Cash
+796,04/23/2025,Scented Candle,Home,3,14.0,Card
+677,2025-02-17,Wooden Frame,Home,1,22.0,Mobile
+614,23-Feb-2025,  EARRINGS  ,Accessories,2,26.0,Cash
+577,25-Mar-2025,Notebook,Stationery,1,9.0,Card
+133,03/23/2025,Scented Candle,Home,1,14.0,Card
+462,01/31/2025,Earrings,Accessories,2,26.0,Cash
+162,2025-01-13,Greeting Card,Stationery,2,4.5,Cash
+702,04/01/2025,Earrings,Accessories,1,26.0,Card
+893,11-Jan-2025,Greeting Card,Stationery,2,4.5,Cash
+447,01/01/2025,Ceramic Mug,Home,1,12.5,Card
+373,02/13/2025,,Home,2,12.5,Mobile
+36,02-Mar-2025,Tote Bag,Accessories,1,18.0,Mobile
+499,01/15/2025,Ceramic Mug,Home,2,12.5,Cash
+750,03/12/2025,Tote Bag,Accessories,1,18.0,Card
+573,2025-01-29,Notebook,Stationery,1,9.0,Mobile
+829,2025-02-23,Notebook,Stationery,2,9.0,Cash
+324,04/24/2025,Greeting Card,Stationery,1,4.5,Mobile
+874,2025-02-12,Scented Candle,Home,1,14.0,Mobile
+238,04/11/2025,Scented Candle,Home,1,14.0,Card
+5,13-Jan-2025,Silk Scarf,Accessories,1,32.0,Mobile
+285,28-Apr-2025,Earrings,Accessories,1,26.0,Mobile
+491,03/27/2025,Tote Bag,Accessories,1,18.0,Mobile
+408,01/29/2025,Earrings,Accessories,2,26.0,Mobile
+590,2025-02-10,Greeting Card,Stationery,2,4.5,Card
+541,21-Mar-2025,  NOTEBOOK  ,Stationery,1,9.0,Mobile
+161,19-Feb-2025,Ceramic Mug,Home,3,12.5,Card
+153,2025-01-05,Silk Scarf,Accessories,3,32.0,Mobile
+545,04/27/2025,Ceramic Mug,Home,1,12.5,Mobile
+387,2025-02-03,Greeting Card,Stationery,1,4.5,Mobile
+157,04/18/2025,,Accessories,2,,Mobile
+243,2025-02-13,Ceramic Mug,Home,2,12.5,Card
+741,2025-03-15,Silk Scarf,Accessories,1,32.0,Cash
+11,19-Feb-2025,Greeting Card,Stationery,3,4.5,Card
+231,2025-03-22,Ceramic Mug,Home,1,12.5,Mobile
+53,28-Jan-2025,Greeting Card,Stationery,3,4.5,Card
+244,2025-04-02,Scented Candle,Home,1,14.0,Cash
+2,12-Jan-2025,Silk Scarf,Accessories,1,32.0,Card
+842,30-Mar-2025,Greeting Card,Stationery,3,4.5,Card
+639,03/30/2025,Earrings,Accessories,1,26.0,Card
+657,03/29/2025,Notebook,Stationery,2,9.0,Mobile
+453,10-Jan-2025,Scented Candle,Home,1,14.0,Card
+689,01/05/2025,Notebook,Stationery,1,9.0,Card
+143,01/20/2025,Scented Candle,Home,1,14.0,Card
+697,2025-04-11,Earrings,Accessories,3,26.0,Mobile
+106,2025-04-02,Ceramic Mug,Home,2,12.5,Cash
+256,03/08/2025,Scented Candle,Home,1,14.0,Cash
+137,2025-04-28,Greeting Card,Stationery,2,4.5,Card
+93,2025-01-30,Wooden Frame,Home,1,22.0,Card
+857,2025-04-19,Ceramic Mug,Home,3,12.5,Card
+571,02/11/2025,Tote Bag,Accessories,2,18.0,Mobile
+421,20-Feb-2025,Ceramic Mug,Home,2,12.5,Card
+854,20-Jan-2025,Ceramic Mug,Home,2,12.5,Mobile
+553,2025-01-27,Notebook,Stationery,1,9.0,Cash
+813,04/14/2025,Earrings,Accessories,1,26.0,Card
+290,04/24/2025,Notebook,Stationery,2,9.0,Mobile
+880,28-Jan-2025,Wooden Frame,Home,3,22.0,Card
+42,04/06/2025,Earrings,Accessories,1,26.0,Card
+41,2025-04-25,Greeting Card,Stationery,1,4.5,Card
+441,02/05/2025,Silk Scarf,Accessories,2,32.0,Cash
+673,03/30/2025,  NOTEBOOK  ,Stationery,2,9.0,Card
+200,2025-04-18,Scented Candle,Home,1,14.0,Cash
+819,2025-02-23,Ceramic Mug,Home,1,12.5,Card
+87,02/01/2025,Earrings,Accessories,2,26.0,Mobile
+644,11-Feb-2025,Ceramic Mug,Home,2,12.5,Mobile
+313,2025-04-19,Earrings,Accessories,1,26.0,Mobile
+73,2025-02-18,Wooden Frame,Home,1,,Card
+142,23-Mar-2025,Greeting Card,Stationery,1,4.5,Card
+843,2025-03-04,Greeting Card,Stationery,2,4.5,Card
+461,04/11/2025,Ceramic Mug,Home,1,12.5,Mobile
+372,03/24/2025,Greeting Card,Stationery,2,4.5,Card
+605,02/16/2025,Notebook,Stationery,1,9.0,Card
+569,02/16/2025,Silk Scarf,Accessories,2,32.0,Mobile
+871,03/13/2025,Scented Candle,Home,1,14.0,Cash
+779,26-Mar-2025,Greeting Card,Stationery,2,4.5,Cash
+365,04/20/2025,Notebook,Stationery,2,9.0,Mobile
+701,04/17/2025,Greeting Card,Stationery,2,4.5,Mobile
+885,2025-04-27,Greeting Card,Stationery,1,4.5,Mobile
+544,04/03/2025,Notebook,Stationery,2,9.0,Mobile
+711,2025-04-02,,Home,2,14.0,Card
+729,2025-02-26,Silk Scarf,Accessories,3,32.0,Cash
+362,04-Feb-2025,Greeting Card,Stationery,2,4.5,Card
+847,01/30/2025,Silk Scarf,Accessories,1,32.0,Mobile
+323,03-Mar-2025,Earrings,Accessories,3,26.0,Cash
+764,2025-03-08,Wooden Frame,Home,2,22.0,Cash
+855,2025-01-17,Tote Bag,Accessories,2,18.0,Cash
+526,03/15/2025,Wooden Frame,Home,2,22.0,Card
+727,20-Mar-2025,Tote Bag,Accessories,3,18.0,Card
+329,03/24/2025,Greeting Card,Stationery,1,4.5,Cash
+312,2025-01-23,  TOTE BAG  ,Accessories,1,18.0,Card
+348,2025-04-17,Ceramic Mug,Home,2,12.5,Card
+45,01/11/2025,Silk Scarf,Accessories,1,32.0,Cash
+832,2025-01-10,  WOODEN FRAME  ,Home,2,22.0,Card
+669,2025-04-29,Notebook,Stationery,2,9.0,Card
+472,07-Mar-2025,Wooden Frame,Home,1,22.0,Mobile
+877,02/06/2025,Scented Candle,Home,3,14.0,Mobile
+158,02/20/2025,Greeting Card,Stationery,1,4.5,Card
+668,27-Jan-2025,Scented Candle,Home,1,14.0,Mobile
+352,2025-01-16,Scented Candle,Home,1,14.0,Card
+356,2025-04-23,Tote Bag,Accessories,2,18.0,Card
+381,04/14/2025,Ceramic Mug,Home,3,12.5,Card
+128,21-Feb-2025,Silk Scarf,Accessories,1,32.0,Card
+710,02/18/2025,Wooden Frame,Home,1,22.0,Mobile
+281,2025-04-20,Ceramic Mug,Home,2,12.5,Mobile
+780,04/18/2025,Earrings,Accessories,1,26.0,Cash
+767,2025-02-26,Greeting Card,Stationery,2,4.5,Mobile
+149,24-Jan-2025,Scented Candle,Home,-2,14.0,Mobile
+57,2025-01-05,Notebook,Stationery,-1,9.0,Card
+325,03/28/2025,Wooden Frame,Home,1,22.0,Card
+267,01/18/2025,Scented Candle,Home,1,14.0,Card
+816,01/10/2025,,Accessories,1,18.0,Card
+432,01/08/2025,Silk Scarf,Accessories,1,32.0,Mobile
+815,2025-03-01,Greeting Card,Stationery,3,4.5,Card
+723,03-Jan-2025,Tote Bag,Accessories,2,18.0,Card
+894,19-Apr-2025,Earrings,Accessories,1,26.0,Cash
+104,2025-02-12,Notebook,Stationery,1,9.0,Cash
+101,01/12/2025,  GREETING CARD  ,Stationery,2,4.5,Cash
+552,2025-03-01,Earrings,Accessories,1,26.0,Mobile
+20,01/15/2025,Earrings,Accessories,1,26.0,Card
+418,2025-01-17,Wooden Frame,Home,2,22.0,Card
+330,02/06/2025,Ceramic Mug,Home,3,12.5,Card
+337,2025-02-17,  SILK SCARF  ,Accessories,3,32.0,Card
+156,23-Apr-2025,Notebook,Stationery,1,9.0,Mobile
+100,2025-02-14,Greeting Card,Stationery,1,4.5,Cash
+625,2025-04-03,Silk Scarf,Accessories,2,32.0,Cash
+262,21-Feb-2025,Ceramic Mug,Home,1,12.5,Mobile
+582,09-Jan-2025,Greeting Card,Stationery,1,4.5,Cash
+121,2025-03-14,Greeting Card,Stationery,3,,Mobile
+587,06-Mar-2025,Silk Scarf,Accessories,1,32.0,Card
+643,03/01/2025,Tote Bag,Accessories,1,18.0,Cash
+807,2025-02-01,Tote Bag,Accessories,1,18.0,Card
+568,2025-01-10,Silk Scarf,Accessories,2,32.0,Mobile
+549,2025-01-16,Earrings,Accessories,1,26.0,Mobile
+770,31-Jan-2025,Greeting Card,Stationery,2,4.5,Mobile
+784,01/27/2025,,Home,1,12.5,Cash
+97,2025-01-07,Tote Bag,Accessories,2,18.0,Mobile
+765,02/26/2025,Silk Scarf,Accessories,1,32.0,Cash
+468,2025-01-22,Tote Bag,Accessories,1,18.0,Cash
+621,04/19/2025,Scented Candle,Home,2,14.0,Mobile
+338,03/26/2025,Greeting Card,Stationery,1,4.5,Mobile
+542,2025-02-03,Greeting Card,Stationery,3,4.5,Cash
+90,2025-02-03,Silk Scarf,Accessories,2,,Cash
+808,01/03/2025,Greeting Card,Stationery,1,4.5,Cash
+820,2025-02-18,Earrings,Accessories,1,26.0,Cash
+379,05-Apr-2025,Notebook,Stationery,1,9.0,Cash
+414,13-Mar-2025,Greeting Card,Stationery,1,4.5,Mobile
+246,26-Apr-2025,Notebook,Stationery,2,9.0,Card
+566,2025-02-06,Greeting Card,Stationery,1,4.5,Cash
+332,11-Apr-2025,Tote Bag,Accessories,1,18.0,Cash
+565,04/06/2025,Silk Scarf,Accessories,1,32.0,Card
+139,07-Jan-2025,Ceramic Mug,Home,2,12.5,Mobile
+395,2025-01-03,  CERAMIC MUG  ,Home,3,12.5,Card
+311,2025-02-06,Ceramic Mug,Home,1,12.5,Mobile
+130,23-Feb-2025,Greeting Card,Stationery,3,4.5,Cash
+185,2025-03-02,Silk Scarf,Accessories,3,32.0,Mobile
+413,2025-01-17,Scented Candle,Home,3,14.0,Cash
+457,10-Apr-2025,Earrings,Accessories,2,26.0,Card
+169,2025-03-13,Earrings,Accessories,3,26.0,Mobile
+460,19-Feb-2025,Tote Bag,Accessories,2,18.0,Mobile
+138,02/21/2025,Silk Scarf,Accessories,1,32.0,Cash
+180,03/27/2025,Wooden Frame,Home,1,22.0,Mobile
+327,15-Jan-2025,Greeting Card,Stationery,2,4.5,Card
+303,01/25/2025,Silk Scarf,Accessories,2,32.0,Cash
+675,2025-02-19,Notebook,Stationery,3,9.0,Card
+556,01/06/2025,Notebook,Stationery,3,9.0,Card
+160,09-Jan-2025,Scented Candle,Home,3,14.0,Mobile
+665,2025-02-10,Ceramic Mug,Home,2,12.5,Cash
+419,2025-04-21,Silk Scarf,Accessories,1,32.0,Mobile
+814,04/22/2025,Scented Candle,Home,3,14.0,Mobile

@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Jhaily — Log in</title>
+<style>
+  :root {
+    --paper: #FAF9F4;
+    --ink: #1E2A3A;
+    --ink-soft: #4A5568;
+    --green: #3C6E52;
+    --green-dark: #2C5140;
+    --rule: #DAD5C7;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--paper);
+    color: var(--ink);
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    line-height: 1.55;
+  }
+  .wrap { max-width: 420px; margin: 0 auto; padding: 0 24px; }
+  header { padding: 28px 0 24px; border-bottom: 1px solid var(--rule); }
+  .wordmark { font-family: Georgia, serif; font-size: 22px; }
+  .wordmark span { color: var(--green); }
+  main { padding: 48px 0; }
+  h1 { font-family: Georgia, serif; font-weight: 400; font-size: 26px; margin: 0 0 24px; }
+  .flash {
+    padding: 10px 14px; border-radius: 3px; font-size: 14px; margin-bottom: 18px;
+  }
+  .flash.error { background: #FBE9E7; color: #8A3B2F; }
+  .flash.success { background: #E7F0EA; color: #2C5140; }
+  form { display: grid; gap: 14px; }
+  .field { display: grid; gap: 6px; }
+  label { font-size: 14px; color: var(--ink-soft); }
+  input[type="email"], input[type="password"] {
+    font-size: 15px; padding: 11px 12px; border: 1px solid var(--rule);
+    border-radius: 3px; background: white; color: var(--ink); font-family: inherit;
+  }
+  input:focus { outline: 2px solid var(--green); outline-offset: 1px; }
+  button {
+    justify-self: start; background: var(--green); color: white; border: none;
+    padding: 12px 22px; border-radius: 3px; font-size: 15px; font-family: inherit;
+    cursor: pointer;
+  }
+  button:hover { background: var(--green-dark); }
+  .fine-print { font-size: 14px; color: var(--ink-soft); margin-top: 18px; }
+  .fine-print a { color: var(--green); }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <header><div class="wordmark">Jhai<span>ly</span></div></header>
+    <main>
+      <h1>Log in</h1>
+
+      {% with messages = get_flashed_messages(with_categories=true) %}
+        {% for category, message in messages %}
+          <div class="flash {{ category }}">{{ message }}</div>
+        {% endfor %}
+      {% endwith %}
+
+      <form method="POST">
+        <div class="field">
+          <label for="email">Email</label>
+          <input type="email" name="email" id="email" required>
+        </div>
+        <div class="field">
+          <label for="password">Password</label>
+          <input type="password" name="password" id="password" required>
+        </div>
+        <button type="submit">Log in</button>
+      </form>
+      <p class="fine-print">Don't have an account? <a href="/register">Register here</a>.</p>
+    </main>
+  </div>
+</body>
+</html>

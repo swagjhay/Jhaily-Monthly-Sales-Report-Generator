@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Jhaily — Dashboard</title>
+<style>
+  :root {
+    --paper: #FAF9F4; --ink: #1E2A3A; --ink-soft: #4A5568;
+    --green: #3C6E52; --green-dark: #2C5140; --rule: #DAD5C7; --brass: #B8863A;
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--paper); color: var(--ink); font-family: "Helvetica Neue", Arial, sans-serif; line-height: 1.55; }
+  .wrap { max-width: 640px; margin: 0 auto; padding: 0 24px; }
+  header { padding: 20px 0; border-bottom: 1px solid var(--rule); display: flex; justify-content: space-between; align-items: center; }
+  .wordmark { font-family: Georgia, serif; font-size: 22px; }
+  .wordmark span { color: var(--green); }
+  header a { color: var(--ink-soft); font-size: 14px; text-decoration: none; }
+  header a:hover { text-decoration: underline; }
+  main { padding: 36px 0; }
+  h1 { font-family: Georgia, serif; font-weight: 400; font-size: 24px; margin: 0 0 6px; }
+  .sub { color: var(--ink-soft); font-size: 15px; margin: 0 0 28px; }
+  .flash { padding: 10px 14px; border-radius: 3px; font-size: 14px; margin-bottom: 18px; }
+  .flash.error { background: #FBE9E7; color: #8A3B2F; }
+  .flash.success { background: #E7F0EA; color: #2C5140; }
+  .flash.info { background: #EFF3F1; color: var(--ink-soft); }
+  .business-card {
+    border: 1px solid var(--rule); border-radius: 4px; padding: 16px 18px;
+    margin-bottom: 12px; display: flex; justify-content: space-between; align-items: center;
+  }
+  .business-card .name { font-weight: 600; }
+  .business-card .email { color: var(--ink-soft); font-size: 14px; }
+  .status { font-size: 13px; padding: 3px 9px; border-radius: 12px; }
+  .status.active { background: #E7F0EA; color: #2C5140; }
+  .status.inactive { background: #F1EDE4; color: var(--ink-soft); }
+  .add-form { border: 1px solid var(--rule); border-radius: 4px; padding: 20px; margin-top: 24px; }
+  .add-form h2 { font-size: 17px; margin: 0 0 16px; font-weight: 600; }
+  form { display: grid; gap: 14px; }
+  .field { display: grid; gap: 6px; }
+  label { font-size: 14px; color: var(--ink-soft); }
+  input[type="text"], input[type="email"], input[type="file"] {
+    font-size: 15px; padding: 10px 12px; border: 1px solid var(--rule);
+    border-radius: 3px; background: white; color: var(--ink); font-family: inherit;
+  }
+  input:focus { outline: 2px solid var(--green); outline-offset: 1px; }
+  button {
+    justify-self: start; background: var(--green); color: white; border: none;
+    padding: 11px 20px; border-radius: 3px; font-size: 15px; font-family: inherit; cursor: pointer;
+  }
+  button:hover { background: var(--green-dark); }
+  .empty { color: var(--ink-soft); font-size: 15px; }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <header>
+      <div class="wordmark">Jhai<span>ly</span></div>
+      <a href="/logout">Log out</a>
+    </header>
+    <main>
+      <h1>Your businesses</h1>
+      <p class="sub">Signed in as {{ current_user.email }}</p>
+
+      {% with messages = get_flashed_messages(with_categories=true) %}
+        {% for category, message in messages %}
+          <div class="flash {{ category }}">{{ message }}</div>
+        {% endfor %}
+      {% endwith %}
+
+      {% if businesses %}
+        {% for business in businesses %}
+          <div class="business-card">
+            <div>
+              <div class="name">{{ business.name }}</div>
+              <div class="email">Reports sent to {{ business.recipient_email }}</div>
+            </div>
+            <span class="status {{ 'active' if business.active else 'inactive' }}">
+              {{ 'Active' if business.active else 'Unsubscribed' }}
+            </span>
+          </div>
+          <form method="POST" action="/business/{{ business.id }}/update" enctype="multipart/form-data" style="margin: -4px 0 16px; padding: 12px 18px; border: 1px solid var(--rule); border-top: none; border-radius: 0 0 4px 4px; display: grid; gap: 8px;">
+            <label style="font-size: 13px;">Replace file: <input type="file" name="file" accept=".csv" style="font-size: 13px;"></label>
+            <label style="font-size: 13px;">Or paste a live link (e.g. a published Google Sheet CSV export): <input type="text" name="link" placeholder="https://..." style="width: 100%; font-size: 13px; padding: 6px 8px; border: 1px solid var(--rule); border-radius: 3px;"></label>
+            <button type="submit" style="justify-self: start; padding: 7px 14px; font-size: 13px;">Update data source</button>
+          </form>
+        {% endfor %}
+      {% else %}
+        <p class="empty">No businesses added yet — add your first one below.</p>
+      {% endif %}
+
+      <div class="add-form">
+        <h2>Add a business</h2>
+        <form method="POST" action="/add-business" enctype="multipart/form-data">
+          <div class="field">
+            <label for="name">Business name</label>
+            <input type="text" name="name" id="name" required>
+          </div>
+          <div class="field">
+            <label for="recipient_email">Send reports to</label>
+            <input type="email" name="recipient_email" id="recipient_email" value="{{ current_user.email }}" required>
+          </div>
+          <div class="field">
+            <label for="file">Sales file (.csv)</label>
+            <input type="file" name="file" id="file" accept=".csv">
+          </div>
+          <div class="field">
+            <label for="link">...or a live link instead (published Google Sheet CSV export)</label>
+            <input type="text" name="link" id="link" placeholder="https://...">
+          </div>
+          <button type="submit">Add business</button>
+        </form>
+      </div>
+    </main>
+  </div>
+</body>
+</html>

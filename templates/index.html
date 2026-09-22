@@ -1,0 +1,301 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Jhaily — Monthly reports for your business</title>
+<style>
+  :root {
+    --paper: #FAF9F4;
+    --ink: #1E2A3A;
+    --ink-soft: #4A5568;
+    --green: #3C6E52;
+    --green-dark: #2C5140;
+    --brass: #B8863A;
+    --rule: #DAD5C7;
+  }
+
+  * { box-sizing: border-box; }
+
+  body {
+    margin: 0;
+    background: var(--paper);
+    color: var(--ink);
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    line-height: 1.55;
+  }
+
+  h1, h2, .wordmark {
+    font-family: Georgia, "Times New Roman", serif;
+    font-weight: 400;
+    color: var(--ink);
+  }
+
+  .wrap {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 0 24px;
+  }
+
+  header {
+    padding: 28px 0 24px;
+    border-bottom: 1px solid var(--rule);
+  }
+
+  .wordmark {
+    font-size: 22px;
+    letter-spacing: 0.02em;
+  }
+
+  .wordmark span {
+    color: var(--green);
+  }
+
+  .hero {
+    padding: 56px 0 40px;
+  }
+
+  .hero h1 {
+    font-size: 40px;
+    line-height: 1.15;
+    max-width: 15ch;
+    margin: 0 0 18px;
+  }
+
+  .hero p {
+    font-size: 17px;
+    color: var(--ink-soft);
+    max-width: 46ch;
+    margin: 0 0 32px;
+  }
+
+  /* --- mock report preview: a tangible glimpse of the real output --- */
+  .report-preview {
+    background: white;
+    border: 1px solid var(--rule);
+    border-radius: 3px;
+    padding: 22px 24px;
+    max-width: 420px;
+    box-shadow: 0 1px 0 var(--rule);
+  }
+
+  .report-preview .label {
+    font-size: 12px;
+    color: var(--ink-soft);
+    margin-bottom: 4px;
+  }
+
+  .report-preview .figure {
+    font-family: Georgia, serif;
+    font-size: 28px;
+    margin: 0 0 2px;
+  }
+
+  .report-preview .delta {
+    color: var(--brass);
+    font-size: 14px;
+    font-weight: 600;
+  }
+
+  .report-preview .bars {
+    display: flex;
+    align-items: flex-end;
+    gap: 8px;
+    height: 60px;
+    margin: 18px 0 6px;
+  }
+
+  .report-preview .bars div {
+    background: var(--green);
+    flex: 1;
+    border-radius: 2px 2px 0 0;
+  }
+
+  section {
+    padding: 40px 0;
+    border-bottom: 1px solid var(--rule);
+  }
+
+  section:last-of-type { border-bottom: none; }
+
+  .steps {
+    list-style: none;
+    margin: 24px 0 0;
+    padding: 0;
+    display: grid;
+    gap: 22px;
+  }
+
+  .steps li {
+    display: flex;
+    gap: 16px;
+    align-items: baseline;
+  }
+
+  .steps .num {
+    font-family: Georgia, serif;
+    font-size: 20px;
+    color: var(--green);
+    width: 1.4em;
+    flex-shrink: 0;
+  }
+
+  .steps h3 {
+    margin: 0 0 3px;
+    font-size: 16px;
+    font-weight: 600;
+  }
+
+  .steps p {
+    margin: 0;
+    color: var(--ink-soft);
+    font-size: 15px;
+  }
+
+  form {
+    margin-top: 24px;
+    display: grid;
+    gap: 14px;
+    max-width: 420px;
+  }
+
+  label {
+    font-size: 14px;
+    color: var(--ink-soft);
+  }
+
+  .field {
+    display: grid;
+    gap: 6px;
+  }
+
+  input[type="file"],
+  input[type="email"] {
+    font-size: 15px;
+    padding: 11px 12px;
+    border: 1px solid var(--rule);
+    border-radius: 3px;
+    background: white;
+    color: var(--ink);
+    font-family: inherit;
+  }
+
+  input[type="email"]:focus,
+  input[type="file"]:focus {
+    outline: 2px solid var(--green);
+    outline-offset: 1px;
+  }
+
+  button {
+    justify-self: start;
+    background: var(--green);
+    color: white;
+    border: none;
+    padding: 12px 22px;
+    border-radius: 3px;
+    font-size: 15px;
+    font-family: inherit;
+    cursor: pointer;
+    transition: background 0.15s ease;
+  }
+
+  button:hover { background: var(--green-dark); }
+  button:focus-visible { outline: 2px solid var(--ink); outline-offset: 2px; }
+
+  .fine-print {
+    font-size: 13px;
+    color: var(--ink-soft);
+    margin-top: 12px;
+  }
+
+  footer {
+    padding: 28px 0 48px;
+    font-size: 14px;
+    color: var(--ink-soft);
+  }
+
+  footer a { color: var(--green); }
+
+  @media (max-width: 520px) {
+    .hero h1 { font-size: 32px; }
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    button { transition: none; }
+  }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <header>
+      <div class="wordmark">Jhai<span>ly</span></div>
+    </header>
+
+    <section class="hero">
+      <h1>A monthly report on your business, without the spreadsheet.</h1>
+      <p>Upload your sales file once. Every month after, we clean it up, work out what actually changed, and email you a report — no dashboard to check, nothing to remember.</p>
+
+      <div class="report-preview" aria-hidden="true">
+        <div class="label">Revenue — April</div>
+        <div class="figure">$2,408.55</div>
+        <div class="delta">−2.1% from March</div>
+        <div class="bars">
+          <div style="height: 90%"></div>
+          <div style="height: 68%"></div>
+          <div style="height: 72%"></div>
+          <div style="height: 66%"></div>
+        </div>
+      </div>
+    </section>
+
+    <section>
+      <h2 style="font-size: 22px; margin: 0;">How it works</h2>
+      <ol class="steps">
+        <li>
+          <span class="num">1</span>
+          <div>
+            <h3>Upload your sales file</h3>
+            <p>A CSV export from your register or point-of-sale system. Messy is fine — we handle missing prices, odd date formats, and duplicates automatically.</p>
+          </div>
+        </li>
+        <li>
+          <span class="num">2</span>
+          <div>
+            <h3>We work out what matters</h3>
+            <p>Revenue trend, your best-selling item, and which days are busiest — the things worth knowing, not a wall of numbers.</p>
+          </div>
+        </li>
+        <li>
+          <span class="num">3</span>
+          <div>
+            <h3>A report lands in your inbox monthly</h3>
+            <p>Automatically, on the 1st. Nothing to log into.</p>
+          </div>
+        </li>
+      </ol>
+    </section>
+
+    <section>
+      <h2 style="font-size: 22px; margin: 0 0 4px;">Get your first report</h2>
+      <p style="color: var(--ink-soft); margin: 0;">Upload a sales file and where to send the report.</p>
+
+      <form method="POST" enctype="multipart/form-data" action="/">
+        <div class="field">
+          <label for="file">Sales file (.csv)</label>
+          <input type="file" name="file" id="file" accept=".csv" required>
+        </div>
+        <div class="field">
+          <label for="email">Where should we send it?</label>
+          <input type="email" name="email" id="email" placeholder="you@yourbusiness.com" required>
+        </div>
+        <button type="submit">Send my report</button>
+      </form>
+      <p class="fine-print">Your file is processed once and then deleted. We never share your data.</p>
+    </section>
+
+    <footer>
+      Questions or something not working? Email <a href="mailto:support@jhaily.app">support@jhaily.app</a> and we'll help you sort it out.
+    </footer>
+  </div>
+</body>
+</html>
