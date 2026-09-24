@@ -7,3 +7,6 @@ python-dateutil
 matplotlib
 APScheduler
 xhtml2pdf
+psycopg2-binary
+gunicorn
+boto3

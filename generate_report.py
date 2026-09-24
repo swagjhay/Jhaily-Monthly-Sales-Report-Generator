@@ -11,6 +11,7 @@ matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 from matplotlib.ticker import FuncFormatter
 from xhtml2pdf import pisa
+from storage import resolve_readable_path
 
 
 def generate_and_send_report(sales_file, recipient_email, unsubscribe_token=None):
@@ -19,7 +20,8 @@ def generate_and_send_report(sales_file, recipient_email, unsubscribe_token=None
   chart_path = f"revenue_chart_{run_id}.png"
   pdf_path = f"report_{run_id}.pdf"
 
-  df = pd.read_csv(sales_file)
+  readable_path = resolve_readable_path(sales_file)
+  df = pd.read_csv(readable_path)
   required_columns = {"date", "item", "quantity", "unit_price"}
   missing = required_columns - set(df.columns)
   if missing:
@@ -150,19 +152,36 @@ You had ${abs(latest_refund_total):.2f} in refunds this month, about {latest_ref
     server.send_message(msg)
 
 
-if __name__ == "__main__":
-  from apscheduler.schedulers.blocking import BlockingScheduler
+def run_all_active_businesses():
+  """
+  Runs the monthly report for every active business. Used both by the
+  HTTP-triggered endpoint (production, via GitHub Actions) and optionally
+  by the local BlockingScheduler below (for local testing).
+  Returns a summary dict rather than just printing, so callers (like a
+  Flask route) can report something useful back.
+  """
   from extensions import app
   from models import Business
 
-  def run_all_active_businesses():
-    with app.app_context():
-      active_businesses = Business.query.filter_by(active=True).all()
-      for business in active_businesses:
-        try:
-          generate_and_send_report(business.sales_file_path, business.recipient_email, business.unsubscribe_token)
-        except Exception as e:
-          print(f"Failed to send report for business {business.id} ({business.name}): {e}")
+  results = {"succeeded": [], "failed": []}
+  with app.app_context():
+    active_businesses = Business.query.filter_by(active=True).all()
+    for business in active_businesses:
+      try:
+        generate_and_send_report(business.sales_file_path, business.recipient_email, business.unsubscribe_token)
+        results["succeeded"].append(business.id)
+      except Exception as e:
+        print(f"Failed to send report for business {business.id} ({business.name}): {e}")
+        results["failed"].append({"id": business.id, "name": business.name, "error": str(e)})
+  return results
+
+
+if __name__ == "__main__":
+  # Only used for local manual testing of the scheduling mechanism itself.
+  # In production (Render), the monthly run is triggered via the
+  # /run-monthly-reports HTTP endpoint instead, called by a GitHub Actions
+  # scheduled workflow -- see app.py and .github/workflows/monthly-reports.yml.
+  from apscheduler.schedulers.blocking import BlockingScheduler
 
   scheduler = BlockingScheduler()
   scheduler.add_job(run_all_active_businesses, "cron", day=1, hour=8)

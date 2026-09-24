@@ -1,14 +1,16 @@
 import os
 import uuid
 import threading
+import hmac
 
-from flask import render_template, request, redirect, url_for, flash
+from flask import render_template, request, redirect, url_for, flash, jsonify
 from flask_login import login_required, current_user, login_user, logout_user
 from werkzeug.utils import secure_filename
 
 from extensions import app, db, login_manager
 from models import User, Business
-from generate_report import generate_and_send_report
+from generate_report import generate_and_send_report, run_all_active_businesses
+from storage import upload_file_to_r2, delete_file_from_r2
 
 
 @app.route("/")
@@ -74,17 +76,14 @@ def dashboard():
     return render_template("dashboard.html", businesses=current_user.businesses)
 
 
-def _is_local_upload(path_or_url):
-    """True if this sales_file_path is one of our own saved uploads (not a live link)."""
-    return path_or_url.startswith(app.config["UPLOAD_FOLDER"])
+def _is_r2_upload(path_or_url):
+    return path_or_url.startswith("r2:")
 
 
 def _save_uploaded_file(uploaded_file):
     safe_name = secure_filename(uploaded_file.filename)
-    unique_filename = f"{uuid.uuid4()}_{safe_name}"
-    save_path = os.path.join(app.config["UPLOAD_FOLDER"], unique_filename)
-    uploaded_file.save(save_path)
-    return save_path
+    unique_key = f"{uuid.uuid4()}_{safe_name}"
+    return upload_file_to_r2(uploaded_file, unique_key)
 
 
 @app.route("/add-business", methods=["POST"])
@@ -149,13 +148,13 @@ def update_business(business_id):
     if uploaded_file and uploaded_file.filename:
         old_path = business.sales_file_path
         business.sales_file_path = _save_uploaded_file(uploaded_file)
-        if _is_local_upload(old_path) and os.path.exists(old_path):
-            os.remove(old_path)
+        if _is_r2_upload(old_path):
+            delete_file_from_r2(old_path[len("r2:"):])
     elif link:
         old_path = business.sales_file_path
         business.sales_file_path = link
-        if _is_local_upload(old_path) and os.path.exists(old_path):
-            os.remove(old_path)
+        if _is_r2_upload(old_path):
+            delete_file_from_r2(old_path[len("r2:"):])
     else:
         flash("Please upload a file or paste a link to update.", "error")
         return redirect(url_for("dashboard"))
@@ -174,6 +173,26 @@ def unsubscribe(token):
     business.active = False
     db.session.commit()
     return render_template("unsubscribed.html", found=True, business_name=business.name)
+
+
+@app.route("/run-monthly-reports", methods=["POST"])
+def run_monthly_reports():
+    # Not login-protected -- this is called by GitHub Actions, not a logged-in
+    # user. Instead, it's protected by a shared secret that only we and the
+    # GitHub Actions workflow know, checked with a timing-safe comparison
+    # (hmac.compare_digest) so an attacker can't guess it faster via timing.
+    provided_secret = request.headers.get("X-Scheduler-Secret", "")
+    real_secret = os.environ["SCHEDULER_SECRET"]
+
+    if not hmac.compare_digest(provided_secret, real_secret):
+        return jsonify({"error": "unauthorized"}), 403
+
+    results = run_all_active_businesses()
+    return jsonify({
+        "succeeded_count": len(results["succeeded"]),
+        "failed_count": len(results["failed"]),
+        "failed": results["failed"],
+    })
 
 
 if __name__ == "__main__":

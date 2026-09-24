@@ -7,7 +7,18 @@ from models import db, User
 load_dotenv()
 
 app = Flask(__name__)
-app.config["SQLALCHEMY_DATABASE_URI"] = "sqlite:///jhaily.db"
+
+# In production (Render), DATABASE_URL will be set to a real Postgres connection
+# string (e.g. from Neon). Locally, with no DATABASE_URL set, this falls back to
+# the same SQLite file you've been developing against all along -- no extra
+# setup needed for day-to-day local coding.
+database_url = os.environ.get("DATABASE_URL", "sqlite:///jhaily.db")
+# Some providers (Neon included) hand out a "postgres://" URL, but SQLAlchemy
+# 1.4+ requires "postgresql://" -- normalize it so either form works.
+if database_url.startswith("postgres://"):
+    database_url = database_url.replace("postgres://", "postgresql://", 1)
+app.config["SQLALCHEMY_DATABASE_URI"] = database_url
+
 app.config["SECRET_KEY"] = os.environ["SECRET_KEY"]
 app.config["UPLOAD_FOLDER"] = os.path.join(os.path.dirname(os.path.abspath(__file__)), "uploads")
 os.makedirs(app.config["UPLOAD_FOLDER"], exist_ok=True)
