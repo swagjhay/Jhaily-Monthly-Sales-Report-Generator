@@ -146,7 +146,7 @@ You had ${abs(latest_refund_total):.2f} in refunds this month, about {latest_ref
   gmail_user = os.environ["GMAIL_SENDER"]
   gmail_password = os.environ["GMAIL_APP_PASSWORD"]
 
-  with smtplib.SMTP("smtp.gmail.com", 587) as server:
+  with smtplib.SMTP("smtp.gmail.com", 587, timeout=20) as server:
     server.starttls()
     server.login(gmail_user, gmail_password)
     server.send_message(msg)
