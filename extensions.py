@@ -17,7 +17,10 @@ database_url = os.environ.get("DATABASE_URL", "sqlite:///jhaily.db")
 # 1.4+ requires "postgresql://" -- normalize it so either form works.
 if database_url.startswith("postgres://"):
     database_url = database_url.replace("postgres://", "postgresql://", 1)
-app.config["SQLALCHEMY_DATABASE_URI"] = database_url
+app.config["SQLALCHEMY_ENGINE_OPTIONS"] = {
+    "pool_pre_ping": True,
+    "pool_recycle": 280,
+}
 
 app.config["SECRET_KEY"] = os.environ["SECRET_KEY"]
 app.config["UPLOAD_FOLDER"] = os.path.join(os.path.dirname(os.path.abspath(__file__)), "uploads")
