@@ -84,7 +84,8 @@ You had ${abs(latest_refund_total):.2f} in refunds this month, about {latest_ref
 
   unsubscribe_html = ""
   if unsubscribe_token:
-    unsubscribe_html = f'<p style="font-size:12px; color:#4A5568;">Don\'t want these emails? <a href="https://jhaily.app/unsubscribe/{unsubscribe_token}">Unsubscribe</a>.</p>'
+    app_base_url = os.environ.get("APP_BASE_URL", "http://127.0.0.1:5000")
+    unsubscribe_html = f'<p style="font-size:12px; color:#4A5568;">Don\'t want these emails? <a href="{app_base_url}/unsubscribe/{unsubscribe_token}">Unsubscribe</a>.</p>'
 
   html_body = f"""
     <html><body style="font-family: Arial, sans-serif; color: #1E2A3A; max-width: 480px; margin: 0 auto;">
@@ -146,7 +147,7 @@ You had ${abs(latest_refund_total):.2f} in refunds this month, about {latest_ref
   gmail_user = os.environ["GMAIL_SENDER"]
   gmail_password = os.environ["GMAIL_APP_PASSWORD"]
 
-  with smtplib.SMTP("smtp.gmail.com", 587, timeout=20) as server:
+  with smtplib.SMTP("smtp.gmail.com", 587) as server:
     server.starttls()
     server.login(gmail_user, gmail_password)
     server.send_message(msg)
